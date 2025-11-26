@@ -1,0 +1,2 @@
+- pkg:nuget/AwsLambda.Host.OpenTelemetry@0.0.2-alpha.3
+- pkg:nuget/AwsLambda.Host.OpenTelemetry@1.0.0
