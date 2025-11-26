@@ -39,3 +39,4 @@
 - pkg:nuget/BlueBlazor@4.5.6
 - pkg:nuget/BlueBlazor@4.5.7
 - pkg:nuget/BlueBlazor@4.8.0
+- pkg:nuget/BlueBlazor@5.0.0
