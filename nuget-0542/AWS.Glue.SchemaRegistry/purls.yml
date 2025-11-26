@@ -1,0 +1,2 @@
+- pkg:nuget/AWS.Glue.SchemaRegistry@1.0.0-linux-x64-beta
+- pkg:nuget/AWS.Glue.SchemaRegistry@1.0.1-linux-musl-x64
