@@ -1,4 +1,5 @@
 - pkg:nuget/PingDong.Core@1.0.0
+- pkg:nuget/PingDong.Core@10.0.5
 - pkg:nuget/PingDong.Core@3.0.0
 - pkg:nuget/PingDong.Core@9.0.0
 - pkg:nuget/PingDong.Core@9.0.1
