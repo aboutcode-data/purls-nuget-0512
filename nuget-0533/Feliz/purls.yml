@@ -205,4 +205,5 @@
 - pkg:nuget/Feliz@2.8.0
 - pkg:nuget/Feliz@2.8.0-beta.0
 - pkg:nuget/Feliz@2.9.0
+- pkg:nuget/Feliz@3.0.0-rc.13
 - pkg:nuget/Feliz@3.0.0-rc.2
