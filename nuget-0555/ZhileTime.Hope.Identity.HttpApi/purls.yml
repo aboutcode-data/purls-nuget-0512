@@ -134,3 +134,4 @@
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi@5.5.1
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi@5.8.2
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi@6.0.2
+- pkg:nuget/ZhileTime.Hope.Identity.HttpApi@6.0.5
