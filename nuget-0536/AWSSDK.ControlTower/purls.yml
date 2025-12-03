@@ -590,6 +590,7 @@
 - pkg:nuget/AWSSDK.ControlTower@3.7.500.8
 - pkg:nuget/AWSSDK.ControlTower@3.7.500.9
 - pkg:nuget/AWSSDK.ControlTower@3.7.502.3
+- pkg:nuget/AWSSDK.ControlTower@3.7.503.2
 - pkg:nuget/AWSSDK.ControlTower@4.0.0
 - pkg:nuget/AWSSDK.ControlTower@4.0.0-preview
 - pkg:nuget/AWSSDK.ControlTower@4.0.0-preview.10

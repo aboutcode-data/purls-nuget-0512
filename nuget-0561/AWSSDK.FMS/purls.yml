@@ -1075,6 +1075,7 @@
 - pkg:nuget/AWSSDK.FMS@3.7.501.9
 - pkg:nuget/AWSSDK.FMS@3.7.502.5
 - pkg:nuget/AWSSDK.FMS@3.7.502.7
+- pkg:nuget/AWSSDK.FMS@3.7.502.9
 - pkg:nuget/AWSSDK.FMS@3.7.6
 - pkg:nuget/AWSSDK.FMS@3.7.6.1
 - pkg:nuget/AWSSDK.FMS@3.7.6.10
