@@ -1,2 +1,4 @@
 - pkg:nuget/CounterpointCollective.ComposableDataflowBlocks@10.1.14
 - pkg:nuget/CounterpointCollective.ComposableDataflowBlocks@10.1.16
+- pkg:nuget/CounterpointCollective.ComposableDataflowBlocks@10.1.41
+- pkg:nuget/CounterpointCollective.ComposableDataflowBlocks@10.1.42

@@ -1,1 +1,12 @@
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.0.1-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.0.2-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.0.7-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.1.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.2.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.3.0-alpha
 - pkg:nuget/Convex.Client.Extensions.Clerk@0.3.1
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.4.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@0.4.1-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@1.0.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@2.0.0-alpha
+- pkg:nuget/Convex.Client.Extensions.Clerk@3.0.0-alpha
