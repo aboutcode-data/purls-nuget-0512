@@ -2,6 +2,7 @@
 - pkg:nuget/Bit.BlazorES2019@0.0.1
 - pkg:nuget/Bit.BlazorES2019@0.0.2
 - pkg:nuget/Bit.BlazorES2019@10.0.0-pre-01
+- pkg:nuget/Bit.BlazorES2019@10.2.0
 - pkg:nuget/Bit.BlazorES2019@9.10.0
 - pkg:nuget/Bit.BlazorES2019@9.10.0-pre-01
 - pkg:nuget/Bit.BlazorES2019@9.11.0
