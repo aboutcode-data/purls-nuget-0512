@@ -48,3 +48,4 @@
 - pkg:nuget/CreativeCoders.NukeBuild@4.4.0
 - pkg:nuget/CreativeCoders.NukeBuild@4.5.0
 - pkg:nuget/CreativeCoders.NukeBuild@4.6.0
+- pkg:nuget/CreativeCoders.NukeBuild@5.1.0
