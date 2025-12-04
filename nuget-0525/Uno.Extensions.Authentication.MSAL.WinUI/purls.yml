@@ -560,3 +560,4 @@
 - pkg:nuget/Uno.Extensions.Authentication.MSAL.WinUI@6.3.0-dev.5
 - pkg:nuget/Uno.Extensions.Authentication.MSAL.WinUI@7.0.4
 - pkg:nuget/Uno.Extensions.Authentication.MSAL.WinUI@7.1.0-dev.12
+- pkg:nuget/Uno.Extensions.Authentication.MSAL.WinUI@7.1.0-dev.47
