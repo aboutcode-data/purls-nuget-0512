@@ -201,6 +201,7 @@
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.5
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.56
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.6
+- pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.64-beta11
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.7
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.8
 - pkg:nuget/Parlem.Provisioning.CableMovil.Facade@8.0.9
