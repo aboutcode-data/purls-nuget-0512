@@ -24,3 +24,4 @@
 - pkg:nuget/dotnet-suggest@2.0.0
 - pkg:nuget/dotnet-suggest@2.0.0-beta7.25380.108
 - pkg:nuget/dotnet-suggest@2.0.0-rc.1.25451.107
+- pkg:nuget/dotnet-suggest@2.0.1
