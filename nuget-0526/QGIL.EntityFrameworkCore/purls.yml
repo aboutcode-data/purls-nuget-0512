@@ -88,6 +88,7 @@
 - pkg:nuget/QGIL.EntityFrameworkCore@10.4.1
 - pkg:nuget/QGIL.EntityFrameworkCore@10.4.2
 - pkg:nuget/QGIL.EntityFrameworkCore@10.4.3
+- pkg:nuget/QGIL.EntityFrameworkCore@10.4.6
 - pkg:nuget/QGIL.EntityFrameworkCore@2.0.0
 - pkg:nuget/QGIL.EntityFrameworkCore@2.0.1
 - pkg:nuget/QGIL.EntityFrameworkCore@2.0.2
