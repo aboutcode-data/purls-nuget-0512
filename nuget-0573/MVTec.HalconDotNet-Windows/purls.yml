@@ -11,6 +11,7 @@
 - pkg:nuget/MVTec.HalconDotNet-Windows@22111.0.0
 - pkg:nuget/MVTec.HalconDotNet-Windows@22112.0.0
 - pkg:nuget/MVTec.HalconDotNet-Windows@22113.0.0
+- pkg:nuget/MVTec.HalconDotNet-Windows@22114.0.0
 - pkg:nuget/MVTec.HalconDotNet-Windows@23050.0.0
 - pkg:nuget/MVTec.HalconDotNet-Windows@23110.0.0
 - pkg:nuget/MVTec.HalconDotNet-Windows@24050.0.0
