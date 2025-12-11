@@ -20,3 +20,4 @@
 - pkg:nuget/GitHub.Actions.Glob@8.1.0
 - pkg:nuget/GitHub.Actions.Glob@8.1.1
 - pkg:nuget/GitHub.Actions.Glob@9.0.0
+- pkg:nuget/GitHub.Actions.Glob@9.0.1-alpha.0.5
