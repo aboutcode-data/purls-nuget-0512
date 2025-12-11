@@ -1,3 +1,4 @@
+- pkg:nuget/IEvangelist.Azure.CosmosRepository@0.0.0-alpha.0
 - pkg:nuget/IEvangelist.Azure.CosmosRepository@0.0.1-preview
 - pkg:nuget/IEvangelist.Azure.CosmosRepository@0.0.2-preview
 - pkg:nuget/IEvangelist.Azure.CosmosRepository@1.0.0
