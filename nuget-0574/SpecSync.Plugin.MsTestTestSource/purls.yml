@@ -1,2 +1,3 @@
 - pkg:nuget/SpecSync.Plugin.MsTestTestSource@1.0.0
 - pkg:nuget/SpecSync.Plugin.MsTestTestSource@1.0.1
+- pkg:nuget/SpecSync.Plugin.MsTestTestSource@5.0.0
