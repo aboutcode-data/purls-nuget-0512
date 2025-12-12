@@ -65,4 +65,5 @@
 - pkg:nuget/Ditto.Native.iOS@4.9.3-rc.1
 - pkg:nuget/Ditto.Native.iOS@4.9.4
 - pkg:nuget/Ditto.Native.iOS@4.9.4-rc.1
+- pkg:nuget/Ditto.Native.iOS@5.0.0-experimental-gha-sdk-publish-test.24
 - pkg:nuget/Ditto.Native.iOS@5.0.0-experimental-kmp-publishing.3

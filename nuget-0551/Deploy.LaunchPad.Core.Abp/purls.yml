@@ -64,6 +64,7 @@
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.2.5
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.20.0
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.21.0
+- pkg:nuget/Deploy.LaunchPad.Core.Abp@10.22.4
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.4.0
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.5.0
 - pkg:nuget/Deploy.LaunchPad.Core.Abp@10.5.3
