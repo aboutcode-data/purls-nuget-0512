@@ -1,1 +1,2 @@
 - pkg:nuget/EndpointTracker.AspNetCore@1.0.0
+- pkg:nuget/EndpointTracker.AspNetCore@1.0.2
