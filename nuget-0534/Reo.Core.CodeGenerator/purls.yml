@@ -2094,6 +2094,7 @@
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.740
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.746
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.747
+- pkg:nuget/Reo.Core.CodeGenerator@8.0.749
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.75
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.76
 - pkg:nuget/Reo.Core.CodeGenerator@8.0.77
