@@ -1,5 +1,6 @@
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@10.0.2-preview.0.2
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@10.0.2-preview.0.3
+- pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@10.0.2-preview.0.8
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@9.0.1-preview.0.145
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@9.0.1-preview.0.146
 - pkg:nuget/BridgingIT.DevKit.Infrastructure.Windows@9.0.1-preview.0.147
