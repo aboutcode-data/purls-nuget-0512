@@ -487,6 +487,8 @@
 - pkg:nuget/GuoKun.CPS@2025.10.11-perview-16
 - pkg:nuget/GuoKun.CPS@2025.10.11-perview-18
 - pkg:nuget/GuoKun.CPS@2025.10.11-perview-19
+- pkg:nuget/GuoKun.CPS@2025.12.16-oracle
+- pkg:nuget/GuoKun.CPS@2025.12.16-oracle-perview-01
 - pkg:nuget/GuoKun.CPS@2025.2.1
 - pkg:nuget/GuoKun.CPS@2025.2.2
 - pkg:nuget/GuoKun.CPS@2025.2.3
