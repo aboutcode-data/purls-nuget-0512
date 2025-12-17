@@ -21,6 +21,7 @@
 - pkg:nuget/DPI@2024.9.25.81
 - pkg:nuget/DPI@2025.1.19.88
 - pkg:nuget/DPI@2025.1.20.90
+- pkg:nuget/DPI@2025.12.17.349
 - pkg:nuget/DPI@2025.2.12.119
 - pkg:nuget/DPI@2025.3.13.140
 - pkg:nuget/DPI@2025.4.10.164
