@@ -8,6 +8,7 @@
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@10.0.0-preview.8
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@10.0.1
+- pkg:nuget/Paramore.Brighter.Inbox.Postgres@10.0.5
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@9.0.1
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@9.0.1-beta.1
 - pkg:nuget/Paramore.Brighter.Inbox.Postgres@9.0.1-beta.2

@@ -8,6 +8,7 @@
 - pkg:nuget/Paramore.Brighter.Archive.Azure@10.0.0-preview.8
 - pkg:nuget/Paramore.Brighter.Archive.Azure@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.Archive.Azure@10.0.1
+- pkg:nuget/Paramore.Brighter.Archive.Azure@10.0.5
 - pkg:nuget/Paramore.Brighter.Archive.Azure@9.4.1
 - pkg:nuget/Paramore.Brighter.Archive.Azure@9.4.2
 - pkg:nuget/Paramore.Brighter.Archive.Azure@9.4.3
