@@ -1,4 +1,5 @@
 - pkg:nuget/Elvia.Edna.Events.Cli@10.0.1-preview.1-2
+- pkg:nuget/Elvia.Edna.Events.Cli@11.10.0-beta8
 - pkg:nuget/Elvia.Edna.Events.Cli@2.0.0
 - pkg:nuget/Elvia.Edna.Events.Cli@2.0.0-beta10
 - pkg:nuget/Elvia.Edna.Events.Cli@2.0.0-beta11
