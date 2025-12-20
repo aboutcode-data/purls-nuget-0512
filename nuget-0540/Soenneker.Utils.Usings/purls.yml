@@ -57,6 +57,7 @@
 - pkg:nuget/Soenneker.Utils.Usings@3.0.64
 - pkg:nuget/Soenneker.Utils.Usings@3.0.7
 - pkg:nuget/Soenneker.Utils.Usings@3.0.9
+- pkg:nuget/Soenneker.Utils.Usings@4.0.105
 - pkg:nuget/Soenneker.Utils.Usings@4.0.70
 - pkg:nuget/Soenneker.Utils.Usings@4.0.73
 - pkg:nuget/Soenneker.Utils.Usings@4.0.75
