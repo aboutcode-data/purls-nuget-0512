@@ -99,3 +99,4 @@
 - pkg:nuget/VirtoCommerce.Xapi.Core@3.925.0-alpha.122-vcst-3865-extracted-reusable-code
 - pkg:nuget/VirtoCommerce.Xapi.Core@3.926.0
 - pkg:nuget/VirtoCommerce.Xapi.Core@3.927.0-alpha.128-vcps-catch-websocketexception
+- pkg:nuget/VirtoCommerce.Xapi.Core@3.930.0
