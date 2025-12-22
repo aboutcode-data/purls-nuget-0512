@@ -37,3 +37,4 @@
 - pkg:nuget/ClearTools@3.0.7-preview1
 - pkg:nuget/ClearTools@3.0.9
 - pkg:nuget/ClearTools@3.1.0
+- pkg:nuget/ClearTools@3.2.0
