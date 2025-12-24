@@ -320,3 +320,4 @@
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatR@8.0.749
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatR@8.0.763
 - pkg:nuget/Reo.Core.Application.Abstractions.MediatR@8.0.764
+- pkg:nuget/Reo.Core.Application.Abstractions.MediatR@8.0.783
