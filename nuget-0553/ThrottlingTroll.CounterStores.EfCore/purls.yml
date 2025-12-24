@@ -9,3 +9,4 @@
 - pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta1
 - pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta2
 - pkg:nuget/ThrottlingTroll.CounterStores.EfCore@8.0.0-beta3
+- pkg:nuget/ThrottlingTroll.CounterStores.EfCore@9.0.0
