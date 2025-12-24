@@ -10,6 +10,7 @@
 - pkg:nuget/MarkMpn.SQL4CDS@1.0.9
 - pkg:nuget/MarkMpn.SQL4CDS@10.0.0
 - pkg:nuget/MarkMpn.SQL4CDS@10.1.0
+- pkg:nuget/MarkMpn.SQL4CDS@10.2.0
 - pkg:nuget/MarkMpn.SQL4CDS@2.0.0
 - pkg:nuget/MarkMpn.SQL4CDS@2.0.1
 - pkg:nuget/MarkMpn.SQL4CDS@2.1.0
