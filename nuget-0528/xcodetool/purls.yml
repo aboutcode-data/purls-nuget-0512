@@ -155,6 +155,7 @@
 - pkg:nuget/xcodetool@11.20.2025.1108-beta0939
 - pkg:nuget/xcodetool@11.20.2025.1112
 - pkg:nuget/xcodetool@11.20.2025.1112-beta1825
+- pkg:nuget/xcodetool@11.20.2025.1226-beta0601
 - pkg:nuget/xcodetool@11.20.2025.801
 - pkg:nuget/xcodetool@11.20.2025.801-beta0233
 - pkg:nuget/xcodetool@11.20.2025.817-beta1750
