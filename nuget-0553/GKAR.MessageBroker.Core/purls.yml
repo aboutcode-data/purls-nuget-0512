@@ -22,3 +22,4 @@
 - pkg:nuget/GKAR.MessageBroker.Core@3.3.0
 - pkg:nuget/GKAR.MessageBroker.Core@3.4.0
 - pkg:nuget/GKAR.MessageBroker.Core@3.5.0
+- pkg:nuget/GKAR.MessageBroker.Core@3.9.0
