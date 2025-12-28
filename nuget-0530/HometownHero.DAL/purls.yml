@@ -163,6 +163,7 @@
 - pkg:nuget/HometownHero.DAL@8.10.2
 - pkg:nuget/HometownHero.DAL@8.10.23
 - pkg:nuget/HometownHero.DAL@8.12.1
+- pkg:nuget/HometownHero.DAL@8.12.5
 - pkg:nuget/HometownHero.DAL@8.2.0
 - pkg:nuget/HometownHero.DAL@8.2.1
 - pkg:nuget/HometownHero.DAL@8.2.2
