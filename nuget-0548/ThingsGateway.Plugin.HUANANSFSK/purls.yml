@@ -354,6 +354,7 @@
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@10.9.99
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@12.4.10
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@12.4.18
+- pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@12.4.20
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@12.4.8
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@9.0.1.21
 - pkg:nuget/ThingsGateway.Plugin.HUANANSFSK@9.0.1.5
