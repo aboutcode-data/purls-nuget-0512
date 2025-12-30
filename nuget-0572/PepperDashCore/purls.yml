@@ -403,6 +403,7 @@
 - pkg:nuget/PepperDashCore@2.20.2-theme-saving.1
 - pkg:nuget/PepperDashCore@2.20.5-mc-subscription-logging.1
 - pkg:nuget/PepperDashCore@2.24.2
+- pkg:nuget/PepperDashCore@2.24.4-fusion-room-name.2
 - pkg:nuget/PepperDashCore@2.24.4-mc-connection-issues.2
 - pkg:nuget/PepperDashCore@2.25.0-udmCws.1
 - pkg:nuget/PepperDashCore@2.25.0-udmCws.6
