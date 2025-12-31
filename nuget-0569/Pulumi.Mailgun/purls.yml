@@ -422,3 +422,4 @@
 - pkg:nuget/Pulumi.Mailgun@3.6.0-alpha.1758954663
 - pkg:nuget/Pulumi.Mailgun@3.6.0-alpha.1759213409
 - pkg:nuget/Pulumi.Mailgun@3.7.0-alpha.1763706544
+- pkg:nuget/Pulumi.Mailgun@3.7.0-alpha.1767139711

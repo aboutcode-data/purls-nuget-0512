@@ -332,6 +332,7 @@
 - pkg:nuget/BlackMaple.MachineFramework@16.2.8
 - pkg:nuget/BlackMaple.MachineFramework@16.2.9
 - pkg:nuget/BlackMaple.MachineFramework@16.3.0
+- pkg:nuget/BlackMaple.MachineFramework@16.4.7
 - pkg:nuget/BlackMaple.MachineFramework@3.11.0
 - pkg:nuget/BlackMaple.MachineFramework@3.11.1
 - pkg:nuget/BlackMaple.MachineFramework@3.11.2
