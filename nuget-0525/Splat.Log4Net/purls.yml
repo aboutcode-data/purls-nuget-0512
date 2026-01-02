@@ -49,6 +49,7 @@
 - pkg:nuget/Splat.Log4Net@16.1.1
 - pkg:nuget/Splat.Log4Net@16.2.1
 - pkg:nuget/Splat.Log4Net@17.0.1
+- pkg:nuget/Splat.Log4Net@19.1.1
 - pkg:nuget/Splat.Log4Net@7.0.1
 - pkg:nuget/Splat.Log4Net@7.0.8
 - pkg:nuget/Splat.Log4Net@7.1.1
