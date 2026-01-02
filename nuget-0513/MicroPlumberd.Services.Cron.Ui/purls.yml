@@ -10,3 +10,4 @@
 - pkg:nuget/MicroPlumberd.Services.Cron.Ui@1.0.122.154
 - pkg:nuget/MicroPlumberd.Services.Cron.Ui@1.0.126.2
 - pkg:nuget/MicroPlumberd.Services.Cron.Ui@1.0.126.3
+- pkg:nuget/MicroPlumberd.Services.Cron.Ui@1.1.4
