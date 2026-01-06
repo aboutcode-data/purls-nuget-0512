@@ -275,6 +275,7 @@
 - pkg:nuget/Org.Cdk8s.Operator@0.1.374
 - pkg:nuget/Org.Cdk8s.Operator@0.1.382
 - pkg:nuget/Org.Cdk8s.Operator@0.1.384
+- pkg:nuget/Org.Cdk8s.Operator@0.1.398
 - pkg:nuget/Org.Cdk8s.Operator@0.1.69
 - pkg:nuget/Org.Cdk8s.Operator@0.1.70
 - pkg:nuget/Org.Cdk8s.Operator@0.1.71
