@@ -1066,3 +1066,4 @@
 - pkg:nuget/AWSSDK.ForecastQueryService@4.0.1.2
 - pkg:nuget/AWSSDK.ForecastQueryService@4.0.1.4
 - pkg:nuget/AWSSDK.ForecastQueryService@4.0.1.5
+- pkg:nuget/AWSSDK.ForecastQueryService@4.0.2.11

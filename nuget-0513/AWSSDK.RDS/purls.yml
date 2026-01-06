@@ -1290,6 +1290,7 @@
 - pkg:nuget/AWSSDK.RDS@3.7.509
 - pkg:nuget/AWSSDK.RDS@3.7.510
 - pkg:nuget/AWSSDK.RDS@3.7.511.1
+- pkg:nuget/AWSSDK.RDS@3.7.511.11
 - pkg:nuget/AWSSDK.RDS@3.7.511.4
 - pkg:nuget/AWSSDK.RDS@3.7.511.8
 - pkg:nuget/AWSSDK.RDS@3.7.6
