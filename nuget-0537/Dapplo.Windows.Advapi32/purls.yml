@@ -87,4 +87,5 @@
 - pkg:nuget/Dapplo.Windows.Advapi32@1.0.5
 - pkg:nuget/Dapplo.Windows.Advapi32@1.0.6
 - pkg:nuget/Dapplo.Windows.Advapi32@1.0.7
+- pkg:nuget/Dapplo.Windows.Advapi32@1.0.73
 - pkg:nuget/Dapplo.Windows.Advapi32@1.0.8
