@@ -27,6 +27,7 @@
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.0
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.1
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.12
+- pkg:nuget/Mal.Mdk2.PbPackager@2.1.14
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.2
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.2-alpha.2
 - pkg:nuget/Mal.Mdk2.PbPackager@2.1.3
