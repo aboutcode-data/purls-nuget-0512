@@ -59,3 +59,4 @@
 - pkg:nuget/TUnit.Assertions.FSharp@0.80.0
 - pkg:nuget/TUnit.Assertions.FSharp@0.90.45
 - pkg:nuget/TUnit.Assertions.FSharp@1.0.48
+- pkg:nuget/TUnit.Assertions.FSharp@1.9.42
