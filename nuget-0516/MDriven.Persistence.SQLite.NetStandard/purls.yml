@@ -1,2 +1,3 @@
 - pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17071
 - pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17078
+- pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17118
