@@ -193,3 +193,4 @@
 - pkg:nuget/Syncfusion.OfficeChart.NET@31.1.20
 - pkg:nuget/Syncfusion.OfficeChart.NET@31.2.10
 - pkg:nuget/Syncfusion.OfficeChart.NET@32.1.21
+- pkg:nuget/Syncfusion.OfficeChart.NET@32.1.23
