@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.Runner.Postgres@6.2.0
 - pkg:nuget/FluentMigrator.Runner.Postgres@7.0.0
 - pkg:nuget/FluentMigrator.Runner.Postgres@7.1.0
+- pkg:nuget/FluentMigrator.Runner.Postgres@8.0.0

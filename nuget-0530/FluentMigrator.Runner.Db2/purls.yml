@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.Runner.Db2@6.2.0
 - pkg:nuget/FluentMigrator.Runner.Db2@7.0.0
 - pkg:nuget/FluentMigrator.Runner.Db2@7.1.0
+- pkg:nuget/FluentMigrator.Runner.Db2@8.0.0

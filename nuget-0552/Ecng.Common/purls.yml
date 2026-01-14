@@ -122,6 +122,7 @@
 - pkg:nuget/Ecng.Common@1.0.221
 - pkg:nuget/Ecng.Common@1.0.23
 - pkg:nuget/Ecng.Common@1.0.24
+- pkg:nuget/Ecng.Common@1.0.244
 - pkg:nuget/Ecng.Common@1.0.25
 - pkg:nuget/Ecng.Common@1.0.26
 - pkg:nuget/Ecng.Common@1.0.27
