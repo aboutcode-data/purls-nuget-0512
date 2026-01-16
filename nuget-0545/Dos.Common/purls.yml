@@ -113,3 +113,5 @@
 - pkg:nuget/Dos.Common@3.2.2
 - pkg:nuget/Dos.Common@3.3.0
 - pkg:nuget/Dos.Common@4.4.0
+- pkg:nuget/Dos.Common@4.6.0
+- pkg:nuget/Dos.Common@4.6.1
