@@ -15,6 +15,7 @@
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.113
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.114
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.12
+- pkg:nuget/Opinio.DataAccess.Linq2db@1.0.124
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.13
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.14
 - pkg:nuget/Opinio.DataAccess.Linq2db@1.0.15
