@@ -65,3 +65,5 @@
 - pkg:nuget/Serilog.Sinks.ElmahIo@5.3.52-pre
 - pkg:nuget/Serilog.Sinks.ElmahIo@5.3.53-pre
 - pkg:nuget/Serilog.Sinks.ElmahIo@5.3.54
+- pkg:nuget/Serilog.Sinks.ElmahIo@5.3.56
+- pkg:nuget/Serilog.Sinks.ElmahIo@6.0.57-pre
