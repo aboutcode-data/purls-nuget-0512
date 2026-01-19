@@ -28,6 +28,7 @@
 - pkg:nuget/Corpus.Sql.MsSql@10.1.0
 - pkg:nuget/Corpus.Sql.MsSql@10.1.2
 - pkg:nuget/Corpus.Sql.MsSql@10.1.6
+- pkg:nuget/Corpus.Sql.MsSql@11.0.1
 - pkg:nuget/Corpus.Sql.MsSql@2.0.0
 - pkg:nuget/Corpus.Sql.MsSql@2.0.1
 - pkg:nuget/Corpus.Sql.MsSql@2.0.2
