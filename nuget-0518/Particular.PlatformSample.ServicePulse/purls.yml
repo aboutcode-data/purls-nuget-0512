@@ -63,3 +63,4 @@
 - pkg:nuget/Particular.PlatformSample.ServicePulse@2.1.0
 - pkg:nuget/Particular.PlatformSample.ServicePulse@2.1.1
 - pkg:nuget/Particular.PlatformSample.ServicePulse@2.2.0
+- pkg:nuget/Particular.PlatformSample.ServicePulse@2.4.1
