@@ -1,5 +1,6 @@
 - pkg:nuget/MarketingBox.TenantSettings.Service.Messages@1.0.0
 - pkg:nuget/MarketingBox.TenantSettings.Service.Messages@1.0.1
+- pkg:nuget/MarketingBox.TenantSettings.Service.Messages@10.0.0
 - pkg:nuget/MarketingBox.TenantSettings.Service.Messages@8.0.0
 - pkg:nuget/MarketingBox.TenantSettings.Service.Messages@8.0.1
 - pkg:nuget/MarketingBox.TenantSettings.Service.Messages@8.0.3
