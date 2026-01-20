@@ -25,6 +25,7 @@
 - pkg:nuget/XParserLibrary.Core@1.1.12
 - pkg:nuget/XParserLibrary.Core@1.1.120
 - pkg:nuget/XParserLibrary.Core@1.1.13
+- pkg:nuget/XParserLibrary.Core@1.1.130
 - pkg:nuget/XParserLibrary.Core@1.1.14
 - pkg:nuget/XParserLibrary.Core@1.1.15
 - pkg:nuget/XParserLibrary.Core@1.1.16
