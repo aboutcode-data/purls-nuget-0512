@@ -1,5 +1,6 @@
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@10.0.0
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@10.0.1-alpha.0.osoe-935
+- pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@10.0.1-alpha.1.osoe-925
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@3.2.1-alpha.osoe-46.0
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@3.2.1-alpha.osoe-46.1
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights.Tests.UI@3.2.1-alpha.osoe-46.2

@@ -1,4 +1,5 @@
 - pkg:nuget/FarNet@10.0.14
+- pkg:nuget/FarNet@10.0.24
 - pkg:nuget/FarNet@5.0.38
 - pkg:nuget/FarNet@5.0.39
 - pkg:nuget/FarNet@5.0.40
