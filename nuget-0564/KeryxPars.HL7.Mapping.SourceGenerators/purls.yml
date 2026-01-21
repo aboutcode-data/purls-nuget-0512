@@ -1,1 +1,2 @@
 - pkg:nuget/KeryxPars.HL7.Mapping.SourceGenerators@0.1.0-beta1
+- pkg:nuget/KeryxPars.HL7.Mapping.SourceGenerators@0.3.1-beta
