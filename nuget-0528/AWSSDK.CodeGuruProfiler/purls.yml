@@ -988,6 +988,7 @@
 - pkg:nuget/AWSSDK.CodeGuruProfiler@3.7.502.16
 - pkg:nuget/AWSSDK.CodeGuruProfiler@3.7.502.21
 - pkg:nuget/AWSSDK.CodeGuruProfiler@3.7.502.24
+- pkg:nuget/AWSSDK.CodeGuruProfiler@3.7.502.31
 - pkg:nuget/AWSSDK.CodeGuruProfiler@3.7.502.8
 - pkg:nuget/AWSSDK.CodeGuruProfiler@4.0.0
 - pkg:nuget/AWSSDK.CodeGuruProfiler@4.0.0-preview

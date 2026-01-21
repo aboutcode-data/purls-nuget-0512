@@ -87,6 +87,7 @@
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.200
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.201
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.203
+- pkg:nuget/Cszy.Auth.AspNetCore@0.0.238
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.34
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.35
 - pkg:nuget/Cszy.Auth.AspNetCore@0.0.36
