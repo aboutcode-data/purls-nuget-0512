@@ -556,6 +556,7 @@
 - pkg:nuget/Dynamicweb@9.2.14
 - pkg:nuget/Dynamicweb@9.2.7
 - pkg:nuget/Dynamicweb@9.20.0
+- pkg:nuget/Dynamicweb@9.20.4
 - pkg:nuget/Dynamicweb@9.3.0
 - pkg:nuget/Dynamicweb@9.3.13
 - pkg:nuget/Dynamicweb@9.3.14
