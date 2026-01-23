@@ -2267,6 +2267,7 @@
 - pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovateallminorpatch.1.fc3ccf1
 - pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovategithubactions.1.f409dbf
 - pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovategithubactions.3.9d1ce3a
+- pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovategithubactions.3.cd72992
 - pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovatemajorwebnpm.3.1758cd2
 - pkg:nuget/ArmoniK.Api.Worker@3.28.2-renovatepypi.3.b02fb0b
 - pkg:nuget/ArmoniK.Api.Worker@3.3.0
