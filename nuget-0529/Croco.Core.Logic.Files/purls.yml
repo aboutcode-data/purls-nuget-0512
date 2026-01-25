@@ -44,6 +44,7 @@
 - pkg:nuget/Croco.Core.Logic.Files@1.71.0
 - pkg:nuget/Croco.Core.Logic.Files@1.8.0
 - pkg:nuget/Croco.Core.Logic.Files@1.9.0
+- pkg:nuget/Croco.Core.Logic.Files@10.3.1
 - pkg:nuget/Croco.Core.Logic.Files@2.0.0
 - pkg:nuget/Croco.Core.Logic.Files@2.1.0
 - pkg:nuget/Croco.Core.Logic.Files@2.2.0
