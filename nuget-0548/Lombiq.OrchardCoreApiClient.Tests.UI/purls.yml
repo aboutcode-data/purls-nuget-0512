@@ -24,3 +24,4 @@
 - pkg:nuget/Lombiq.OrchardCoreApiClient.Tests.UI@7.0.0
 - pkg:nuget/Lombiq.OrchardCoreApiClient.Tests.UI@7.0.1-alpha.0.osoe-935
 - pkg:nuget/Lombiq.OrchardCoreApiClient.Tests.UI@7.0.1-alpha.1.osoe-925
+- pkg:nuget/Lombiq.OrchardCoreApiClient.Tests.UI@7.0.1-alpha.4.osoe-925
