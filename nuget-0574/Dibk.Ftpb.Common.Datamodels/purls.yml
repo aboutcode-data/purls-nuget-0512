@@ -106,6 +106,7 @@
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.8.7
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.8.8
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.8.9
+- pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.9.17
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.9.2
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.9.3
 - pkg:nuget/Dibk.Ftpb.Common.Datamodels@1.9.5
