@@ -1,3 +1,4 @@
+- pkg:nuget/Reo.Core.BaseClient@10.0.9
 - pkg:nuget/Reo.Core.BaseClient@6.0.30300
 - pkg:nuget/Reo.Core.BaseClient@6.0.30301
 - pkg:nuget/Reo.Core.BaseClient@6.0.30302
