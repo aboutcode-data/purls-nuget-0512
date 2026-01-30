@@ -36,6 +36,7 @@
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.12-preview1
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.13
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.14
+- pkg:nuget/JetBrains.Profiler.SelfApi@2.5.16
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.2
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.3
 - pkg:nuget/JetBrains.Profiler.SelfApi@2.5.5
