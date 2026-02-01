@@ -1,2 +1,3 @@
+- pkg:nuget/GridLab.Abp.Elasticsearch@10.1.0.390
 - pkg:nuget/GridLab.Abp.Elasticsearch@9.3.2.20
 - pkg:nuget/GridLab.Abp.Elasticsearch@9.3.2.362
