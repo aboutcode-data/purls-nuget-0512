@@ -90,6 +90,7 @@
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@18.0.0-rc1
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@18.0.0-rc2
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@18.0.1
+- pkg:nuget/Arendi.Bluetooth.DirectTestMode@19.0.0
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@9.5.0
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@9.6.0
 - pkg:nuget/Arendi.Bluetooth.DirectTestMode@9.6.1
