@@ -262,3 +262,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Audit@23.2.8
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Audit@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Audit@24.1.3
+- pkg:nuget/Luxoft.Framework.DomainDriven.DTOGenerator.Audit@25.3.0

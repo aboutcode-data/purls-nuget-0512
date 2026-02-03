@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Secrets@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Secrets@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@14.1.0

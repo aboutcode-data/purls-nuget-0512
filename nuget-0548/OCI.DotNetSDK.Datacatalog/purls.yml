@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Datacatalog@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Datacatalog@14.1.0

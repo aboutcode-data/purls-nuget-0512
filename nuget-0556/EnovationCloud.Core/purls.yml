@@ -48,6 +48,7 @@
 - pkg:nuget/EnovationCloud.Core@4.2.1-zzz-develop.9
 - pkg:nuget/EnovationCloud.Core@4.21.1-zzz-develop.1
 - pkg:nuget/EnovationCloud.Core@4.22.1-zzz-develop.1
+- pkg:nuget/EnovationCloud.Core@4.23.0
 - pkg:nuget/EnovationCloud.Core@4.3.0
 - pkg:nuget/EnovationCloud.Core@4.3.1-zzz-develop.1
 - pkg:nuget/EnovationCloud.Core@4.3.1-zzz-develop.2
