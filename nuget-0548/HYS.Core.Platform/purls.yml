@@ -37,3 +37,4 @@
 - pkg:nuget/HYS.Core.Platform@2.0.7
 - pkg:nuget/HYS.Core.Platform@2.0.8
 - pkg:nuget/HYS.Core.Platform@2.0.9
+- pkg:nuget/HYS.Core.Platform@3.0.0
