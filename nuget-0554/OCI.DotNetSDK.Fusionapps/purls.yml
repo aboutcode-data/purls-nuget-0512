@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Fusionapps@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@40.1.0
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@41.0.0
 - pkg:nuget/OCI.DotNetSDK.Fusionapps@41.1.0

@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Networkloadbalancer@17.1.0

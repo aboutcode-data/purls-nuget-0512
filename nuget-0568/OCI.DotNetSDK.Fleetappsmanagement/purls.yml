@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@93.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@94.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetappsmanagement@95.0.0

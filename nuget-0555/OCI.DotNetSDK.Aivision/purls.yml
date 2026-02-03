@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Aivision@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Aivision@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Aivision@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Aivision@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Aivision@32.0.0
 - pkg:nuget/OCI.DotNetSDK.Aivision@32.1.0
 - pkg:nuget/OCI.DotNetSDK.Aivision@32.2.0
