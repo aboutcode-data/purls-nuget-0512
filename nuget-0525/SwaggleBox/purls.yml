@@ -5,6 +5,9 @@
 - pkg:nuget/SwaggleBox@1.0.4
 - pkg:nuget/SwaggleBox@1.0.5
 - pkg:nuget/SwaggleBox@1.0.6
+- pkg:nuget/SwaggleBox@1.0.7
+- pkg:nuget/SwaggleBox@1.0.8
+- pkg:nuget/SwaggleBox@2.0.0
 - pkg:nuget/SwaggleBox@9.0.0
 - pkg:nuget/SwaggleBox@9.0.1
 - pkg:nuget/SwaggleBox@9.0.2
