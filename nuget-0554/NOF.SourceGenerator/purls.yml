@@ -1,1 +1,2 @@
 - pkg:nuget/NOF.SourceGenerator@5.3.0
+- pkg:nuget/NOF.SourceGenerator@6.3.0
