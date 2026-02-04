@@ -30,3 +30,4 @@
 - pkg:nuget/SunamoDateTime@25.3.30.1
 - pkg:nuget/SunamoDateTime@25.5.22.1
 - pkg:nuget/SunamoDateTime@25.6.7.1
+- pkg:nuget/SunamoDateTime@26.2.4.1
