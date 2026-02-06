@@ -538,6 +538,7 @@
 - pkg:nuget/AWSSDK.OAM@3.7.502.15
 - pkg:nuget/AWSSDK.OAM@3.7.502.24
 - pkg:nuget/AWSSDK.OAM@3.7.502.34
+- pkg:nuget/AWSSDK.OAM@3.7.502.41
 - pkg:nuget/AWSSDK.OAM@4.0.0
 - pkg:nuget/AWSSDK.OAM@4.0.0-preview
 - pkg:nuget/AWSSDK.OAM@4.0.0-preview.10
