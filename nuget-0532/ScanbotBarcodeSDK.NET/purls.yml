@@ -11,3 +11,4 @@
 - pkg:nuget/ScanbotBarcodeSDK.NET@7.0.0
 - pkg:nuget/ScanbotBarcodeSDK.NET@7.1.0
 - pkg:nuget/ScanbotBarcodeSDK.NET@7.1.1
+- pkg:nuget/ScanbotBarcodeSDK.NET@8.0.0
