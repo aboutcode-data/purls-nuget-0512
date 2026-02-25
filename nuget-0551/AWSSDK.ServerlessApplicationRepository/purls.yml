@@ -1158,6 +1158,7 @@
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@3.7.501.14
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@3.7.501.19
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@3.7.501.36
+- pkg:nuget/AWSSDK.ServerlessApplicationRepository@3.7.501.41
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@3.7.501.8
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@4.0.0
 - pkg:nuget/AWSSDK.ServerlessApplicationRepository@4.0.0-preview

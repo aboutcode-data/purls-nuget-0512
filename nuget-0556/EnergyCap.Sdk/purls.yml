@@ -4471,3 +4471,6 @@
 - pkg:nuget/EnergyCap.Sdk@8.2512.6588-develop-20260127-1228
 - pkg:nuget/EnergyCap.Sdk@8.2512.6601-develop-20260202-1830
 - pkg:nuget/EnergyCap.Sdk@8.2512.6602-develop-20260203-1048
+- pkg:nuget/EnergyCap.Sdk@8.2512.6609-develop-20260210-2049
+- pkg:nuget/EnergyCap.Sdk@8.2512.6612-develop-20260213-2049
+- pkg:nuget/EnergyCap.Sdk@8.2512.6620-develop-20260220-1613

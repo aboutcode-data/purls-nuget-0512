@@ -72,5 +72,6 @@
 - pkg:nuget/Microsoft.CodeAnalysis.Metrics@4.0.0-beta1.25155.1
 - pkg:nuget/Microsoft.CodeAnalysis.Metrics@4.0.0-beta1.25173.1
 - pkg:nuget/Microsoft.CodeAnalysis.Metrics@4.0.0-beta1.25173.3
+- pkg:nuget/Microsoft.CodeAnalysis.Metrics@4.0.0-beta1.26057.1
 - pkg:nuget/Microsoft.CodeAnalysis.Metrics@4.14.0
 - pkg:nuget/Microsoft.CodeAnalysis.Metrics@5.0.0-1.25277.114

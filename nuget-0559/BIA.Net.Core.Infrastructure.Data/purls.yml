@@ -39,3 +39,4 @@
 - pkg:nuget/BIA.Net.Core.Infrastructure.Data@5.0.1
 - pkg:nuget/BIA.Net.Core.Infrastructure.Data@5.0.2
 - pkg:nuget/BIA.Net.Core.Infrastructure.Data@5.1.0
+- pkg:nuget/BIA.Net.Core.Infrastructure.Data@6.1.0

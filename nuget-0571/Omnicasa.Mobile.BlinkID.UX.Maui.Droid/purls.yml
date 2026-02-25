@@ -1,3 +1,6 @@
 - pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@0.0.0
 - pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@2025.10.13.73-alpha
 - pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@2025.9.29.72-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@2026.2.11.88-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@2026.2.12.79-alpha
+- pkg:nuget/Omnicasa.Mobile.BlinkID.UX.Maui.Droid@2026.2.7.86-alpha

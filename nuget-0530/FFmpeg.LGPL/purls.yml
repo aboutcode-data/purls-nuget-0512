@@ -645,3 +645,5 @@
 - pkg:nuget/FFmpeg.LGPL@20251127.1.0
 - pkg:nuget/FFmpeg.LGPL@20251206.1.0
 - pkg:nuget/FFmpeg.LGPL@20260127.1.0
+- pkg:nuget/FFmpeg.LGPL@20260216.1.0
+- pkg:nuget/FFmpeg.LGPL@20260223.1.0

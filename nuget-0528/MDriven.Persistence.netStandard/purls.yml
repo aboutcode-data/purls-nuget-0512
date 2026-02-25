@@ -691,3 +691,6 @@
 - pkg:nuget/MDriven.Persistence.netStandard@7.2.0.16140
 - pkg:nuget/MDriven.Persistence.netStandard@7.2.0.16145
 - pkg:nuget/MDriven.Persistence.netStandard@7.2.0.17118
+- pkg:nuget/MDriven.Persistence.netStandard@7.2.0.17205
+- pkg:nuget/MDriven.Persistence.netStandard@7.2.0.17211
+- pkg:nuget/MDriven.Persistence.netStandard@7.2.0.17221

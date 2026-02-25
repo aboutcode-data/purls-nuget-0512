@@ -28,6 +28,7 @@
 - pkg:nuget/Yzl@1.5.2
 - pkg:nuget/Yzl@2.0.0
 - pkg:nuget/Yzl@2.0.0-alpha.1
+- pkg:nuget/Yzl@2.0.2
 - pkg:nuget/Yzl@3.0.0-alpha.1
 - pkg:nuget/Yzl@3.0.0-alpha.2
 - pkg:nuget/Yzl@3.0.0-alpha.4

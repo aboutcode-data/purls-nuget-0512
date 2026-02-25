@@ -37,6 +37,7 @@
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.18330
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.18406
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.18465
+- pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.18585
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.3880
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.3881
 - pkg:nuget/EssentialCSharp.Shared.Models@1.1.1.3883

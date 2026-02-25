@@ -373,6 +373,8 @@
 - pkg:nuget/AWSSDK.Bedrock@3.7.508
 - pkg:nuget/AWSSDK.Bedrock@3.7.510.7
 - pkg:nuget/AWSSDK.Bedrock@3.7.511.11
+- pkg:nuget/AWSSDK.Bedrock@3.7.511.15
+- pkg:nuget/AWSSDK.Bedrock@3.7.511.16
 - pkg:nuget/AWSSDK.Bedrock@3.7.511.4
 - pkg:nuget/AWSSDK.Bedrock@4.0.0
 - pkg:nuget/AWSSDK.Bedrock@4.0.0-preview
