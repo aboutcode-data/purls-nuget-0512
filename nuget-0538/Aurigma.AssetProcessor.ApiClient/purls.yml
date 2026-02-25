@@ -80,6 +80,7 @@
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.70.5.28812%2B179565b93875fca57f2d443ee33b3f0087f352b2
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.71.1.29026%2B3da560931e0e98998c864ae57acbd466c3ebf66e
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.72.1.29562%2Ba9da77a90ef00854dc1284eb906be84c15bcd101
+- pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.76.4.31416%2Bae29ed0029175d31277bb95d00acd672e2ec8135
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.8.2.9411
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.8.5.9441
 - pkg:nuget/Aurigma.AssetProcessor.ApiClient@2.8.7.9449

@@ -84,4 +84,5 @@
 - pkg:nuget/SunamoDevCode@25.6.2.2
 - pkg:nuget/SunamoDevCode@25.6.2.3
 - pkg:nuget/SunamoDevCode@25.6.7.1
+- pkg:nuget/SunamoDevCode@26.2.23.5
 - pkg:nuget/SunamoDevCode@26.2.4.1

@@ -1,4 +1,5 @@
 - pkg:nuget/Dedsi.NetCorePal.Template@0.0.1
+- pkg:nuget/Dedsi.NetCorePal.Template@0.0.10
 - pkg:nuget/Dedsi.NetCorePal.Template@0.0.2
 - pkg:nuget/Dedsi.NetCorePal.Template@0.0.3
 - pkg:nuget/Dedsi.NetCorePal.Template@0.0.4

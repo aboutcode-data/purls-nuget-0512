@@ -30,6 +30,7 @@
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.44
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.45
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.5
+- pkg:nuget/FMSoftlab.WorkflowTasks@1.1.50
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.6
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.8
 - pkg:nuget/FMSoftlab.WorkflowTasks@1.1.9

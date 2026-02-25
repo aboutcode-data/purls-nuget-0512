@@ -141,3 +141,5 @@
 - pkg:nuget/h5-compiler@24.8.51427
 - pkg:nuget/h5-compiler@25.3.57211
 - pkg:nuget/h5-compiler@25.8.60248
+- pkg:nuget/h5-compiler@26.2.64284
+- pkg:nuget/h5-compiler@26.2.64427
