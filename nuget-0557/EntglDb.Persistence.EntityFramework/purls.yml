@@ -1,1 +1,2 @@
 - pkg:nuget/EntglDb.Persistence.EntityFramework@0.8.4
+- pkg:nuget/EntglDb.Persistence.EntityFramework@1.0.0
