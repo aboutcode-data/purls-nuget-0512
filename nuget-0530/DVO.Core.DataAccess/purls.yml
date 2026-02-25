@@ -19,6 +19,7 @@
 - pkg:nuget/DVO.Core.DataAccess@1.0.25
 - pkg:nuget/DVO.Core.DataAccess@1.0.26
 - pkg:nuget/DVO.Core.DataAccess@1.0.3
+- pkg:nuget/DVO.Core.DataAccess@1.0.33
 - pkg:nuget/DVO.Core.DataAccess@1.0.4
 - pkg:nuget/DVO.Core.DataAccess@1.0.5
 - pkg:nuget/DVO.Core.DataAccess@1.0.6

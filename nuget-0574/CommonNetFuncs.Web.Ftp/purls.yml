@@ -35,3 +35,5 @@
 - pkg:nuget/CommonNetFuncs.Web.Ftp@3.7.16
 - pkg:nuget/CommonNetFuncs.Web.Ftp@3.7.17
 - pkg:nuget/CommonNetFuncs.Web.Ftp@3.8.13
+- pkg:nuget/CommonNetFuncs.Web.Ftp@3.8.38
+- pkg:nuget/CommonNetFuncs.Web.Ftp@4.0.17

@@ -9,3 +9,5 @@
 - pkg:nuget/SoftwareWorker.CLI.Core@1.5.3-g99f3c735ce
 - pkg:nuget/SoftwareWorker.CLI.Core@1.5.4-gd9cf7304c9
 - pkg:nuget/SoftwareWorker.CLI.Core@1.5.9-gd8162a2a47
+- pkg:nuget/SoftwareWorker.CLI.Core@1.7.6-g70c8c3dd90
+- pkg:nuget/SoftwareWorker.CLI.Core@1.7.7-ge249d0e168
