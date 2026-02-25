@@ -60,4 +60,5 @@
 - pkg:nuget/SunamoCollections@25.3.29.1
 - pkg:nuget/SunamoCollections@25.5.27.1
 - pkg:nuget/SunamoCollections@25.6.7.1
+- pkg:nuget/SunamoCollections@26.2.23.3
 - pkg:nuget/SunamoCollections@26.2.5.1
