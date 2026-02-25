@@ -1,2 +1,3 @@
 - pkg:nuget/EntityFrameworkCore.Seeder@1.0.0
 - pkg:nuget/EntityFrameworkCore.Seeder@1.0.1
+- pkg:nuget/EntityFrameworkCore.Seeder@1.0.5-alpha
