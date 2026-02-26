@@ -43,6 +43,7 @@
 - pkg:nuget/Goldfield.HtmlFactory@1.3.7
 - pkg:nuget/Goldfield.HtmlFactory@1.3.8
 - pkg:nuget/Goldfield.HtmlFactory@1.3.9
+- pkg:nuget/Goldfield.HtmlFactory@10.2.2
 - pkg:nuget/Goldfield.HtmlFactory@7.0.0
 - pkg:nuget/Goldfield.HtmlFactory@7.0.1
 - pkg:nuget/Goldfield.HtmlFactory@7.0.10

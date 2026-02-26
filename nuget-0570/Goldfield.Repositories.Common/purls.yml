@@ -45,6 +45,7 @@
 - pkg:nuget/Goldfield.Repositories.Common@1.3.7
 - pkg:nuget/Goldfield.Repositories.Common@1.3.8
 - pkg:nuget/Goldfield.Repositories.Common@1.3.9
+- pkg:nuget/Goldfield.Repositories.Common@10.2.2
 - pkg:nuget/Goldfield.Repositories.Common@7.0.0
 - pkg:nuget/Goldfield.Repositories.Common@7.0.1
 - pkg:nuget/Goldfield.Repositories.Common@7.0.10
