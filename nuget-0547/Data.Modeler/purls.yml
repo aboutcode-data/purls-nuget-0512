@@ -352,6 +352,7 @@
 - pkg:nuget/Data.Modeler@5.0.1
 - pkg:nuget/Data.Modeler@5.0.10
 - pkg:nuget/Data.Modeler@5.0.11
+- pkg:nuget/Data.Modeler@5.0.118
 - pkg:nuget/Data.Modeler@5.0.12
 - pkg:nuget/Data.Modeler@5.0.13
 - pkg:nuget/Data.Modeler@5.0.14
