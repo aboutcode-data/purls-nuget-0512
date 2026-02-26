@@ -7,3 +7,4 @@
 - pkg:nuget/NServiceBus.Extensions.IntegrationTesting@3.0.0
 - pkg:nuget/NServiceBus.Extensions.IntegrationTesting@4.0.0
 - pkg:nuget/NServiceBus.Extensions.IntegrationTesting@4.0.1
+- pkg:nuget/NServiceBus.Extensions.IntegrationTesting@5.0.0
