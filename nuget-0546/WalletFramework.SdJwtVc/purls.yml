@@ -1,5 +1,6 @@
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-dev.959
+- pkg:nuget/WalletFramework.SdJwtVc@2.0.0-dev.976
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-pr.108.2
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-pr.108.3
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-pr.108.5
@@ -360,3 +361,4 @@
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-xam-rc.200
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-xam-rc.201
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-xam-rc.202
+- pkg:nuget/WalletFramework.SdJwtVc@3.0.0-rc.1
