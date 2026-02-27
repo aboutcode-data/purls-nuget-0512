@@ -138,3 +138,4 @@
 - pkg:nuget/DTOMaker.Runtime.MemBlocks@0.71.7
 - pkg:nuget/DTOMaker.Runtime.MemBlocks@0.71.8
 - pkg:nuget/DTOMaker.Runtime.MemBlocks@1.8.1-dev
+- pkg:nuget/DTOMaker.Runtime.MemBlocks@2.0.13-dev
