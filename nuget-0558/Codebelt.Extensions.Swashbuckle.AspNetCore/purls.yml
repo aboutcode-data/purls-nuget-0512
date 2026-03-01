@@ -1,3 +1,4 @@
+- pkg:nuget/Codebelt.Extensions.Swashbuckle.AspNetCore@10.1.0
 - pkg:nuget/Codebelt.Extensions.Swashbuckle.AspNetCore@8.4.0
 - pkg:nuget/Codebelt.Extensions.Swashbuckle.AspNetCore@9.0.0
 - pkg:nuget/Codebelt.Extensions.Swashbuckle.AspNetCore@9.0.0-preview.1
