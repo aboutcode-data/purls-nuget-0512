@@ -1,1 +1,3 @@
 - pkg:nuget/DevExpress.AspNetCore.Dashboard.es@25.1.5
+- pkg:nuget/DevExpress.AspNetCore.Dashboard.es@25.1.9
+- pkg:nuget/DevExpress.AspNetCore.Dashboard.es@25.2.5
