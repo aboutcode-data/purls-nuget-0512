@@ -21,3 +21,4 @@
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@3.0.8
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@3.0.9
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@4.0.31
+- pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@4.0.55
