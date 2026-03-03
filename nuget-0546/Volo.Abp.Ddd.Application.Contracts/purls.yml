@@ -5,6 +5,7 @@
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@1.1.1
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@1.1.2
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@10.0.0-rc.1
+- pkg:nuget/Volo.Abp.Ddd.Application.Contracts@10.1.1
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@2.0.0
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@2.0.1
 - pkg:nuget/Volo.Abp.Ddd.Application.Contracts@2.1.0
