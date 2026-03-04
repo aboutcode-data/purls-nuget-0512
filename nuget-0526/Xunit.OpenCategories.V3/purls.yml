@@ -34,3 +34,7 @@
 - pkg:nuget/Xunit.OpenCategories.V3@2.3.0.83-beta
 - pkg:nuget/Xunit.OpenCategories.V3@2.3.0.84-beta
 - pkg:nuget/Xunit.OpenCategories.V3@2.3.1.13
+- pkg:nuget/Xunit.OpenCategories.V3@2.4.0.114-beta
+- pkg:nuget/Xunit.OpenCategories.V3@2.4.0.115-beta
+- pkg:nuget/Xunit.OpenCategories.V3@2.4.0.116-beta
+- pkg:nuget/Xunit.OpenCategories.V3@2.4.0.117-beta
