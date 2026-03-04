@@ -1,2 +1,3 @@
 - pkg:nuget/Soenneker.Functions.Attributes.AllowAnonymous@3.0.1
 - pkg:nuget/Soenneker.Functions.Attributes.AllowAnonymous@4.0.3
+- pkg:nuget/Soenneker.Functions.Attributes.AllowAnonymous@4.0.6
