@@ -42,6 +42,7 @@
 - pkg:nuget/IBMXMSDotnetClient@9.3.0.28
 - pkg:nuget/IBMXMSDotnetClient@9.3.0.30
 - pkg:nuget/IBMXMSDotnetClient@9.3.0.31
+- pkg:nuget/IBMXMSDotnetClient@9.3.0.37
 - pkg:nuget/IBMXMSDotnetClient@9.3.0.5
 - pkg:nuget/IBMXMSDotnetClient@9.3.0.6
 - pkg:nuget/IBMXMSDotnetClient@9.3.1
@@ -58,6 +59,7 @@
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.11
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.12
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.15
+- pkg:nuget/IBMXMSDotnetClient@9.4.0.20
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.5
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.6
 - pkg:nuget/IBMXMSDotnetClient@9.4.0.7
