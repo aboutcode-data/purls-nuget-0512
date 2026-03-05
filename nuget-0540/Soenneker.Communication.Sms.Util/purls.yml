@@ -844,3 +844,4 @@
 - pkg:nuget/Soenneker.Communication.Sms.Util@4.0.900
 - pkg:nuget/Soenneker.Communication.Sms.Util@4.0.906
 - pkg:nuget/Soenneker.Communication.Sms.Util@4.0.920
+- pkg:nuget/Soenneker.Communication.Sms.Util@4.0.923
