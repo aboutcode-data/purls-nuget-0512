@@ -359,6 +359,7 @@
 - pkg:nuget/Indice.Services@8.20.0
 - pkg:nuget/Indice.Services@8.3.0
 - pkg:nuget/Indice.Services@8.4.0
+- pkg:nuget/Indice.Services@8.40.0
 - pkg:nuget/Indice.Services@8.5.0
 - pkg:nuget/Indice.Services@8.6.0
 - pkg:nuget/Indice.Services@8.7.0
