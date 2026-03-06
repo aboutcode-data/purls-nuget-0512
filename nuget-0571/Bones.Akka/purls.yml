@@ -65,6 +65,17 @@
 - pkg:nuget/Bones.Akka@0.0.9
 - pkg:nuget/Bones.Akka@1.0.0
 - pkg:nuget/Bones.Akka@1.0.1
+- pkg:nuget/Bones.Akka@1.0.10-dom-render
+- pkg:nuget/Bones.Akka@1.0.10-fix-01
+- pkg:nuget/Bones.Akka@1.0.10-fix-02
+- pkg:nuget/Bones.Akka@1.0.10-fix-03
+- pkg:nuget/Bones.Akka@1.0.10-fix-04
+- pkg:nuget/Bones.Akka@1.0.10-fix-05
+- pkg:nuget/Bones.Akka@1.0.10-fix-06
+- pkg:nuget/Bones.Akka@1.0.10-fix-07
+- pkg:nuget/Bones.Akka@1.0.11-dom-render-4
+- pkg:nuget/Bones.Akka@1.0.11-dom-renderer
+- pkg:nuget/Bones.Akka@1.0.11-dom-renderer-1
 - pkg:nuget/Bones.Akka@1.0.11-dom-renderer-2
 - pkg:nuget/Bones.Akka@1.0.2
 - pkg:nuget/Bones.Akka@1.0.3
