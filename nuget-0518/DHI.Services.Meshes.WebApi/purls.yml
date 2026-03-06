@@ -1,4 +1,5 @@
 - pkg:nuget/DHI.Services.Meshes.WebApi@1.0.0
+- pkg:nuget/DHI.Services.Meshes.WebApi@16.0.0
 - pkg:nuget/DHI.Services.Meshes.WebApi@2.0.0
 - pkg:nuget/DHI.Services.Meshes.WebApi@2.1.0
 - pkg:nuget/DHI.Services.Meshes.WebApi@2.3.0
