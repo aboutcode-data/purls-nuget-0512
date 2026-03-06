@@ -8,3 +8,4 @@
 - pkg:nuget/JetBrains.ClangTidy.windows-x86@18.0.0
 - pkg:nuget/JetBrains.ClangTidy.windows-x86@19.1.0
 - pkg:nuget/JetBrains.ClangTidy.windows-x86@20.1.0.1
+- pkg:nuget/JetBrains.ClangTidy.windows-x86@22.1.0
