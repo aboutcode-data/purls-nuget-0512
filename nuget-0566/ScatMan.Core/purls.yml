@@ -1,1 +1,3 @@
 - pkg:nuget/ScatMan.Core@0.1.25
+- pkg:nuget/ScatMan.Core@0.1.27
+- pkg:nuget/ScatMan.Core@0.1.28
