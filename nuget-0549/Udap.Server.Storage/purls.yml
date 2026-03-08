@@ -1,6 +1,7 @@
 - pkg:nuget/Udap.Server.Storage@0.5.10
 - pkg:nuget/Udap.Server.Storage@0.5.15
 - pkg:nuget/Udap.Server.Storage@0.5.16
+- pkg:nuget/Udap.Server.Storage@0.5.20
 - pkg:nuget/Udap.Server.Storage@0.5.7
 - pkg:nuget/Udap.Server.Storage@0.5.8
 - pkg:nuget/Udap.Server.Storage@0.5.9
