@@ -2,3 +2,4 @@
 - pkg:nuget/WorkflowForge.Extensions.Resilience.Polly@1.0.1
 - pkg:nuget/WorkflowForge.Extensions.Resilience.Polly@1.1.0
 - pkg:nuget/WorkflowForge.Extensions.Resilience.Polly@2.0.0
+- pkg:nuget/WorkflowForge.Extensions.Resilience.Polly@2.1.0
