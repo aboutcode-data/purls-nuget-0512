@@ -10,4 +10,6 @@
 - pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.5.12
 - pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.7.16
 - pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.7.9
+- pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.8.27
+- pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.8.28
 - pkg:nuget/MyJetWallet.Service.Wirex.Cards.Client@2.8.6
