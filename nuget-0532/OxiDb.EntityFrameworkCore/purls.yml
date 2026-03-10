@@ -1,1 +1,2 @@
 - pkg:nuget/OxiDb.EntityFrameworkCore@0.17.0
+- pkg:nuget/OxiDb.EntityFrameworkCore@0.19.3
