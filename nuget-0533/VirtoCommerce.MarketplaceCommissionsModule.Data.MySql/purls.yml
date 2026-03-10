@@ -29,3 +29,5 @@
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.MySql@3.804.0-alpha.44
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.MySql@3.804.0-alpha.45
 - pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.MySql@3.804.0-alpha.46
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.MySql@3.804.0-alpha.53
+- pkg:nuget/VirtoCommerce.MarketplaceCommissionsModule.Data.MySql@3.804.0-alpha.54
