@@ -1,2 +1,4 @@
 - pkg:nuget/Cosmos.EventSourcing.Abstractions@0.0.1
+- pkg:nuget/Cosmos.EventSourcing.Abstractions@0.0.10
+- pkg:nuget/Cosmos.EventSourcing.Abstractions@0.0.12
 - pkg:nuget/Cosmos.EventSourcing.Abstractions@0.0.5
