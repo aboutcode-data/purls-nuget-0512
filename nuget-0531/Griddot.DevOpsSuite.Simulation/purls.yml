@@ -44,3 +44,6 @@
 - pkg:nuget/Griddot.DevOpsSuite.Simulation@1.0.5.8
 - pkg:nuget/Griddot.DevOpsSuite.Simulation@2.3.0
 - pkg:nuget/Griddot.DevOpsSuite.Simulation@2.4.0
+- pkg:nuget/Griddot.DevOpsSuite.Simulation@2026.3.12.13
+- pkg:nuget/Griddot.DevOpsSuite.Simulation@2026.3.12.14
+- pkg:nuget/Griddot.DevOpsSuite.Simulation@2026.3.12.15
