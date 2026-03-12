@@ -333,6 +333,7 @@
 - pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.14
 - pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.18
 - pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.19
+- pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.25
 - pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.7
 - pkg:nuget/AWSSDK.CleanRoomsML@3.7.506.9
 - pkg:nuget/AWSSDK.CleanRoomsML@4.0.0
