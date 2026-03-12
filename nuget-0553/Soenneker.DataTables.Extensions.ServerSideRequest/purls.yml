@@ -32,6 +32,7 @@
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@3.0.7
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@3.0.8
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@4.0.108
+- pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@4.0.116
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@4.0.38
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@4.0.44
 - pkg:nuget/Soenneker.DataTables.Extensions.ServerSideRequest@4.0.53
