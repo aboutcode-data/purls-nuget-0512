@@ -58,6 +58,7 @@
 - pkg:nuget/XFEExtension.NetCore@3.2.9
 - pkg:nuget/XFEExtension.NetCore@3.3.0
 - pkg:nuget/XFEExtension.NetCore@3.3.1
+- pkg:nuget/XFEExtension.NetCore@3.3.12
 - pkg:nuget/XFEExtension.NetCore@3.3.2
 - pkg:nuget/XFEExtension.NetCore@3.3.3
 - pkg:nuget/XFEExtension.NetCore@3.3.4
