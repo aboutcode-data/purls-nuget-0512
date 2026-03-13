@@ -10,3 +10,4 @@
 - pkg:nuget/Altinn.Authorization.ProblemDetails@3.2.2
 - pkg:nuget/Altinn.Authorization.ProblemDetails@3.3.0
 - pkg:nuget/Altinn.Authorization.ProblemDetails@4.0.0
+- pkg:nuget/Altinn.Authorization.ProblemDetails@5.1.0
