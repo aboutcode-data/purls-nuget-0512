@@ -776,6 +776,7 @@
 - pkg:nuget/AWSSDK.LocationService@3.7.502.22
 - pkg:nuget/AWSSDK.LocationService@3.7.502.32
 - pkg:nuget/AWSSDK.LocationService@3.7.502.39
+- pkg:nuget/AWSSDK.LocationService@3.7.502.51
 - pkg:nuget/AWSSDK.LocationService@3.7.502.9
 - pkg:nuget/AWSSDK.LocationService@3.7.6
 - pkg:nuget/AWSSDK.LocationService@3.7.6.1
@@ -872,3 +873,4 @@
 - pkg:nuget/AWSSDK.LocationService@4.0.2.2
 - pkg:nuget/AWSSDK.LocationService@4.0.2.4
 - pkg:nuget/AWSSDK.LocationService@4.0.2.8
+- pkg:nuget/AWSSDK.LocationService@4.0.3.17
