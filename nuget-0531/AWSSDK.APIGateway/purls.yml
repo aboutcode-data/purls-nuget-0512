@@ -1283,3 +1283,4 @@
 - pkg:nuget/AWSSDK.APIGateway@4.0.2.4
 - pkg:nuget/AWSSDK.APIGateway@4.0.2.8
 - pkg:nuget/AWSSDK.APIGateway@4.0.5.11
+- pkg:nuget/AWSSDK.APIGateway@4.0.6
