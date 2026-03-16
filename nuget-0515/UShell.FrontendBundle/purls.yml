@@ -46,6 +46,7 @@
 - pkg:nuget/UShell.FrontendBundle@3.2.18.1229
 - pkg:nuget/UShell.FrontendBundle@3.2.19.1240
 - pkg:nuget/UShell.FrontendBundle@3.2.2.1021
+- pkg:nuget/UShell.FrontendBundle@3.2.28.1402
 - pkg:nuget/UShell.FrontendBundle@3.2.3.1025
 - pkg:nuget/UShell.FrontendBundle@3.2.4.1036
 - pkg:nuget/UShell.FrontendBundle@3.2.5.1042
