@@ -19,6 +19,7 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@15.132.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@15.133.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@15.134.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@16.131.1
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@16.133.1-teamexplorer
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@16.133.10-teamexplorer
 - pkg:nuget/Microsoft.VisualStudio.Services.MemberEntitlementManagement.WebApi@16.135.0-preview
