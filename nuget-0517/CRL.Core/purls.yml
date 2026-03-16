@@ -12,3 +12,4 @@
 - pkg:nuget/CRL.Core@5.0.7
 - pkg:nuget/CRL.Core@6.0.0
 - pkg:nuget/CRL.Core@6.0.1
+- pkg:nuget/CRL.Core@6.5.1
