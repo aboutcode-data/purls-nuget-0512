@@ -1,4 +1,5 @@
 - pkg:nuget/CalculationSolitaire@1.0.1
+- pkg:nuget/CalculationSolitaire@10.0.5
 - pkg:nuget/CalculationSolitaire@2.0.1
 - pkg:nuget/CalculationSolitaire@2.0.2
 - pkg:nuget/CalculationSolitaire@7.0.1

@@ -1,4 +1,5 @@
 - pkg:nuget/SnagCardGame@1.0.1
+- pkg:nuget/SnagCardGame@10.0.5
 - pkg:nuget/SnagCardGame@2.0.1
 - pkg:nuget/SnagCardGame@2.0.2
 - pkg:nuget/SnagCardGame@7.0.1

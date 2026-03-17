@@ -1,4 +1,5 @@
 - pkg:nuget/DominosRegular@1.0.1
+- pkg:nuget/DominosRegular@10.0.5
 - pkg:nuget/DominosRegular@2.0.1
 - pkg:nuget/DominosRegular@2.0.2
 - pkg:nuget/DominosRegular@7.0.1
