@@ -93,3 +93,4 @@
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Metrics.Model@2.0.6-prerelease-943
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Metrics.Model@2.0.6-prerelease-944
 - pkg:nuget/SFA.DAS.Payments.Monitoring.Metrics.Model@2.0.7-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.Monitoring.Metrics.Model@2.1.1-prerelease-10
