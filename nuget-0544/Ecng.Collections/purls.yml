@@ -153,6 +153,7 @@
 - pkg:nuget/Ecng.Collections@1.0.277
 - pkg:nuget/Ecng.Collections@1.0.28
 - pkg:nuget/Ecng.Collections@1.0.282
+- pkg:nuget/Ecng.Collections@1.0.289
 - pkg:nuget/Ecng.Collections@1.0.29
 - pkg:nuget/Ecng.Collections@1.0.29-atestpub
 - pkg:nuget/Ecng.Collections@1.0.3

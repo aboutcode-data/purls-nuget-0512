@@ -1,3 +1,4 @@
+- pkg:nuget/Chao.Hangfire.Test@10.1.1.1
 - pkg:nuget/Chao.Hangfire.Test@7.3.0
 - pkg:nuget/Chao.Hangfire.Test@7.3.1
 - pkg:nuget/Chao.Hangfire.Test@7.3.2
