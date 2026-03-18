@@ -88,3 +88,4 @@
 - pkg:nuget/Nethereum.RPC@4.8.0
 - pkg:nuget/Nethereum.RPC@4.9.0
 - pkg:nuget/Nethereum.RPC@5.0.0
+- pkg:nuget/Nethereum.RPC@6.0.4
