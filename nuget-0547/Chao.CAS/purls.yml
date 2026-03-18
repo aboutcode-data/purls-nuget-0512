@@ -1,4 +1,5 @@
 - pkg:nuget/Chao.CAS@10.1.1.1
+- pkg:nuget/Chao.CAS@10.1.1.2
 - pkg:nuget/Chao.CAS@7.4.2
 - pkg:nuget/Chao.CAS@7.4.3
 - pkg:nuget/Chao.CAS@7.4.5
