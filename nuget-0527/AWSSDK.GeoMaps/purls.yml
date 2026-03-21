@@ -177,6 +177,7 @@
 - pkg:nuget/AWSSDK.GeoMaps@3.7.504.1
 - pkg:nuget/AWSSDK.GeoMaps@3.7.504.13
 - pkg:nuget/AWSSDK.GeoMaps@3.7.504.16
+- pkg:nuget/AWSSDK.GeoMaps@3.7.504.17
 - pkg:nuget/AWSSDK.GeoMaps@3.7.504.6
 - pkg:nuget/AWSSDK.GeoMaps@4.0.0
 - pkg:nuget/AWSSDK.GeoMaps@4.0.0-preview.10

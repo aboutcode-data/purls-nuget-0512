@@ -1181,6 +1181,7 @@
 - pkg:nuget/AWSSDK.GuardDuty@3.7.514.2
 - pkg:nuget/AWSSDK.GuardDuty@3.7.514.3
 - pkg:nuget/AWSSDK.GuardDuty@3.7.514.6
+- pkg:nuget/AWSSDK.GuardDuty@3.7.514.7
 - pkg:nuget/AWSSDK.GuardDuty@4.0.0
 - pkg:nuget/AWSSDK.GuardDuty@4.0.0-preview
 - pkg:nuget/AWSSDK.GuardDuty@4.0.0-preview.10

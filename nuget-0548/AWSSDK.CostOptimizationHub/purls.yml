@@ -334,6 +334,7 @@
 - pkg:nuget/AWSSDK.CostOptimizationHub@3.7.504.27
 - pkg:nuget/AWSSDK.CostOptimizationHub@3.7.504.39
 - pkg:nuget/AWSSDK.CostOptimizationHub@3.7.504.42
+- pkg:nuget/AWSSDK.CostOptimizationHub@3.7.504.43
 - pkg:nuget/AWSSDK.CostOptimizationHub@3.7.504.6
 - pkg:nuget/AWSSDK.CostOptimizationHub@4.0.0
 - pkg:nuget/AWSSDK.CostOptimizationHub@4.0.0-preview

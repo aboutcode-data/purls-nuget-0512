@@ -136,3 +136,4 @@
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraphBeta@3.9.2
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraphBeta@3.9.3
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraphBeta@3.9.4
+- pkg:nuget/Microsoft.Identity.Web.MicrosoftGraphBeta@4.6.0
