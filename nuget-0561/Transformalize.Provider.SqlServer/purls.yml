@@ -17,3 +17,4 @@
 - pkg:nuget/Transformalize.Provider.SqlServer@0.6.0-beta
 - pkg:nuget/Transformalize.Provider.SqlServer@0.6.1-beta
 - pkg:nuget/Transformalize.Provider.SqlServer@0.6.28-beta
+- pkg:nuget/Transformalize.Provider.SqlServer@1.0.0
