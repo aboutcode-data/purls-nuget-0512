@@ -2279,6 +2279,7 @@
 - pkg:nuget/ArmoniK.Api.Worker@3.28.4-adgetresourcedatapython.4.29ef685
 - pkg:nuget/ArmoniK.Api.Worker@3.29.0-edge.68.23f0ea8b
 - pkg:nuget/ArmoniK.Api.Worker@3.29.0-fixangularpackageincorrecttaskoptionsenum.69.90263d1c
+- pkg:nuget/ArmoniK.Api.Worker@3.29.0-jfchannelargs.79.ada535cf
 - pkg:nuget/ArmoniK.Api.Worker@3.29.0-jfcppstatic.14.811eeb6e
 - pkg:nuget/ArmoniK.Api.Worker@3.29.0-jfcppstatic.16.d9f4df0b
 - pkg:nuget/ArmoniK.Api.Worker@3.29.0-jfcppstatic.20.1cff4b81
