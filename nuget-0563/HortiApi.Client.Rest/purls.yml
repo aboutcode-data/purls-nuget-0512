@@ -62,6 +62,7 @@
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.41
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.5
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.52
+- pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.56
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.6
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.7
 - pkg:nuget/HortiApi.Client.Rest@3.0.0-rc.8
