@@ -1,2 +1,3 @@
 - pkg:nuget/StableCube.SassCompiler@1.0.0
 - pkg:nuget/StableCube.SassCompiler@1.0.1
+- pkg:nuget/StableCube.SassCompiler@10.0.1
