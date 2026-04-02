@@ -124,3 +124,4 @@
 - pkg:nuget/DotNext.Net.Cluster@5.7.2
 - pkg:nuget/DotNext.Net.Cluster@5.7.3
 - pkg:nuget/DotNext.Net.Cluster@6.0.0
+- pkg:nuget/DotNext.Net.Cluster@6.1.0

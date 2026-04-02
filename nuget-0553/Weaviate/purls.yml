@@ -1,4 +1,12 @@
 - pkg:nuget/Weaviate@0.0.0-dev.1
 - pkg:nuget/Weaviate@0.0.0-dev.118
+- pkg:nuget/Weaviate@0.0.0-dev.128
+- pkg:nuget/Weaviate@0.0.0-dev.132
+- pkg:nuget/Weaviate@0.0.0-dev.133
+- pkg:nuget/Weaviate@0.0.0-dev.134
+- pkg:nuget/Weaviate@0.0.0-dev.135
+- pkg:nuget/Weaviate@0.0.0-dev.137
+- pkg:nuget/Weaviate@0.0.0-dev.141
+- pkg:nuget/Weaviate@0.0.0-dev.142
 - pkg:nuget/Weaviate@0.0.0-dev.38
 - pkg:nuget/Weaviate@0.0.0-dev.94

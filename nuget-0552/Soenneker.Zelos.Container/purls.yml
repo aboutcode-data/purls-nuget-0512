@@ -273,3 +273,5 @@
 - pkg:nuget/Soenneker.Zelos.Container@4.0.357
 - pkg:nuget/Soenneker.Zelos.Container@4.0.372
 - pkg:nuget/Soenneker.Zelos.Container@4.0.384
+- pkg:nuget/Soenneker.Zelos.Container@4.0.386
+- pkg:nuget/Soenneker.Zelos.Container@4.0.387

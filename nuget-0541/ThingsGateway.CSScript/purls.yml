@@ -359,6 +359,10 @@
 - pkg:nuget/ThingsGateway.CSScript@12.4.45
 - pkg:nuget/ThingsGateway.CSScript@12.4.47
 - pkg:nuget/ThingsGateway.CSScript@12.4.66
+- pkg:nuget/ThingsGateway.CSScript@12.5.10
+- pkg:nuget/ThingsGateway.CSScript@12.5.11
+- pkg:nuget/ThingsGateway.CSScript@12.5.12
+- pkg:nuget/ThingsGateway.CSScript@12.5.9
 - pkg:nuget/ThingsGateway.CSScript@6.0.3.95
 - pkg:nuget/ThingsGateway.CSScript@6.0.4.2
 - pkg:nuget/ThingsGateway.CSScript@6.0.4.5

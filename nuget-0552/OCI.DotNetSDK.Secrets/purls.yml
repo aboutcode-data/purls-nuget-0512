@@ -50,6 +50,7 @@
 - pkg:nuget/OCI.DotNetSDK.Secrets@122.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Secrets@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Secrets@14.2.0

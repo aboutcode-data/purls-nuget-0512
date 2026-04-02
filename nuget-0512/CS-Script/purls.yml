@@ -76,6 +76,7 @@
 - pkg:nuget/CS-Script@4.10.0
 - pkg:nuget/CS-Script@4.10.1
 - pkg:nuget/CS-Script@4.11.0
+- pkg:nuget/CS-Script@4.14.4
 - pkg:nuget/CS-Script@4.2.0
 - pkg:nuget/CS-Script@4.3.0
 - pkg:nuget/CS-Script@4.4.0

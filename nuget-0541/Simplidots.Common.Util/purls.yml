@@ -338,6 +338,12 @@
 - pkg:nuget/Simplidots.Common.Util@2.11.8
 - pkg:nuget/Simplidots.Common.Util@2.11.9
 - pkg:nuget/Simplidots.Common.Util@2.12.11
+- pkg:nuget/Simplidots.Common.Util@2.12.13
+- pkg:nuget/Simplidots.Common.Util@2.12.13-beta.20260327.1
+- pkg:nuget/Simplidots.Common.Util@2.12.13-beta.20260327.2
+- pkg:nuget/Simplidots.Common.Util@2.12.13-beta.20260401.1
+- pkg:nuget/Simplidots.Common.Util@2.12.13-beta.20260402.1
+- pkg:nuget/Simplidots.Common.Util@2.12.13-beta.20260402.2
 - pkg:nuget/Simplidots.Common.Util@2.12.4-beta.20260121.1
 - pkg:nuget/Simplidots.Common.Util@2.2.0
 - pkg:nuget/Simplidots.Common.Util@2.2.1

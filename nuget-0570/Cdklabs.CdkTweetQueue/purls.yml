@@ -1087,6 +1087,7 @@
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.920
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.93
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.94
+- pkg:nuget/Cdklabs.CdkTweetQueue@2.0.944
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.95
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.96
 - pkg:nuget/Cdklabs.CdkTweetQueue@2.0.97

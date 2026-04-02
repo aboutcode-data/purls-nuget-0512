@@ -124,5 +124,15 @@
 - pkg:nuget/PaymentManagementService@1.9.2
 - pkg:nuget/PaymentManagementService@1.9.33-alpha
 - pkg:nuget/PaymentManagementService@1.9.44-alpha
+- pkg:nuget/PaymentManagementService@1.9.64-beta
+- pkg:nuget/PaymentManagementService@1.9.65-alpha
+- pkg:nuget/PaymentManagementService@1.9.66-alpha
+- pkg:nuget/PaymentManagementService@1.9.67-alpha
+- pkg:nuget/PaymentManagementService@1.9.68-alpha
+- pkg:nuget/PaymentManagementService@1.9.69-alpha
 - pkg:nuget/PaymentManagementService@1.9.7-aplha
+- pkg:nuget/PaymentManagementService@1.9.70-alpha
+- pkg:nuget/PaymentManagementService@1.9.72-alpha
+- pkg:nuget/PaymentManagementService@1.9.73-alpha
+- pkg:nuget/PaymentManagementService@1.9.74-alpha
 - pkg:nuget/PaymentManagementService@1.9.8-aplha

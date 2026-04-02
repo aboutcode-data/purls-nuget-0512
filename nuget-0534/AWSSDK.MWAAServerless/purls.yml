@@ -8,3 +8,8 @@
 - pkg:nuget/AWSSDK.MWAAServerless@3.7.500.44
 - pkg:nuget/AWSSDK.MWAAServerless@3.7.500.47
 - pkg:nuget/AWSSDK.MWAAServerless@3.7.500.48
+- pkg:nuget/AWSSDK.MWAAServerless@3.7.500.49
+- pkg:nuget/AWSSDK.MWAAServerless@4.0.0.15
+- pkg:nuget/AWSSDK.MWAAServerless@4.0.0.16
+- pkg:nuget/AWSSDK.MWAAServerless@4.0.0.17
+- pkg:nuget/AWSSDK.MWAAServerless@4.0.0.18

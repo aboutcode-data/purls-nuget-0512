@@ -141,6 +141,7 @@
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@14.1.7.1
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@14.1.8.1
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@14.1.9.1
+- pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@15.0.8.1
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@2.1.1.1
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@2.1.1.10
 - pkg:nuget/Vintasoft.Imaging.AspNetCore.ApiControllers@2.1.1.11

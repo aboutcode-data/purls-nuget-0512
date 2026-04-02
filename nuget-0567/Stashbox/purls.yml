@@ -331,6 +331,8 @@
 - pkg:nuget/Stashbox@5.16.0
 - pkg:nuget/Stashbox@5.17.0
 - pkg:nuget/Stashbox@5.17.1
+- pkg:nuget/Stashbox@5.18.0
+- pkg:nuget/Stashbox@5.19.0
 - pkg:nuget/Stashbox@5.2.0
 - pkg:nuget/Stashbox@5.2.0-preview-736
 - pkg:nuget/Stashbox@5.2.0-preview-737

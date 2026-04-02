@@ -13,3 +13,4 @@
 - pkg:nuget/LiveMarkdown.Avalonia@1.3.4
 - pkg:nuget/LiveMarkdown.Avalonia@1.6.0
 - pkg:nuget/LiveMarkdown.Avalonia@1.8.0
+- pkg:nuget/LiveMarkdown.Avalonia@2.0.0-rc1

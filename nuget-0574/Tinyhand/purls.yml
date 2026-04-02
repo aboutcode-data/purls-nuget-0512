@@ -96,6 +96,7 @@
 - pkg:nuget/Tinyhand@0.129.0
 - pkg:nuget/Tinyhand@0.13.0
 - pkg:nuget/Tinyhand@0.13.1
+- pkg:nuget/Tinyhand@0.135.3
 - pkg:nuget/Tinyhand@0.14.0
 - pkg:nuget/Tinyhand@0.14.1
 - pkg:nuget/Tinyhand@0.14.2

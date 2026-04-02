@@ -361,7 +361,11 @@
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.4.47
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.4.66
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.4.67
+- pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.5.10
+- pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.5.11
+- pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.5.12
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.5.2
+- pkg:nuget/ThingsGateway.Foundation.SiemensS7@12.5.9
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@5.0.0
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@5.0.0.1
 - pkg:nuget/ThingsGateway.Foundation.SiemensS7@5.0.0.10

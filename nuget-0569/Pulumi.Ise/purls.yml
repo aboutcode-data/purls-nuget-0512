@@ -239,3 +239,5 @@
 - pkg:nuget/Pulumi.Ise@0.3.0-alpha.1771913402
 - pkg:nuget/Pulumi.Ise@0.3.0-alpha.1772691206
 - pkg:nuget/Pulumi.Ise@0.4.0-alpha.1773727662
+- pkg:nuget/Pulumi.Ise@0.4.0-alpha.1774760788
+- pkg:nuget/Pulumi.Ise@0.4.0-alpha.1774890152

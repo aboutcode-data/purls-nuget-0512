@@ -82,6 +82,7 @@
 - pkg:nuget/Indice.Features.Risk.UI@8.3.0
 - pkg:nuget/Indice.Features.Risk.UI@8.4.0
 - pkg:nuget/Indice.Features.Risk.UI@8.40.0
+- pkg:nuget/Indice.Features.Risk.UI@8.42.0
 - pkg:nuget/Indice.Features.Risk.UI@8.5.0
 - pkg:nuget/Indice.Features.Risk.UI@8.6.0
 - pkg:nuget/Indice.Features.Risk.UI@8.7.0

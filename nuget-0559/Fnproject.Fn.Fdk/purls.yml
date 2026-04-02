@@ -72,6 +72,7 @@
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.48
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.5
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.53
+- pkg:nuget/Fnproject.Fn.Fdk@1.0.55
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.6
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.7
 - pkg:nuget/Fnproject.Fn.Fdk@1.0.9

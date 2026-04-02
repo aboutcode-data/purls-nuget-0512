@@ -82,6 +82,7 @@
 - pkg:nuget/CefSharp.Wpf@138.0.340
 - pkg:nuget/CefSharp.Wpf@139.0.280
 - pkg:nuget/CefSharp.Wpf@140.1.140
+- pkg:nuget/CefSharp.Wpf@146.0.70
 - pkg:nuget/CefSharp.Wpf@3.29.0-pre0
 - pkg:nuget/CefSharp.Wpf@31.0.0-pre1
 - pkg:nuget/CefSharp.Wpf@33.0.0

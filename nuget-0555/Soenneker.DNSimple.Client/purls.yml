@@ -252,3 +252,6 @@
 - pkg:nuget/Soenneker.DNSimple.Client@4.0.401
 - pkg:nuget/Soenneker.DNSimple.Client@4.0.413
 - pkg:nuget/Soenneker.DNSimple.Client@4.0.415
+- pkg:nuget/Soenneker.DNSimple.Client@4.0.417
+- pkg:nuget/Soenneker.DNSimple.Client@4.0.418
+- pkg:nuget/Soenneker.DNSimple.Client@4.0.419

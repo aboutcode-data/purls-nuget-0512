@@ -786,3 +786,5 @@
 - pkg:nuget/Redpoint.Vfs.Driver.WinFsp@2026.1064.360
 - pkg:nuget/Redpoint.Vfs.Driver.WinFsp@2026.1076.358
 - pkg:nuget/Redpoint.Vfs.Driver.WinFsp@2026.1076.368
+- pkg:nuget/Redpoint.Vfs.Driver.WinFsp@2026.1092.189
+- pkg:nuget/Redpoint.Vfs.Driver.WinFsp@2026.1092.252

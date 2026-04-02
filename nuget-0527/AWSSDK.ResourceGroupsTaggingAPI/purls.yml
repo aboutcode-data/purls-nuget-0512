@@ -1176,6 +1176,7 @@
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@3.7.502.43
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@3.7.502.46
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@3.7.502.47
+- pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@3.7.502.48
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@3.7.502.7
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.0
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.0-preview
@@ -1215,3 +1216,7 @@
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.0.7
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.0.8
 - pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.0.9
+- pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.2.15
+- pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.2.16
+- pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.2.17
+- pkg:nuget/AWSSDK.ResourceGroupsTaggingAPI@4.0.2.18

@@ -1,2 +1,5 @@
 - pkg:nuget/DTOMaker.Models.BinaryTree@1.8.1-dev
 - pkg:nuget/DTOMaker.Models.BinaryTree@2.0.13-dev
+- pkg:nuget/DTOMaker.Models.BinaryTree@2.0.36-dev
+- pkg:nuget/DTOMaker.Models.BinaryTree@2.0.38-dev
+- pkg:nuget/DTOMaker.Models.BinaryTree@2.0.39-dev

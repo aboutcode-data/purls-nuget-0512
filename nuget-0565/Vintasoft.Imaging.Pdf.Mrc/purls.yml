@@ -108,6 +108,7 @@
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@11.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@11.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@11.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@12.0.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@2.0.0.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@2.0.0.11
 - pkg:nuget/Vintasoft.Imaging.Pdf.Mrc@2.0.0.15

@@ -1,2 +1,6 @@
+- pkg:nuget/Linqraft.Core@0.10.0
+- pkg:nuget/Linqraft.Core@0.10.1
+- pkg:nuget/Linqraft.Core@0.10.2
 - pkg:nuget/Linqraft.Core@0.10.6-beta.2.g0c6b0f58c5
+- pkg:nuget/Linqraft.Core@0.10.97-rc.5
 - pkg:nuget/Linqraft.Core@0.3.2

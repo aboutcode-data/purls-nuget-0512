@@ -14,6 +14,7 @@
 - pkg:nuget/Hlix.Migrations.Extensions@1.2.8
 - pkg:nuget/Hlix.Migrations.Extensions@1.2.9
 - pkg:nuget/Hlix.Migrations.Extensions@1.3.0
+- pkg:nuget/Hlix.Migrations.Extensions@10.0.0
 - pkg:nuget/Hlix.Migrations.Extensions@2.0.0
 - pkg:nuget/Hlix.Migrations.Extensions@6.0.0
 - pkg:nuget/Hlix.Migrations.Extensions@8.0.0

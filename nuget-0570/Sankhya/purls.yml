@@ -417,7 +417,13 @@
 - pkg:nuget/Sankhya@5.0.694
 - pkg:nuget/Sankhya@5.0.71
 - pkg:nuget/Sankhya@5.0.74
+- pkg:nuget/Sankhya@5.0.756
+- pkg:nuget/Sankhya@5.0.761
+- pkg:nuget/Sankhya@5.0.768
 - pkg:nuget/Sankhya@5.0.77
+- pkg:nuget/Sankhya@5.0.771
+- pkg:nuget/Sankhya@5.0.774
+- pkg:nuget/Sankhya@5.0.777
 - pkg:nuget/Sankhya@5.0.8
 - pkg:nuget/Sankhya@5.0.82
 - pkg:nuget/Sankhya@5.0.85

@@ -173,6 +173,10 @@
 - pkg:nuget/GemBox.Presentation@2026.2.118
 - pkg:nuget/GemBox.Presentation@2026.3.114
 - pkg:nuget/GemBox.Presentation@2026.3.115
+- pkg:nuget/GemBox.Presentation@2026.3.118
+- pkg:nuget/GemBox.Presentation@2026.3.119
+- pkg:nuget/GemBox.Presentation@2026.3.120
+- pkg:nuget/GemBox.Presentation@2026.4.100
 - pkg:nuget/GemBox.Presentation@21.3.35.1000
 - pkg:nuget/GemBox.Presentation@21.3.35.1009
 - pkg:nuget/GemBox.Presentation@21.3.35.1011

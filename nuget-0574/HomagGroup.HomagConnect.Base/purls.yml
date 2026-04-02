@@ -1,3 +1,4 @@
+- pkg:nuget/HomagGroup.HomagConnect.Base@0.0.0-alpha.0
 - pkg:nuget/HomagGroup.HomagConnect.Base@1.1.2-alpha.0.1
 - pkg:nuget/HomagGroup.HomagConnect.Base@1.1.2-alpha.0.100
 - pkg:nuget/HomagGroup.HomagConnect.Base@1.1.2-alpha.0.101
@@ -391,6 +392,9 @@
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.31
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.32
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.33
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.346
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.347
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.348
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.35
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.36
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.37
@@ -451,3 +455,12 @@
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.97
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.98
 - pkg:nuget/HomagGroup.HomagConnect.Base@2.0.1-alpha.0.99
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.2-alpha.0.2
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.3
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.3-preview.3
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.3-preview.4
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.4-preview.1
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.4-preview.2
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.4-preview.3
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.4-preview.4
+- pkg:nuget/HomagGroup.HomagConnect.Base@2.2.4-preview.5

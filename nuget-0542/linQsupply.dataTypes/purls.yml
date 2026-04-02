@@ -26,6 +26,10 @@
 - pkg:nuget/linQsupply.dataTypes@1.0.125
 - pkg:nuget/linQsupply.dataTypes@1.0.126
 - pkg:nuget/linQsupply.dataTypes@1.0.127
+- pkg:nuget/linQsupply.dataTypes@1.0.156
+- pkg:nuget/linQsupply.dataTypes@1.0.157
+- pkg:nuget/linQsupply.dataTypes@1.0.158
+- pkg:nuget/linQsupply.dataTypes@1.0.159
 - pkg:nuget/linQsupply.dataTypes@1.0.37
 - pkg:nuget/linQsupply.dataTypes@1.0.38
 - pkg:nuget/linQsupply.dataTypes@1.0.39

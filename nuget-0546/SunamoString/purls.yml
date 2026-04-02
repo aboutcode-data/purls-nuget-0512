@@ -36,3 +36,4 @@
 - pkg:nuget/SunamoString@25.3.29.1
 - pkg:nuget/SunamoString@25.5.20.1
 - pkg:nuget/SunamoString@25.6.7.1
+- pkg:nuget/SunamoString@26.3.28.3
