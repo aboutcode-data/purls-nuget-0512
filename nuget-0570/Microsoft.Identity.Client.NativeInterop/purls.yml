@@ -41,6 +41,7 @@
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.19.2
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.19.3
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.19.4
+- pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.20.4
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.7.0-alpha
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.7.0-preview2
 - pkg:nuget/Microsoft.Identity.Client.NativeInterop@0.8.0

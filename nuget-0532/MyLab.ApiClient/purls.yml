@@ -23,6 +23,7 @@
 - pkg:nuget/MyLab.ApiClient@3.2.0
 - pkg:nuget/MyLab.ApiClient@3.20.30
 - pkg:nuget/MyLab.ApiClient@3.21.31
+- pkg:nuget/MyLab.ApiClient@3.21.35
 - pkg:nuget/MyLab.ApiClient@3.3.0
 - pkg:nuget/MyLab.ApiClient@3.3.1
 - pkg:nuget/MyLab.ApiClient@3.4.1

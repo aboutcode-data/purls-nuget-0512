@@ -43,6 +43,7 @@
 - pkg:nuget/WmsUtility.Database.Master@1.0.5
 - pkg:nuget/WmsUtility.Database.Master@1.0.55
 - pkg:nuget/WmsUtility.Database.Master@1.0.6
+- pkg:nuget/WmsUtility.Database.Master@1.0.68
 - pkg:nuget/WmsUtility.Database.Master@1.0.7
 - pkg:nuget/WmsUtility.Database.Master@1.0.8
 - pkg:nuget/WmsUtility.Database.Master@1.0.9

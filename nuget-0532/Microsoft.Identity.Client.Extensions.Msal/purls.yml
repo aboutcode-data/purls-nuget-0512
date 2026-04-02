@@ -136,3 +136,4 @@
 - pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.77.0
 - pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.77.1
 - pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.83.1
+- pkg:nuget/Microsoft.Identity.Client.Extensions.Msal@4.83.3

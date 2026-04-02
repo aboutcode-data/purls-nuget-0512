@@ -31,3 +31,5 @@
 - pkg:nuget/Eternet.Web.UI@1.0.6
 - pkg:nuget/Eternet.Web.UI@1.0.8
 - pkg:nuget/Eternet.Web.UI@1.0.9
+- pkg:nuget/Eternet.Web.UI@2.0.2
+- pkg:nuget/Eternet.Web.UI@2.0.3

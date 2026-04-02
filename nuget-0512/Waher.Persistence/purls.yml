@@ -30,6 +30,7 @@
 - pkg:nuget/Waher.Persistence@1.15.0
 - pkg:nuget/Waher.Persistence@1.15.1
 - pkg:nuget/Waher.Persistence@1.15.2
+- pkg:nuget/Waher.Persistence@1.19.0
 - pkg:nuget/Waher.Persistence@1.2.0
 - pkg:nuget/Waher.Persistence@1.2.1
 - pkg:nuget/Waher.Persistence@1.2.2

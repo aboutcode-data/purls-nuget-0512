@@ -285,3 +285,4 @@
 - pkg:nuget/BgFramework.Service@25.9.26.1
 - pkg:nuget/BgFramework.Service@26.1.26.1
 - pkg:nuget/BgFramework.Service@26.3.18.1
+- pkg:nuget/BgFramework.Service@26.3.26.1

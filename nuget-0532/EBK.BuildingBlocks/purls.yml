@@ -108,6 +108,11 @@
 - pkg:nuget/EBK.BuildingBlocks@8.0.13
 - pkg:nuget/EBK.BuildingBlocks@8.0.13-rc01
 - pkg:nuget/EBK.BuildingBlocks@8.0.131
+- pkg:nuget/EBK.BuildingBlocks@8.0.132
+- pkg:nuget/EBK.BuildingBlocks@8.0.132-rc01
+- pkg:nuget/EBK.BuildingBlocks@8.0.133
+- pkg:nuget/EBK.BuildingBlocks@8.0.134
+- pkg:nuget/EBK.BuildingBlocks@8.0.134-rc01
 - pkg:nuget/EBK.BuildingBlocks@8.0.14
 - pkg:nuget/EBK.BuildingBlocks@8.0.15
 - pkg:nuget/EBK.BuildingBlocks@8.0.16

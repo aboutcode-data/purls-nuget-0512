@@ -4,3 +4,4 @@
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.RabbitMQ@4.3.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.RabbitMQ@4.4.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.RabbitMQ@4.4.1
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.RabbitMQ@5.0.5
