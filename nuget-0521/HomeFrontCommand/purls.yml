@@ -3,3 +3,5 @@
 - pkg:nuget/HomeFrontCommand@2.5.0
 - pkg:nuget/HomeFrontCommand@3.0.0
 - pkg:nuget/HomeFrontCommand@3.5.0
+- pkg:nuget/HomeFrontCommand@5.0.1
+- pkg:nuget/HomeFrontCommand@5.0.2

@@ -1,3 +1,4 @@
 - pkg:nuget/WTG.Windows.Forms@0.1.0
 - pkg:nuget/WTG.Windows.Forms@0.1.0-pr.12.1
 - pkg:nuget/WTG.Windows.Forms@0.1.0-pr.7.11
+- pkg:nuget/WTG.Windows.Forms@0.1.1-pr.13.2

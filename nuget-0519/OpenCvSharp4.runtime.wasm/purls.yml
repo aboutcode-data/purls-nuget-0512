@@ -4,6 +4,7 @@
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.10.0.20241108
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.11.0.20250506
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.11.0.20250507
+- pkg:nuget/OpenCvSharp4.runtime.wasm@4.13.0.20260329
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.5.3.20211204
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.5.3.20211207
 - pkg:nuget/OpenCvSharp4.runtime.wasm@4.5.3.20211225

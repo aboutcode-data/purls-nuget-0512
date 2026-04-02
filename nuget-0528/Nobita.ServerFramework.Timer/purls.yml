@@ -13,3 +13,5 @@
 - pkg:nuget/Nobita.ServerFramework.Timer@2.0.0-rc-7
 - pkg:nuget/Nobita.ServerFramework.Timer@2.1.0
 - pkg:nuget/Nobita.ServerFramework.Timer@2.2.0
+- pkg:nuget/Nobita.ServerFramework.Timer@2.4.0
+- pkg:nuget/Nobita.ServerFramework.Timer@2.4.1

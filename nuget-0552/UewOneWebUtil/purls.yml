@@ -1,6 +1,8 @@
 - pkg:nuget/UewOneWebUtil@1.1.0.1
 - pkg:nuget/UewOneWebUtil@1.1.0.10
 - pkg:nuget/UewOneWebUtil@1.1.0.11
+- pkg:nuget/UewOneWebUtil@1.1.0.12
+- pkg:nuget/UewOneWebUtil@1.1.0.13
 - pkg:nuget/UewOneWebUtil@1.1.0.2
 - pkg:nuget/UewOneWebUtil@1.1.0.3
 - pkg:nuget/UewOneWebUtil@1.1.0.4

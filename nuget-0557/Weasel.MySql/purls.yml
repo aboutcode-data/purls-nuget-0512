@@ -1,2 +1,5 @@
+- pkg:nuget/Weasel.MySql@8.11.0
+- pkg:nuget/Weasel.MySql@8.11.1
+- pkg:nuget/Weasel.MySql@8.11.2
 - pkg:nuget/Weasel.MySql@8.5.0
 - pkg:nuget/Weasel.MySql@8.6.1
