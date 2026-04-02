@@ -1,1 +1,2 @@
 - pkg:nuget/KnightBus.PostgreSql.Management.Extensions.Azure@3.0.0-alpha-ff7a73ac
+- pkg:nuget/KnightBus.PostgreSql.Management.Extensions.Azure@3.1.0

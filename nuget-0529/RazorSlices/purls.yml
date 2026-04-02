@@ -2,6 +2,7 @@
 - pkg:nuget/RazorSlices@0.1.0-pre.20230307.10
 - pkg:nuget/RazorSlices@0.1.1
 - pkg:nuget/RazorSlices@0.1.2
+- pkg:nuget/RazorSlices@0.10.0
 - pkg:nuget/RazorSlices@0.2.0
 - pkg:nuget/RazorSlices@0.3.0
 - pkg:nuget/RazorSlices@0.4.0
