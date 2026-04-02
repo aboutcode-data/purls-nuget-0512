@@ -2,6 +2,8 @@
 - pkg:nuget/Rsk.AdminUI@10.1.0
 - pkg:nuget/Rsk.AdminUI@10.2.0
 - pkg:nuget/Rsk.AdminUI@10.2.1
+- pkg:nuget/Rsk.AdminUI@11.0.2
+- pkg:nuget/Rsk.AdminUI@12.0.0
 - pkg:nuget/Rsk.AdminUI@6.3.0
 - pkg:nuget/Rsk.AdminUI@6.3.0-preview-1
 - pkg:nuget/Rsk.AdminUI@6.3.0-preview-2

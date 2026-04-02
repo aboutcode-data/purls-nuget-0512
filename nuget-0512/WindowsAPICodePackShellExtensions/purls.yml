@@ -9,6 +9,8 @@
 - pkg:nuget/WindowsAPICodePackShellExtensions@7.0.4
 - pkg:nuget/WindowsAPICodePackShellExtensions@8.0.0
 - pkg:nuget/WindowsAPICodePackShellExtensions@8.0.1
+- pkg:nuget/WindowsAPICodePackShellExtensions@8.0.15
+- pkg:nuget/WindowsAPICodePackShellExtensions@8.0.15.1
 - pkg:nuget/WindowsAPICodePackShellExtensions@8.0.2
 - pkg:nuget/WindowsAPICodePackShellExtensions@8.0.4
 - pkg:nuget/WindowsAPICodePackShellExtensions@8.0.5

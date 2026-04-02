@@ -3,3 +3,7 @@
 - pkg:nuget/ObsWebSocket.Core@0.1.4
 - pkg:nuget/ObsWebSocket.Core@0.1.5
 - pkg:nuget/ObsWebSocket.Core@0.2.0-beta1
+- pkg:nuget/ObsWebSocket.Core@0.2.0-beta2
+- pkg:nuget/ObsWebSocket.Core@0.3.0
+- pkg:nuget/ObsWebSocket.Core@0.3.0-dev1
+- pkg:nuget/ObsWebSocket.Core@0.3.0-dev2
