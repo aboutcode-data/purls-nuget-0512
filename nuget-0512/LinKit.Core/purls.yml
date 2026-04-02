@@ -10,3 +10,8 @@
 - pkg:nuget/LinKit.Core@1.0.9
 - pkg:nuget/LinKit.Core@1.1.0
 - pkg:nuget/LinKit.Core@2.0.6
+- pkg:nuget/LinKit.Core@2.1.9
+- pkg:nuget/LinKit.Core@2.2.0
+- pkg:nuget/LinKit.Core@2.2.1
+- pkg:nuget/LinKit.Core@2.2.2
+- pkg:nuget/LinKit.Core@2.2.3

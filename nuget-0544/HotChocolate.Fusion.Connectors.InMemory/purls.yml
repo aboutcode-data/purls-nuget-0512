@@ -1,0 +1,5 @@
+- pkg:nuget/HotChocolate.Fusion.Connectors.InMemory@16.0.0-rc.1.21
+- pkg:nuget/HotChocolate.Fusion.Connectors.InMemory@16.0.0-rc.1.22
+- pkg:nuget/HotChocolate.Fusion.Connectors.InMemory@16.0.0-rc.1.23
+- pkg:nuget/HotChocolate.Fusion.Connectors.InMemory@16.0.0-rc.1.24
+- pkg:nuget/HotChocolate.Fusion.Connectors.InMemory@16.0.0-rc.1.25

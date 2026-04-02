@@ -31,6 +31,7 @@
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@12.0.1
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@12.0.2
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@13.0.0
+- pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@13.1.0
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@2.0.0
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@3.0.0
 - pkg:nuget/Coveo.Connectors.Utilities.PlatformSdk@3.1.0

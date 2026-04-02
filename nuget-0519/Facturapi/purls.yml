@@ -39,3 +39,5 @@
 - pkg:nuget/Facturapi@4.8.0
 - pkg:nuget/Facturapi@4.9.0
 - pkg:nuget/Facturapi@4.9.1
+- pkg:nuget/Facturapi@6.0.0
+- pkg:nuget/Facturapi@6.1.0

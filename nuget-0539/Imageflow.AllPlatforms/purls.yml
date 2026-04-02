@@ -9,6 +9,7 @@
 - pkg:nuget/Imageflow.AllPlatforms@0.13.2
 - pkg:nuget/Imageflow.AllPlatforms@0.14.0-rc01
 - pkg:nuget/Imageflow.AllPlatforms@0.14.1
+- pkg:nuget/Imageflow.AllPlatforms@0.15.1
 - pkg:nuget/Imageflow.AllPlatforms@0.7.22
 - pkg:nuget/Imageflow.AllPlatforms@0.7.23
 - pkg:nuget/Imageflow.AllPlatforms@0.7.24

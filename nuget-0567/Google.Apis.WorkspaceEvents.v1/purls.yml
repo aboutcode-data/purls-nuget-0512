@@ -19,3 +19,4 @@
 - pkg:nuget/Google.Apis.WorkspaceEvents.v1@1.70.0.3818
 - pkg:nuget/Google.Apis.WorkspaceEvents.v1@1.70.0.3832
 - pkg:nuget/Google.Apis.WorkspaceEvents.v1@1.70.0.3841
+- pkg:nuget/Google.Apis.WorkspaceEvents.v1@1.73.0.4105

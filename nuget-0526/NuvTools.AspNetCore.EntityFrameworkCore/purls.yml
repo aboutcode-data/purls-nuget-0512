@@ -1,5 +1,6 @@
 - pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@10.1.2
 - pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@10.1.5
+- pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@10.1.6
 - pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@6.5.0
 - pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@7.0.0
 - pkg:nuget/NuvTools.AspNetCore.EntityFrameworkCore@7.0.1

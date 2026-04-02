@@ -15,6 +15,7 @@
 - pkg:nuget/OpenCvSharp4@4.10.0.20241108
 - pkg:nuget/OpenCvSharp4@4.11.0.20250506
 - pkg:nuget/OpenCvSharp4@4.11.0.20250507
+- pkg:nuget/OpenCvSharp4@4.13.0.20260330
 - pkg:nuget/OpenCvSharp4@4.2.0.20191223
 - pkg:nuget/OpenCvSharp4@4.2.0.20200108
 - pkg:nuget/OpenCvSharp4@4.2.0.20200208
