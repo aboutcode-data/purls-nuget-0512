@@ -1,1 +1,5 @@
 - pkg:nuget/Juice.Messaging.Contracts@9.3.2
+- pkg:nuget/Juice.Messaging.Contracts@9.5.3
+- pkg:nuget/Juice.Messaging.Contracts@9.5.4
+- pkg:nuget/Juice.Messaging.Contracts@9.5.5
+- pkg:nuget/Juice.Messaging.Contracts@9.6.0

@@ -7,3 +7,5 @@
 - pkg:nuget/Sitecore.AspNetCore.SDK.Tracking@0.0.9
 - pkg:nuget/Sitecore.AspNetCore.SDK.Tracking@0.1.0
 - pkg:nuget/Sitecore.AspNetCore.SDK.Tracking@0.1.1
+- pkg:nuget/Sitecore.AspNetCore.SDK.Tracking@0.1.2
+- pkg:nuget/Sitecore.AspNetCore.SDK.Tracking@0.1.3
