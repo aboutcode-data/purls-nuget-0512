@@ -1,0 +1,3 @@
+- pkg:nuget/LeadSoft.Adapter.Aws.SecretsManager@10.1.0
+- pkg:nuget/LeadSoft.Adapter.Aws.SecretsManager@10.1.2
+- pkg:nuget/LeadSoft.Adapter.Aws.SecretsManager@10.1.3

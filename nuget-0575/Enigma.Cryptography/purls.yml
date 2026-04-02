@@ -9,3 +9,4 @@
 - pkg:nuget/Enigma.Cryptography@3.5.3
 - pkg:nuget/Enigma.Cryptography@4.0.0
 - pkg:nuget/Enigma.Cryptography@4.0.1
+- pkg:nuget/Enigma.Cryptography@4.3.0

@@ -1,0 +1,5 @@
+- pkg:nuget/Atlantis.Analyzers@0.1.0-ci.24
+- pkg:nuget/Atlantis.Analyzers@0.1.0-ci.26
+- pkg:nuget/Atlantis.Analyzers@0.1.0-ci.30
+- pkg:nuget/Atlantis.Analyzers@0.1.0-ci.32
+- pkg:nuget/Atlantis.Analyzers@0.1.0-ci.34
