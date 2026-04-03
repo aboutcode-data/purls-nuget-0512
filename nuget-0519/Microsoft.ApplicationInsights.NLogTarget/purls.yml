@@ -87,3 +87,4 @@
 - pkg:nuget/Microsoft.ApplicationInsights.NLogTarget@2.8.1
 - pkg:nuget/Microsoft.ApplicationInsights.NLogTarget@2.9.0-beta3
 - pkg:nuget/Microsoft.ApplicationInsights.NLogTarget@2.9.1
+- pkg:nuget/Microsoft.ApplicationInsights.NLogTarget@3.1.0-beta4
