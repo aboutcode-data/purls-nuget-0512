@@ -13,3 +13,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.CosmosDB@1.24.7
 - pkg:nuget/TestTrackingDiagrams.Extensions.CosmosDB@1.24.8
 - pkg:nuget/TestTrackingDiagrams.Extensions.CosmosDB@1.24.9
+- pkg:nuget/TestTrackingDiagrams.Extensions.CosmosDB@2.0.13-alpha
