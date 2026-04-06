@@ -1448,3 +1448,4 @@
 - pkg:nuget/MassTransit.RabbitMQ@9.1.0-develop.96
 - pkg:nuget/MassTransit.RabbitMQ@9.1.0-develop.98
 - pkg:nuget/MassTransit.RabbitMQ@9.1.0-develop.99
+- pkg:nuget/MassTransit.RabbitMQ@9.2.0-develop.105
