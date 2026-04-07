@@ -57,3 +57,4 @@
 - pkg:nuget/IF.APM.Client.Direct@6.2.1
 - pkg:nuget/IF.APM.Client.Direct@6.2.2
 - pkg:nuget/IF.APM.Client.Direct@6.4.0
+- pkg:nuget/IF.APM.Client.Direct@8.0.1
