@@ -395,5 +395,6 @@
 - pkg:nuget/Foundation.Shared.Translations@1.1.12-sandbox-dashboards-x-datas
 - pkg:nuget/Foundation.Shared.Translations@1.1.12-sandbox-dashboards-x-datas-02
 - pkg:nuget/Foundation.Shared.Translations@1.1.13
+- pkg:nuget/Foundation.Shared.Translations@1.1.14-fix-last
 - pkg:nuget/Foundation.Shared.Translations@1.1.4
 - pkg:nuget/Foundation.Shared.Translations@1.1.6
