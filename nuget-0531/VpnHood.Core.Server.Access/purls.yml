@@ -68,3 +68,4 @@
 - pkg:nuget/VpnHood.Core.Server.Access@7.3.759
 - pkg:nuget/VpnHood.Core.Server.Access@7.3.760
 - pkg:nuget/VpnHood.Core.Server.Access@7.3.761-prerelease
+- pkg:nuget/VpnHood.Core.Server.Access@7.7.798
