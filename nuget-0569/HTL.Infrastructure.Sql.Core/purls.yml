@@ -1,2 +1,3 @@
 - pkg:nuget/HTL.Infrastructure.Sql.Core@1.0.20
 - pkg:nuget/HTL.Infrastructure.Sql.Core@1.0.21
+- pkg:nuget/HTL.Infrastructure.Sql.Core@1.0.24
