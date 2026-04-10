@@ -1023,3 +1023,5 @@
 - pkg:nuget/ThinkGeo.FileGeoDatabase@14.5.0-beta138
 - pkg:nuget/ThinkGeo.FileGeoDatabase@15.0.0-beta001
 - pkg:nuget/ThinkGeo.FileGeoDatabase@15.0.0-beta005
+- pkg:nuget/ThinkGeo.FileGeoDatabase@15.0.0-beta007
+- pkg:nuget/ThinkGeo.FileGeoDatabase@15.0.0-beta008

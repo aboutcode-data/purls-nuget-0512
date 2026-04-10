@@ -17,6 +17,7 @@
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@1.2.65
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@1.2.66
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@1.2.67
+- pkg:nuget/ParkSquare.AspNetCore.Sitemap@10.0.0
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@6.0.0
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@6.0.1
 - pkg:nuget/ParkSquare.AspNetCore.Sitemap@6.0.2
