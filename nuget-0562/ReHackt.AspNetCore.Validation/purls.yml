@@ -34,6 +34,8 @@
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.133
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.135
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.140
+- pkg:nuget/ReHackt.AspNetCore.Validation@8.0.141
+- pkg:nuget/ReHackt.AspNetCore.Validation@8.0.142
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.16
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.17
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.18
