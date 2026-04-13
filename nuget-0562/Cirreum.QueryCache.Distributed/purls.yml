@@ -2,4 +2,5 @@
 - pkg:nuget/Cirreum.QueryCache.Distributed@1.0.12
 - pkg:nuget/Cirreum.QueryCache.Distributed@1.0.2
 - pkg:nuget/Cirreum.QueryCache.Distributed@1.0.24
+- pkg:nuget/Cirreum.QueryCache.Distributed@1.0.35
 - pkg:nuget/Cirreum.QueryCache.Distributed@1.0.7
