@@ -9,3 +9,4 @@
 - pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.2-develop.250317161245
 - pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.3
 - pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.0.3-develop.250414153512
+- pkg:nuget/Hyperbee.Migrations.Providers.Couchbase@2.1.1
