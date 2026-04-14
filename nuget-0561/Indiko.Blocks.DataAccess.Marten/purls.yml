@@ -1,1 +1,2 @@
 - pkg:nuget/Indiko.Blocks.DataAccess.Marten@2.5.0
+- pkg:nuget/Indiko.Blocks.DataAccess.Marten@2.5.1
