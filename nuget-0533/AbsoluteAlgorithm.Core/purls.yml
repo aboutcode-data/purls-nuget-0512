@@ -1,6 +1,11 @@
+- pkg:nuget/AbsoluteAlgorithm.Core@1.0.0
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.2
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.5
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.6
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.7
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.8
 - pkg:nuget/AbsoluteAlgorithm.Core@1.0.0-beta.9
+- pkg:nuget/AbsoluteAlgorithm.Core@1.0.1
+- pkg:nuget/AbsoluteAlgorithm.Core@1.0.1-beta.15
+- pkg:nuget/AbsoluteAlgorithm.Core@1.0.2
+- pkg:nuget/AbsoluteAlgorithm.Core@1.0.2-beta.16
