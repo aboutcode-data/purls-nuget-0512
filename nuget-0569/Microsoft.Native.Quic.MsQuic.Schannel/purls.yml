@@ -21,6 +21,7 @@
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.15%2B130167594
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.16%2B132445597
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.16-ci.132314042
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.18%2B144494377
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.3%2B515734
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.5%2B532198
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.4.7%2B549005
@@ -104,6 +105,7 @@
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.5.0-x64%2B126754598
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.5.3%2B128399365
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.5.4%2B129107507
+- pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.5.7%2B144500058
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.6.0-arm64-ci.126748101
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.6.0-arm64-ci.126760397
 - pkg:nuget/Microsoft.Native.Quic.MsQuic.Schannel@2.6.0-arm64-ci.126807281

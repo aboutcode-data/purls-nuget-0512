@@ -60,6 +60,7 @@
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.23
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.24
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.25
+- pkg:nuget/Microsoft.OpenApi.Readers@1.6.29
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.3
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.4
 - pkg:nuget/Microsoft.OpenApi.Readers@1.6.4-preview1
