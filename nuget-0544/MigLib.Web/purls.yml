@@ -10,3 +10,4 @@
 - pkg:nuget/MigLib.Web@5.2.9
 - pkg:nuget/MigLib.Web@5.3.0
 - pkg:nuget/MigLib.Web@5.4.0
+- pkg:nuget/MigLib.Web@7.0.1
