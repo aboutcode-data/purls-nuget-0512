@@ -1,1 +1,2 @@
 - pkg:nuget/WB.Logging@1.0.0
+- pkg:nuget/WB.Logging@2.0.0-preview.5
