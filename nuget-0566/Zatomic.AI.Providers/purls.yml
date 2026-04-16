@@ -73,4 +73,7 @@
 - pkg:nuget/Zatomic.AI.Providers@2.7.0
 - pkg:nuget/Zatomic.AI.Providers@2.8.0
 - pkg:nuget/Zatomic.AI.Providers@2.9.0
+- pkg:nuget/Zatomic.AI.Providers@4.10.0
+- pkg:nuget/Zatomic.AI.Providers@4.5.0
 - pkg:nuget/Zatomic.AI.Providers@4.6.0
+- pkg:nuget/Zatomic.AI.Providers@4.7.0
