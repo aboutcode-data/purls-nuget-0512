@@ -1613,6 +1613,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data@3.917.7
 - pkg:nuget/VirtoCommerce.Platform.Data@3.92.0
 - pkg:nuget/VirtoCommerce.Platform.Data@3.92.0-alpha.12162
+- pkg:nuget/VirtoCommerce.Platform.Data@3.920.1
 - pkg:nuget/VirtoCommerce.Platform.Data@3.93.0
 - pkg:nuget/VirtoCommerce.Platform.Data@3.93.0-alpha.12163
 - pkg:nuget/VirtoCommerce.Platform.Data@3.93.0-alpha.12165
