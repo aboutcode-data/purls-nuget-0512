@@ -1,6 +1,7 @@
 - pkg:nuget/DH.AspNetCoreProxy@10.0.2026.13000013
 - pkg:nuget/DH.AspNetCoreProxy@10.0.2026.41600019
 - pkg:nuget/DH.AspNetCoreProxy@10.0.2026.41600020
+- pkg:nuget/DH.AspNetCoreProxy@10.0.2026.41600021
 - pkg:nuget/DH.AspNetCoreProxy@3.6.2024.7020086
 - pkg:nuget/DH.AspNetCoreProxy@3.6.2024.7020087
 - pkg:nuget/DH.AspNetCoreProxy@3.6.2024.7030088
