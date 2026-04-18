@@ -1,1 +1,2 @@
 - pkg:nuget/TerminalStateGuard@1.2.1
+- pkg:nuget/TerminalStateGuard@2.0.3
