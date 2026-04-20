@@ -257,3 +257,4 @@
 - pkg:nuget/PayTech.RestHost@1.9.8
 - pkg:nuget/PayTech.RestHost@2.0.1.5
 - pkg:nuget/PayTech.RestHost@2.0.1.8
+- pkg:nuget/PayTech.RestHost@2.0.2.7
