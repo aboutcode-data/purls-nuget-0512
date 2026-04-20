@@ -25,3 +25,4 @@
 - pkg:nuget/Shuttle.Access.RestClient@8.1.4
 - pkg:nuget/Shuttle.Access.RestClient@9.0.0-rc3
 - pkg:nuget/Shuttle.Access.RestClient@9.0.0-rc7
+- pkg:nuget/Shuttle.Access.RestClient@9.0.6
