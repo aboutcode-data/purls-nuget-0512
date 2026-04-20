@@ -1,1 +1,3 @@
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Sources@1.51.0
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Sources@1.53.1
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Sources@1.53.2
