@@ -1,2 +1,5 @@
 - pkg:nuget/AstraGuard.SDK@1.0.5
 - pkg:nuget/AstraGuard.SDK@1.0.6
+- pkg:nuget/AstraGuard.SDK@2.0.9
+- pkg:nuget/AstraGuard.SDK@2.1.0
+- pkg:nuget/AstraGuard.SDK@2.1.1
