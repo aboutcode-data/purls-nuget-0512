@@ -9,3 +9,6 @@
 - pkg:nuget/CoinMarketCapDotNet@1.0.7
 - pkg:nuget/CoinMarketCapDotNet@1.0.8
 - pkg:nuget/CoinMarketCapDotNet@1.0.9
+- pkg:nuget/CoinMarketCapDotNet@2.3.0
+- pkg:nuget/CoinMarketCapDotNet@2.4.0
+- pkg:nuget/CoinMarketCapDotNet@2.5.0
