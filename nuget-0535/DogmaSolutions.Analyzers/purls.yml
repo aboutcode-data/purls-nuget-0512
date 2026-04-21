@@ -29,3 +29,5 @@
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.68
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.70
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.74
+- pkg:nuget/DogmaSolutions.Analyzers@1.0.79
+- pkg:nuget/DogmaSolutions.Analyzers@1.0.80
