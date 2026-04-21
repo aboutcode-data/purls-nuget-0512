@@ -149,4 +149,5 @@
 - pkg:nuget/Scandit.DataCapture.IdCapture.Xamarin@7.6.0
 - pkg:nuget/Scandit.DataCapture.IdCapture.Xamarin@7.6.0-beta.1
 - pkg:nuget/Scandit.DataCapture.IdCapture.Xamarin@7.6.10
+- pkg:nuget/Scandit.DataCapture.IdCapture.Xamarin@7.6.12
 - pkg:nuget/Scandit.DataCapture.IdCapture.Xamarin@7.6.4

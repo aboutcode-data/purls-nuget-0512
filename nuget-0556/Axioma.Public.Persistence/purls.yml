@@ -320,3 +320,4 @@
 - pkg:nuget/Axioma.Public.Persistence@6.1.2
 - pkg:nuget/Axioma.Public.Persistence@6.1.22
 - pkg:nuget/Axioma.Public.Persistence@6.1.3
+- pkg:nuget/Axioma.Public.Persistence@7.0.25
