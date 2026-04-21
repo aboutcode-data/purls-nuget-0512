@@ -2,6 +2,9 @@
 - pkg:nuget/DialogHost.Avalonia@0.1.1
 - pkg:nuget/DialogHost.Avalonia@0.11.0
 - pkg:nuget/DialogHost.Avalonia@0.11.0-avalonia12
+- pkg:nuget/DialogHost.Avalonia@0.12.1
+- pkg:nuget/DialogHost.Avalonia@0.12.1-nightly.0.1
+- pkg:nuget/DialogHost.Avalonia@0.12.1-nightly.0.2
 - pkg:nuget/DialogHost.Avalonia@0.2.0
 - pkg:nuget/DialogHost.Avalonia@0.2.1
 - pkg:nuget/DialogHost.Avalonia@0.2.2
