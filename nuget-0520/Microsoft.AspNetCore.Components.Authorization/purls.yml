@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@10.0.3
+- pkg:nuget/Microsoft.AspNetCore.Components.Authorization@10.0.7
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.Components.Authorization@3.0.0-preview9.19424.4

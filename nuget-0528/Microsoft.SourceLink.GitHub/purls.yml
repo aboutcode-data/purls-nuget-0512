@@ -14,4 +14,6 @@
 - pkg:nuget/Microsoft.SourceLink.GitHub@1.1.0
 - pkg:nuget/Microsoft.SourceLink.GitHub@1.1.0-beta-20204-02
 - pkg:nuget/Microsoft.SourceLink.GitHub@1.1.1
+- pkg:nuget/Microsoft.SourceLink.GitHub@10.0.107
+- pkg:nuget/Microsoft.SourceLink.GitHub@10.0.203
 - pkg:nuget/Microsoft.SourceLink.GitHub@8.0.0

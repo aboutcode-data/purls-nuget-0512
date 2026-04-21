@@ -52,6 +52,7 @@
 - pkg:nuget/MessageBox.Avalonia@1.7.0
 - pkg:nuget/MessageBox.Avalonia@1.7.1
 - pkg:nuget/MessageBox.Avalonia@1.8.1-night
+- pkg:nuget/MessageBox.Avalonia@12.0.0
 - pkg:nuget/MessageBox.Avalonia@2.0.0
 - pkg:nuget/MessageBox.Avalonia@2.0.1
 - pkg:nuget/MessageBox.Avalonia@2.0.2
