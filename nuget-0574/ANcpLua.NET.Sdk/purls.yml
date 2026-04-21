@@ -7,3 +7,5 @@
 - pkg:nuget/ANcpLua.NET.Sdk@1.6.7
 - pkg:nuget/ANcpLua.NET.Sdk@1.7.2
 - pkg:nuget/ANcpLua.NET.Sdk@1.8.3
+- pkg:nuget/ANcpLua.NET.Sdk@3.0.0
+- pkg:nuget/ANcpLua.NET.Sdk@3.0.1
