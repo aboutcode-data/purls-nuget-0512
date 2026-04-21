@@ -51,6 +51,7 @@
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@24.0.0
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@25.0.0
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@25.0.1
+- pkg:nuget/CK.ActivityMonitor.SimpleSender@26.0.0
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@8.0.0
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@8.0.0-p
 - pkg:nuget/CK.ActivityMonitor.SimpleSender@9.0.0

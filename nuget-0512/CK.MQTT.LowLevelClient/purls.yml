@@ -38,3 +38,4 @@
 - pkg:nuget/CK.MQTT.LowLevelClient@0.31.0
 - pkg:nuget/CK.MQTT.LowLevelClient@0.31.1
 - pkg:nuget/CK.MQTT.LowLevelClient@0.33.1
+- pkg:nuget/CK.MQTT.LowLevelClient@0.34.0
