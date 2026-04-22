@@ -2,6 +2,7 @@
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@6.0.2
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@6.0.3
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@8.0.10
+- pkg:nuget/ITBees.ApiToTypescriptGenerator@8.0.104
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@8.0.11
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@8.0.12
 - pkg:nuget/ITBees.ApiToTypescriptGenerator@8.0.14
