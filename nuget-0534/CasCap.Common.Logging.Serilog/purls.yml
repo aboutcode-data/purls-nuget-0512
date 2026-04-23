@@ -1,2 +1,3 @@
+- pkg:nuget/CasCap.Common.Logging.Serilog@4.10.0
 - pkg:nuget/CasCap.Common.Logging.Serilog@4.8.0
 - pkg:nuget/CasCap.Common.Logging.Serilog@4.8.1
