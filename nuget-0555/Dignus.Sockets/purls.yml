@@ -6,3 +6,4 @@
 - pkg:nuget/Dignus.Sockets@1.5.2
 - pkg:nuget/Dignus.Sockets@2.0.0-preview.2
 - pkg:nuget/Dignus.Sockets@2.0.0-preview.3
+- pkg:nuget/Dignus.Sockets@2.0.1
