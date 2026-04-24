@@ -5,3 +5,4 @@
 - pkg:nuget/FlowtideDotNet.Connector.Qdrant@0.15.0-alpha12
 - pkg:nuget/FlowtideDotNet.Connector.Qdrant@0.15.0-alpha13
 - pkg:nuget/FlowtideDotNet.Connector.Qdrant@0.15.0-alpha2
+- pkg:nuget/FlowtideDotNet.Connector.Qdrant@0.15.1-alpha2
