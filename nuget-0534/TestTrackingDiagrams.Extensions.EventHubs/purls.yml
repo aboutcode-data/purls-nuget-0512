@@ -1,3 +1,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventHubs@2.14.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventHubs@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.EventHubs@2.19.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.EventHubs@2.22.19
