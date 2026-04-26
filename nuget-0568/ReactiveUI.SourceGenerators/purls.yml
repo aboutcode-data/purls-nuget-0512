@@ -10,3 +10,4 @@
 - pkg:nuget/ReactiveUI.SourceGenerators@2.2.4
 - pkg:nuget/ReactiveUI.SourceGenerators@2.3.1
 - pkg:nuget/ReactiveUI.SourceGenerators@2.4.1
+- pkg:nuget/ReactiveUI.SourceGenerators@2.6.30
