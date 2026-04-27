@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.Quartz@1.0.0
+- pkg:nuget/Yoyo.Abp.Quartz@10.3.0
 - pkg:nuget/Yoyo.Abp.Quartz@6.4.0
 - pkg:nuget/Yoyo.Abp.Quartz@7.3.0
 - pkg:nuget/Yoyo.Abp.Quartz@7.3.0.10
