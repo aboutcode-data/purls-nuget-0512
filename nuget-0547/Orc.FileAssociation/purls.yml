@@ -43,3 +43,4 @@
 - pkg:nuget/Orc.FileAssociation@5.0.0-alpha0315
 - pkg:nuget/Orc.FileAssociation@5.0.0-alpha0319
 - pkg:nuget/Orc.FileAssociation@5.0.0-alpha0352
+- pkg:nuget/Orc.FileAssociation@6.0.0-alpha0087
