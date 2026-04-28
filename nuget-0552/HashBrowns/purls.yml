@@ -110,6 +110,7 @@
 - pkg:nuget/HashBrowns@4.0.0
 - pkg:nuget/HashBrowns@4.0.1
 - pkg:nuget/HashBrowns@4.0.16
+- pkg:nuget/HashBrowns@4.0.18
 - pkg:nuget/HashBrowns@4.0.2
 - pkg:nuget/HashBrowns@4.0.3
 - pkg:nuget/HashBrowns@4.0.4

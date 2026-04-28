@@ -129,3 +129,4 @@
 - pkg:nuget/Google.Apis.NetworkManagement.v1beta1@1.70.0.3896
 - pkg:nuget/Google.Apis.NetworkManagement.v1beta1@1.71.0.3900
 - pkg:nuget/Google.Apis.NetworkManagement.v1beta1@1.73.0.4103
+- pkg:nuget/Google.Apis.NetworkManagement.v1beta1@1.73.0.4121
