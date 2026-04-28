@@ -533,6 +533,9 @@
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.150.1666-main
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.151.1679-main
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.151.1680-main
+- pkg:nuget/Credfeto.Date.Interfaces@1.1.151.1690-main
+- pkg:nuget/Credfeto.Date.Interfaces@1.1.151.1691-main
+- pkg:nuget/Credfeto.Date.Interfaces@1.1.151.1692-main
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.16.278-main
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.16.279-main
 - pkg:nuget/Credfeto.Date.Interfaces@1.1.16.280-main
