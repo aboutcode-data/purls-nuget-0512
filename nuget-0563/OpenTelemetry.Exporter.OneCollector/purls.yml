@@ -5,6 +5,9 @@
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.11.0
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.11.0-beta.1
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.11.1
+- pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.13.0
+- pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.14.0
+- pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.15.0
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.5.1
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.5.1-rc.1
 - pkg:nuget/OpenTelemetry.Exporter.OneCollector@1.6.0
