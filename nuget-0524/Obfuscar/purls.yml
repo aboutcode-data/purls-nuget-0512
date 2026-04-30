@@ -64,4 +64,5 @@
 - pkg:nuget/Obfuscar@2.2.8
 - pkg:nuget/Obfuscar@2.2.9
 - pkg:nuget/Obfuscar@2.3.0-beta1
+- pkg:nuget/Obfuscar@3.0.0-beta.10
 - pkg:nuget/Obfuscar@3.0.0-beta.6
