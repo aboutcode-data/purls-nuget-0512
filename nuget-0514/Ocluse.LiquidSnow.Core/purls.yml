@@ -37,3 +37,5 @@
 - pkg:nuget/Ocluse.LiquidSnow.Core@0.6.5-preview5.3
 - pkg:nuget/Ocluse.LiquidSnow.Core@0.6.5-preview5.7
 - pkg:nuget/Ocluse.LiquidSnow.Core@0.6.5-preview7.3
+- pkg:nuget/Ocluse.LiquidSnow.Core@0.6.5-preview8.0
+- pkg:nuget/Ocluse.LiquidSnow.Core@0.6.5-preview8.1
