@@ -10,3 +10,7 @@
 - pkg:nuget/OCELOT.Pacioli.Resources@1.13.11
 - pkg:nuget/OCELOT.Pacioli.Resources@1.13.12
 - pkg:nuget/OCELOT.Pacioli.Resources@1.13.22
+- pkg:nuget/OCELOT.Pacioli.Resources@1.13.30
+- pkg:nuget/OCELOT.Pacioli.Resources@1.13.31
+- pkg:nuget/OCELOT.Pacioli.Resources@1.13.32
+- pkg:nuget/OCELOT.Pacioli.Resources@1.13.33
