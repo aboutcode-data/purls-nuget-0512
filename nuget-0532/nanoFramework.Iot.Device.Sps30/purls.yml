@@ -83,3 +83,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Sps30@1.1.880
 - pkg:nuget/nanoFramework.Iot.Device.Sps30@1.1.889
 - pkg:nuget/nanoFramework.Iot.Device.Sps30@1.1.89
+- pkg:nuget/nanoFramework.Iot.Device.Sps30@2.0.0-preview.49
