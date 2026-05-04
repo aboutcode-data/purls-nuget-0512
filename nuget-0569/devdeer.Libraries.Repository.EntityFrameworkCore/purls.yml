@@ -105,6 +105,8 @@
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@20.1.5
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@21.0.0
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@22.0.0
+- pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@24.0.11
+- pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@24.0.12
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@7.1.5
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@7.1.6
 - pkg:nuget/devdeer.Libraries.Repository.EntityFrameworkCore@7.1.7
