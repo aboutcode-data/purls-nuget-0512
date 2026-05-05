@@ -345,6 +345,7 @@
 - pkg:nuget/DevExpress.Xpo@24.2.10-pre-25236
 - pkg:nuget/DevExpress.Xpo@24.2.10-pre-25240
 - pkg:nuget/DevExpress.Xpo@24.2.11-pre-25264
+- pkg:nuget/DevExpress.Xpo@24.2.15
 - pkg:nuget/DevExpress.Xpo@24.2.2-beta
 - pkg:nuget/DevExpress.Xpo@24.2.3
 - pkg:nuget/DevExpress.Xpo@24.2.4-pre-24357
