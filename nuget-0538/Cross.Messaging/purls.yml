@@ -3,4 +3,5 @@
 - pkg:nuget/Cross.Messaging@1.0.1-preview.1
 - pkg:nuget/Cross.Messaging@1.0.1-preview.2
 - pkg:nuget/Cross.Messaging@1.1.0-preview.2
+- pkg:nuget/Cross.Messaging@1.2.0-preview.10
 - pkg:nuget/Cross.Messaging@1.2.0-preview.6
