@@ -1,1 +1,2 @@
 - pkg:nuget/Monica.Generators.AutoController@0.1.0-preview.2
+- pkg:nuget/Monica.Generators.AutoController@1.0.0-rc.1
