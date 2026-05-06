@@ -1,2 +1,5 @@
 - pkg:nuget/Lumeo.DataGrid@2.0.0-rc.15
 - pkg:nuget/Lumeo.DataGrid@2.0.0-rc.20
+- pkg:nuget/Lumeo.DataGrid@2.0.0-rc.24
+- pkg:nuget/Lumeo.DataGrid@2.0.0-rc.25
+- pkg:nuget/Lumeo.DataGrid@2.0.0-rc.26
