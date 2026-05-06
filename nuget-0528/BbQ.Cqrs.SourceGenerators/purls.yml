@@ -1,2 +1,3 @@
 - pkg:nuget/BbQ.Cqrs.SourceGenerators@1.0.15
 - pkg:nuget/BbQ.Cqrs.SourceGenerators@1.1.0
+- pkg:nuget/BbQ.Cqrs.SourceGenerators@1.1.5
