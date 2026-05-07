@@ -259,6 +259,7 @@
 - pkg:nuget/Audit.NET@30.1.3
 - pkg:nuget/Audit.NET@31.0.0
 - pkg:nuget/Audit.NET@31.0.1
+- pkg:nuget/Audit.NET@32.1.0
 - pkg:nuget/Audit.NET@4.0.0
 - pkg:nuget/Audit.NET@4.0.1
 - pkg:nuget/Audit.NET@4.1.0
