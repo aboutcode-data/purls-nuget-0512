@@ -6,3 +6,4 @@
 - pkg:nuget/Simple.ExportToExcel@1.0.0.5
 - pkg:nuget/Simple.ExportToExcel@1.1.0
 - pkg:nuget/Simple.ExportToExcel@1.1.0.1
+- pkg:nuget/Simple.ExportToExcel@2.0.2
