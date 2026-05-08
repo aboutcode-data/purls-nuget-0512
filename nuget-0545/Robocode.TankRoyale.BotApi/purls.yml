@@ -55,3 +55,4 @@
 - pkg:nuget/Robocode.TankRoyale.BotApi@0.38.2
 - pkg:nuget/Robocode.TankRoyale.BotApi@0.9.11
 - pkg:nuget/Robocode.TankRoyale.BotApi@0.9.12
+- pkg:nuget/Robocode.TankRoyale.BotApi@1.0.1
