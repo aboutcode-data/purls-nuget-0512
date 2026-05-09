@@ -35,3 +35,4 @@
 - pkg:nuget/Pooshit.Ocelot@0.17.34-preview
 - pkg:nuget/Pooshit.Ocelot@0.17.37-preview
 - pkg:nuget/Pooshit.Ocelot@0.17.39-preview
+- pkg:nuget/Pooshit.Ocelot@0.20.0-preview
