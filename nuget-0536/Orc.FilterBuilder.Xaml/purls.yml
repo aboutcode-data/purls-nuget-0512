@@ -82,3 +82,4 @@
 - pkg:nuget/Orc.FilterBuilder.Xaml@5.1.0-alpha0644
 - pkg:nuget/Orc.FilterBuilder.Xaml@5.1.1
 - pkg:nuget/Orc.FilterBuilder.Xaml@5.2.0
+- pkg:nuget/Orc.FilterBuilder.Xaml@6.0.0-alpha0139
