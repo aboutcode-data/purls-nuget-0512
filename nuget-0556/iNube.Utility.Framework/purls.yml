@@ -41,6 +41,7 @@
 - pkg:nuget/iNube.Utility.Framework@32.0.0.3
 - pkg:nuget/iNube.Utility.Framework@34.0.0
 - pkg:nuget/iNube.Utility.Framework@34.0.0.1
+- pkg:nuget/iNube.Utility.Framework@34.0.0.10
 - pkg:nuget/iNube.Utility.Framework@34.0.0.2
 - pkg:nuget/iNube.Utility.Framework@4.0.0
 - pkg:nuget/iNube.Utility.Framework@5.0.0
