@@ -10,5 +10,7 @@
 - pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.11
 - pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.12
 - pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.13
+- pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.16
+- pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.17
 - pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.8
 - pkg:nuget/SeliseBlocks.MailDriver@9.0.0-preview.9
