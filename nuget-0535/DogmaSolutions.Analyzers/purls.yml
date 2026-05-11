@@ -1,3 +1,4 @@
+- pkg:nuget/DogmaSolutions.Analyzers@1.0.108
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.31-rc
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.32-rc
 - pkg:nuget/DogmaSolutions.Analyzers@1.0.33-rc
