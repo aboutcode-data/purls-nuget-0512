@@ -84,4 +84,6 @@
 - pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.29.7-beta
 - pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.30.11
 - pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.30.12
+- pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.33.55
+- pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.33.56
 - pkg:nuget/TestTrackingDiagrams.LightBDD.xUnit2@2.4.1
