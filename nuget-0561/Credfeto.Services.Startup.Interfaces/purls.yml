@@ -421,6 +421,8 @@
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.145.1575-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.146.1595-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.146.1598-main
+- pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.146.1605-main
+- pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.146.1606-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.15.138-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.15.139-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.15.140-main

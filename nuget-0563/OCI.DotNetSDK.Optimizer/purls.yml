@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Optimizer@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Optimizer@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Optimizer@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Optimizer@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Optimizer@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Optimizer@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Optimizer@14.2.0
