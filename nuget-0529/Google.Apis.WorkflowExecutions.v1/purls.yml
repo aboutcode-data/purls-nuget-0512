@@ -47,3 +47,4 @@
 - pkg:nuget/Google.Apis.WorkflowExecutions.v1@1.68.0.3546
 - pkg:nuget/Google.Apis.WorkflowExecutions.v1@1.68.0.3561
 - pkg:nuget/Google.Apis.WorkflowExecutions.v1@1.69.0.3694
+- pkg:nuget/Google.Apis.WorkflowExecutions.v1@1.74.0.3694

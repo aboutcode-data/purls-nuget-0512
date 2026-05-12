@@ -193,3 +193,4 @@
 - pkg:nuget/Google.Apis.WebSecurityScanner.v1alpha@1.66.0.3215
 - pkg:nuget/Google.Apis.WebSecurityScanner.v1alpha@1.67.0.3215
 - pkg:nuget/Google.Apis.WebSecurityScanner.v1alpha@1.68.0.3215
+- pkg:nuget/Google.Apis.WebSecurityScanner.v1alpha@1.74.0.3215
