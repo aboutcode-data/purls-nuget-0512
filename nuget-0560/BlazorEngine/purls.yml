@@ -23,6 +23,7 @@
 - pkg:nuget/BlazorEngine@1.0.47
 - pkg:nuget/BlazorEngine@1.0.48
 - pkg:nuget/BlazorEngine@1.0.5
+- pkg:nuget/BlazorEngine@1.0.58
 - pkg:nuget/BlazorEngine@1.0.6
 - pkg:nuget/BlazorEngine@1.0.7
 - pkg:nuget/BlazorEngine@1.0.9
