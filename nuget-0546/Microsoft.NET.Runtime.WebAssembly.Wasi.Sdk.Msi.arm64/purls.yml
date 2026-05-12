@@ -9,7 +9,9 @@
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@10.0.2
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@10.0.7
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@10.0.8
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@11.0.0-preview.3.26207.106
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@8.0.0
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@8.0.0-preview.4.23259.5
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@8.0.0-preview.5.23280.8
@@ -49,6 +51,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.1
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.10
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.13
+- pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.16
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.2
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.3
 - pkg:nuget/Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64@9.0.4
