@@ -2,4 +2,5 @@
 - pkg:nuget/Microsoft.DotNet.HotReload.WebAssembly.Browser@10.0.100-rc.1.25451.107
 - pkg:nuget/Microsoft.DotNet.HotReload.WebAssembly.Browser@10.0.101
 - pkg:nuget/Microsoft.DotNet.HotReload.WebAssembly.Browser@10.0.107
+- pkg:nuget/Microsoft.DotNet.HotReload.WebAssembly.Browser@10.0.108
 - pkg:nuget/Microsoft.DotNet.HotReload.WebAssembly.Browser@10.0.203
