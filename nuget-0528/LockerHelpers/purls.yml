@@ -84,6 +84,8 @@
 - pkg:nuget/LockerHelpers@2.0.210%2Bbuild.20260501025820.13fd0d0
 - pkg:nuget/LockerHelpers@2.0.211%2Bbuild.20260501030455.dec7b51
 - pkg:nuget/LockerHelpers@2.0.215%2Bbuild.20260507024900.4126350
+- pkg:nuget/LockerHelpers@2.0.216%2Bbuild.20260513025607.e99a851
+- pkg:nuget/LockerHelpers@2.0.217%2Bbuild.20260513030046.7cfe63d
 - pkg:nuget/LockerHelpers@2.0.22%2Bbuild.22
 - pkg:nuget/LockerHelpers@2.0.23%2Bbuild.23
 - pkg:nuget/LockerHelpers@2.0.24%2Bbuild.24
