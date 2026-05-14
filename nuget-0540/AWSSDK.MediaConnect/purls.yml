@@ -1111,6 +1111,7 @@
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.19
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.20
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.21
+- pkg:nuget/AWSSDK.MediaConnect@3.7.505.23
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.4
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.8
 - pkg:nuget/AWSSDK.MediaConnect@3.7.505.9
