@@ -37,6 +37,7 @@
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.133
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.134
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.14
+- pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.143
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.15
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.16
 - pkg:nuget/AgentHub.Module.Product.Domain.Shared@0.0.17
