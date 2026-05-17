@@ -15,6 +15,8 @@
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.11
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.22
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.23
+- pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.25
+- pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.26
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.6
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.7
 - pkg:nuget/MooVC.Infrastructure.Serialization.Bson.Newtonsoft@9.3.0-beta.8
