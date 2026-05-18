@@ -5,7 +5,9 @@
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.1.0
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.1.1
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.1.2
+- pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.12.1
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.13.0
+- pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.13.1
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.2.0
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.3.0
 - pkg:nuget/Temporalio.Extensions.OpenTelemetry@1.3.1
