@@ -1,2 +1,3 @@
 - pkg:nuget/FclEx.Serilog.Slack@1.0.3
 - pkg:nuget/FclEx.Serilog.Slack@1.0.6
+- pkg:nuget/FclEx.Serilog.Slack@2.2.0
