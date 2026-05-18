@@ -27,6 +27,7 @@
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@1.16.0
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@1.16.1
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@1.16.2
+- pkg:nuget/MvvmCross.AdvancedRecyclerView@10.1.2.1
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@2.1.0
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@2.1.0.2
 - pkg:nuget/MvvmCross.AdvancedRecyclerView@2.1.0.3
