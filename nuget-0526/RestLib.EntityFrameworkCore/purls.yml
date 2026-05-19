@@ -1,1 +1,2 @@
 - pkg:nuget/RestLib.EntityFrameworkCore@2.3.0
+- pkg:nuget/RestLib.EntityFrameworkCore@2.5.1
