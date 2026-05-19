@@ -362,3 +362,4 @@
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-xam-rc.201
 - pkg:nuget/WalletFramework.SdJwtVc@2.0.0-xam-rc.202
 - pkg:nuget/WalletFramework.SdJwtVc@3.0.0-rc.1
+- pkg:nuget/WalletFramework.SdJwtVc@3.0.1-dev.1046
