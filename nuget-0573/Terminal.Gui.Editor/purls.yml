@@ -11,3 +11,5 @@
 - pkg:nuget/Terminal.Gui.Editor@2.2.1
 - pkg:nuget/Terminal.Gui.Editor@2.2.1-develop.125
 - pkg:nuget/Terminal.Gui.Editor@2.2.1-develop.127
+- pkg:nuget/Terminal.Gui.Editor@2.2.1-develop.132
+- pkg:nuget/Terminal.Gui.Editor@2.2.1-develop.133
