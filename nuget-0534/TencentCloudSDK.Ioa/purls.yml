@@ -269,6 +269,7 @@
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.1317
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.1327
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.1397
+- pkg:nuget/TencentCloudSDK.Ioa@3.0.1429
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.917
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.918
 - pkg:nuget/TencentCloudSDK.Ioa@3.0.919
