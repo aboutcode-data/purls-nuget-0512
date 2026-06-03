@@ -37,3 +37,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Bq2579x@1.0.8
 - pkg:nuget/nanoFramework.Iot.Device.Bq2579x@1.0.95
 - pkg:nuget/nanoFramework.Iot.Device.Bq2579x@1.0.99
+- pkg:nuget/nanoFramework.Iot.Device.Bq2579x@2.0.0-preview.73
