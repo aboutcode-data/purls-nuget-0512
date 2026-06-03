@@ -42,3 +42,4 @@
 - pkg:nuget/Yugen.Toolkit.Uwp.Controls@1.1.8
 - pkg:nuget/Yugen.Toolkit.Uwp.Controls@1.1.9
 - pkg:nuget/Yugen.Toolkit.Uwp.Controls@1.2.1
+- pkg:nuget/Yugen.Toolkit.Uwp.Controls@2.0.11-preview
