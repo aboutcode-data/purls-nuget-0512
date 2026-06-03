@@ -183,6 +183,10 @@
 - pkg:nuget/GemBox.Presentation@2026.5.102
 - pkg:nuget/GemBox.Presentation@2026.5.103
 - pkg:nuget/GemBox.Presentation@2026.5.106
+- pkg:nuget/GemBox.Presentation@2026.5.115
+- pkg:nuget/GemBox.Presentation@2026.6.100
+- pkg:nuget/GemBox.Presentation@2026.6.101
+- pkg:nuget/GemBox.Presentation@2026.6.103
 - pkg:nuget/GemBox.Presentation@21.3.35.1000
 - pkg:nuget/GemBox.Presentation@21.3.35.1009
 - pkg:nuget/GemBox.Presentation@21.3.35.1011
