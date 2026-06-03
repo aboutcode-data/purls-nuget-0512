@@ -538,6 +538,7 @@
 - pkg:nuget/GuoKun.CPS@2025.7.13
 - pkg:nuget/GuoKun.CPS@2025.7.14
 - pkg:nuget/GuoKun.CPS@2025.7.14.2
+- pkg:nuget/GuoKun.CPS@2025.7.14.20
 - pkg:nuget/GuoKun.CPS@2025.7.14.3
 - pkg:nuget/GuoKun.CPS@2025.7.14.5
 - pkg:nuget/GuoKun.CPS@2025.7.2
@@ -550,6 +551,8 @@
 - pkg:nuget/GuoKun.CPS@2025.8.2.1
 - pkg:nuget/GuoKun.CPS@2025.9.1
 - pkg:nuget/GuoKun.CPS@2025.9.2
+- pkg:nuget/GuoKun.CPS@2026.1.3.1
 - pkg:nuget/GuoKun.CPS@2026.3.5
 - pkg:nuget/GuoKun.CPS@2026.3.6
 - pkg:nuget/GuoKun.CPS@2026.3.7
+- pkg:nuget/GuoKun.CPS@2026.5.2
