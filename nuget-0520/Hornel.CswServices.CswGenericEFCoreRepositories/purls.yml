@@ -5,6 +5,7 @@
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@1.2.0
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@1.2.1
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@1.3.0
+- pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@10.1.0
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@8.0.0
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@8.0.1
 - pkg:nuget/Hornel.CswServices.CswGenericEFCoreRepositories@8.1.0
