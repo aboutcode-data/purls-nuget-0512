@@ -320,3 +320,6 @@
 - pkg:nuget/VertiGIS.ViewerSpec@60.2.0
 - pkg:nuget/VertiGIS.ViewerSpec@60.4.0
 - pkg:nuget/VertiGIS.ViewerSpec@61.2.2
+- pkg:nuget/VertiGIS.ViewerSpec@61.8.0
+- pkg:nuget/VertiGIS.ViewerSpec@61.9.1
+- pkg:nuget/VertiGIS.ViewerSpec@61.9.2
