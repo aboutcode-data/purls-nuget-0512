@@ -2,5 +2,7 @@
 - pkg:nuget/LaVie.HealthPass.SDK@1.0.18
 - pkg:nuget/LaVie.HealthPass.SDK@1.0.21
 - pkg:nuget/LaVie.HealthPass.SDK@1.0.26
+- pkg:nuget/LaVie.HealthPass.SDK@1.0.27
+- pkg:nuget/LaVie.HealthPass.SDK@1.0.31
 - pkg:nuget/LaVie.HealthPass.SDK@1.0.6
 - pkg:nuget/LaVie.HealthPass.SDK@1.0.8
