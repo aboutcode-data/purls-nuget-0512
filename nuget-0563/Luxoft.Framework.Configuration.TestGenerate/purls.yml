@@ -265,3 +265,5 @@
 - pkg:nuget/Luxoft.Framework.Configuration.TestGenerate@25.3.0
 - pkg:nuget/Luxoft.Framework.Configuration.TestGenerate@25.4.1
 - pkg:nuget/Luxoft.Framework.Configuration.TestGenerate@25.5.0
+- pkg:nuget/Luxoft.Framework.Configuration.TestGenerate@27.1.2
+- pkg:nuget/Luxoft.Framework.Configuration.TestGenerate@27.2.1
