@@ -9,3 +9,4 @@
 - pkg:nuget/Energinet.DataHub.EDI.B2CClient@2.4.3
 - pkg:nuget/Energinet.DataHub.EDI.B2CClient@2.5.5
 - pkg:nuget/Energinet.DataHub.EDI.B2CClient@2.8.2
+- pkg:nuget/Energinet.DataHub.EDI.B2CClient@2.9.0
