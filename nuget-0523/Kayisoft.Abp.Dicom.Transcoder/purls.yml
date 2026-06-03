@@ -260,3 +260,4 @@
 - pkg:nuget/Kayisoft.Abp.Dicom.Transcoder@5.0.3
 - pkg:nuget/Kayisoft.Abp.Dicom.Transcoder@5.0.4
 - pkg:nuget/Kayisoft.Abp.Dicom.Transcoder@5.0.8
+- pkg:nuget/Kayisoft.Abp.Dicom.Transcoder@5.1.3
