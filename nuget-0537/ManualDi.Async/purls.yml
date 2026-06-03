@@ -15,3 +15,4 @@
 - pkg:nuget/ManualDi.Async@2.3.1
 - pkg:nuget/ManualDi.Async@2.3.2-preview.1
 - pkg:nuget/ManualDi.Async@2.4.2
+- pkg:nuget/ManualDi.Async@3.1.1
