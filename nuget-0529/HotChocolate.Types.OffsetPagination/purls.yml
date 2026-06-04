@@ -1285,3 +1285,4 @@
 - pkg:nuget/HotChocolate.Types.OffsetPagination@16.1.0-p.1.9
 - pkg:nuget/HotChocolate.Types.OffsetPagination@16.1.0-p.13
 - pkg:nuget/HotChocolate.Types.OffsetPagination@16.1.0-p.14
+- pkg:nuget/HotChocolate.Types.OffsetPagination@16.1.2
