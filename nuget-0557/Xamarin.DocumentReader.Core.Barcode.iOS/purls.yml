@@ -101,3 +101,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.Barcode.iOS@9.5.2625-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Barcode.iOS@9.5.2655-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Barcode.iOS@9.5.2671-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.Barcode.iOS@9.5.2731
