@@ -6,3 +6,4 @@
 - pkg:nuget/IceRpc.Protobuf@0.4.0.1
 - pkg:nuget/IceRpc.Protobuf@0.4.1
 - pkg:nuget/IceRpc.Protobuf@0.5.2
+- pkg:nuget/IceRpc.Protobuf@0.6.0
