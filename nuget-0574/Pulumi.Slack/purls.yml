@@ -380,3 +380,4 @@
 - pkg:nuget/Pulumi.Slack@1.0.0-alpha.1767139916
 - pkg:nuget/Pulumi.Slack@1.0.0-alpha.1769445548
 - pkg:nuget/Pulumi.Slack@1.0.0-alpha.1774890592
+- pkg:nuget/Pulumi.Slack@1.0.0-alpha.1780904341
