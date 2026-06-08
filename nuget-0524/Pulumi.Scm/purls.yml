@@ -223,3 +223,4 @@
 - pkg:nuget/Pulumi.Scm@1.1.0-alpha.1778743179
 - pkg:nuget/Pulumi.Scm@1.1.1
 - pkg:nuget/Pulumi.Scm@1.1.1-alpha.1780030011
+- pkg:nuget/Pulumi.Scm@1.2.0-alpha.1780904604
