@@ -1,4 +1,5 @@
 - pkg:nuget/NServiceBus@10.0.1
+- pkg:nuget/NServiceBus@10.2.5
 - pkg:nuget/NServiceBus@2.5.0.1469
 - pkg:nuget/NServiceBus@2.5.0.1476
 - pkg:nuget/NServiceBus@2.5.0.1490
