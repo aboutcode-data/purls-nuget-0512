@@ -139,3 +139,4 @@
 - pkg:nuget/HotChocolate.Utilities.Tasks@16.1.0-p.1.9
 - pkg:nuget/HotChocolate.Utilities.Tasks@16.1.0-p.13
 - pkg:nuget/HotChocolate.Utilities.Tasks@16.1.2
+- pkg:nuget/HotChocolate.Utilities.Tasks@16.1.4-p.3
