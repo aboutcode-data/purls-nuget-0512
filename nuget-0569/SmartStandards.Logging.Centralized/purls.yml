@@ -22,3 +22,4 @@
 - pkg:nuget/SmartStandards.Logging.Centralized@3.2.0
 - pkg:nuget/SmartStandards.Logging.Centralized@3.2.1
 - pkg:nuget/SmartStandards.Logging.Centralized@3.2.2
+- pkg:nuget/SmartStandards.Logging.Centralized@3.4.4
