@@ -472,6 +472,8 @@
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.150.1701-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.150.1708-inline-pull-req
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.150.1709-main
+- pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.150.1712-main
+- pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.150.1714-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.16.162-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.16.163-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.16.164-main
