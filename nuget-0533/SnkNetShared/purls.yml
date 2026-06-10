@@ -1,5 +1,6 @@
 - pkg:nuget/SnkNetShared@10.0.7.1001
 - pkg:nuget/SnkNetShared@10.0.7.1003
+- pkg:nuget/SnkNetShared@10.0.8.1000
 - pkg:nuget/SnkNetShared@7.0.0
 - pkg:nuget/SnkNetShared@7.0.1
 - pkg:nuget/SnkNetShared@7.0.2
