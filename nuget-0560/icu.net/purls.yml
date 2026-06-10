@@ -140,5 +140,7 @@
 - pkg:nuget/icu.net@3.0.0-beta.296
 - pkg:nuget/icu.net@3.0.0-beta.297
 - pkg:nuget/icu.net@3.0.1
+- pkg:nuget/icu.net@3.0.3-beta.4
+- pkg:nuget/icu.net@3.0.3-beta.5
 - pkg:nuget/icu.net@54.0.82
 - pkg:nuget/icu.net@56.0.2
