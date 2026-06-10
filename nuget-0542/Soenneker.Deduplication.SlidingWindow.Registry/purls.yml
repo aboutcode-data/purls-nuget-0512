@@ -5,4 +5,5 @@
 - pkg:nuget/Soenneker.Deduplication.SlidingWindow.Registry@4.0.37
 - pkg:nuget/Soenneker.Deduplication.SlidingWindow.Registry@4.0.53
 - pkg:nuget/Soenneker.Deduplication.SlidingWindow.Registry@4.0.63
+- pkg:nuget/Soenneker.Deduplication.SlidingWindow.Registry@4.0.66
 - pkg:nuget/Soenneker.Deduplication.SlidingWindow.Registry@4.0.7
