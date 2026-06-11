@@ -6,3 +6,6 @@
 - pkg:nuget/MyNet.Http@13.1.0
 - pkg:nuget/MyNet.Http@14.1.0
 - pkg:nuget/MyNet.Http@17.0.1
+- pkg:nuget/MyNet.Http@19.3.0
+- pkg:nuget/MyNet.Http@19.3.1
+- pkg:nuget/MyNet.Http@19.3.4
