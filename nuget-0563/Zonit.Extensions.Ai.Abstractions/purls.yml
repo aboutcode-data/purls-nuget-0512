@@ -38,4 +38,5 @@
 - pkg:nuget/Zonit.Extensions.Ai.Abstractions@1.9.19
 - pkg:nuget/Zonit.Extensions.Ai.Abstractions@10.0.0
 - pkg:nuget/Zonit.Extensions.Ai.Abstractions@10.0.0-preview.9
+- pkg:nuget/Zonit.Extensions.Ai.Abstractions@10.0.7
 - pkg:nuget/Zonit.Extensions.Ai.Abstractions@2.0.13
