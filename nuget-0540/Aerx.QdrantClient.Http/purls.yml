@@ -47,6 +47,7 @@
 - pkg:nuget/Aerx.QdrantClient.Http@1.17.2
 - pkg:nuget/Aerx.QdrantClient.Http@1.17.6
 - pkg:nuget/Aerx.QdrantClient.Http@1.17.8
+- pkg:nuget/Aerx.QdrantClient.Http@1.18.1
 - pkg:nuget/Aerx.QdrantClient.Http@1.7.0
 - pkg:nuget/Aerx.QdrantClient.Http@1.7.1
 - pkg:nuget/Aerx.QdrantClient.Http@1.7.2
