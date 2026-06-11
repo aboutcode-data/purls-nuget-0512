@@ -1179,3 +1179,4 @@
 - pkg:nuget/AWSSDK.MediaConnect@4.0.6.8
 - pkg:nuget/AWSSDK.MediaConnect@4.0.6.9
 - pkg:nuget/AWSSDK.MediaConnect@4.0.8
+- pkg:nuget/AWSSDK.MediaConnect@4.0.9.3
