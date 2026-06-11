@@ -411,3 +411,5 @@
 - pkg:nuget/Soenneker.ServiceBus.Receptors.MsTeams@4.0.723
 - pkg:nuget/Soenneker.ServiceBus.Receptors.MsTeams@4.0.726
 - pkg:nuget/Soenneker.ServiceBus.Receptors.MsTeams@4.0.735
+- pkg:nuget/Soenneker.ServiceBus.Receptors.MsTeams@4.0.737
+- pkg:nuget/Soenneker.ServiceBus.Receptors.MsTeams@4.0.738
