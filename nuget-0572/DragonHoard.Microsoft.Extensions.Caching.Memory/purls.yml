@@ -76,4 +76,5 @@
 - pkg:nuget/DragonHoard.Microsoft.Extensions.Caching.Memory@2.3.10
 - pkg:nuget/DragonHoard.Microsoft.Extensions.Caching.Memory@2.3.15
 - pkg:nuget/DragonHoard.Microsoft.Extensions.Caching.Memory@2.3.19
+- pkg:nuget/DragonHoard.Microsoft.Extensions.Caching.Memory@2.3.22
 - pkg:nuget/DragonHoard.Microsoft.Extensions.Caching.Memory@2.3.9
