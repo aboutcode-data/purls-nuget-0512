@@ -43,6 +43,7 @@
 - pkg:nuget/BitzArt.Flux.Json@0.13.1-v1.0rc2
 - pkg:nuget/BitzArt.Flux.Json@0.13.1-v1.0rc3
 - pkg:nuget/BitzArt.Flux.Json@0.13.1-v1.0rc7
+- pkg:nuget/BitzArt.Flux.Json@0.13.2-v1.0rc2
 - pkg:nuget/BitzArt.Flux.Json@0.7.0-Prerelease
 - pkg:nuget/BitzArt.Flux.Json@0.7.1-Prerelease
 - pkg:nuget/BitzArt.Flux.Json@0.8.0-Prerelease
