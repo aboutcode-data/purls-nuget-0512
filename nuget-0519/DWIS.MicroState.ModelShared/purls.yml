@@ -8,6 +8,7 @@
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-alpha.34
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-alpha.36
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-alpha.40
+- pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-build.121
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-build.47
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-build.53
 - pkg:nuget/DWIS.MicroState.ModelShared@2.0.1-build.60
