@@ -3,6 +3,7 @@
 - pkg:nuget/HandySerialization@1.1.0
 - pkg:nuget/HandySerialization@10.0.0
 - pkg:nuget/HandySerialization@10.1.0
+- pkg:nuget/HandySerialization@12.0.1
 - pkg:nuget/HandySerialization@2.0.0
 - pkg:nuget/HandySerialization@2.1.0
 - pkg:nuget/HandySerialization@3.0.0
