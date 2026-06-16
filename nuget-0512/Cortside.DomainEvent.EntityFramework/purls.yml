@@ -192,6 +192,7 @@
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@1.5.266-develop
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@1.5.268-net6
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@1.5.269-develop
+- pkg:nuget/Cortside.DomainEvent.EntityFramework@10.0.407-EBPP-5072
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@6.0.270-develop
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@6.0.271-develop
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@6.0.272-develop
@@ -292,3 +293,4 @@
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@8.0.395
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@8.1.373-develop
 - pkg:nuget/Cortside.DomainEvent.EntityFramework@8.1.396-develop
+- pkg:nuget/Cortside.DomainEvent.EntityFramework@8.1.406-EBPP-5072-dotnet8
