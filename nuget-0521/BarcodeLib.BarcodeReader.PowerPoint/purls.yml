@@ -21,6 +21,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.5
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.50
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.52
+- pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.55
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint@7.0.0.8
