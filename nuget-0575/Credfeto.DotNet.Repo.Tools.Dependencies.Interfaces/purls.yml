@@ -255,3 +255,15 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3094-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3095-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3097-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3100-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3104-packages-interf
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3108-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3109-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3113-cleanup-unit-te
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3114-cleanup-unit-te
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3119-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3122-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.2.3131-labeler-labels
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.3.3139-unit-tests-git
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.3.3140-unit-tests-git
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces@1.5.3.3141-main
