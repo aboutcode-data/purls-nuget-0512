@@ -61,6 +61,7 @@
 - pkg:nuget/JetBrains.Annotations@2025.2.0
 - pkg:nuget/JetBrains.Annotations@2025.2.1
 - pkg:nuget/JetBrains.Annotations@2025.2.2
+- pkg:nuget/JetBrains.Annotations@2026.2.0
 - pkg:nuget/JetBrains.Annotations@6.1.0
 - pkg:nuget/JetBrains.Annotations@7.0.0
 - pkg:nuget/JetBrains.Annotations@8.0.0-beta
