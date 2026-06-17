@@ -39,6 +39,9 @@
 - pkg:nuget/adv@3.3.9-alpha.0.1902
 - pkg:nuget/adv@3.3.9-alpha.0.1943
 - pkg:nuget/adv@3.3.9-alpha.0.2011
+- pkg:nuget/adv@3.3.9-alpha.0.2022
+- pkg:nuget/adv@3.3.9-alpha.0.2024
+- pkg:nuget/adv@3.3.9-alpha.0.2025
 - pkg:nuget/adv@3.3.9-alpha.0.215
 - pkg:nuget/adv@3.3.9-alpha.0.269
 - pkg:nuget/adv@3.3.9-alpha.0.271
