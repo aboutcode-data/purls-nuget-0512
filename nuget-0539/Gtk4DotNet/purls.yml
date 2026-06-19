@@ -132,5 +132,6 @@
 - pkg:nuget/Gtk4DotNet@9.0.1-beta
 - pkg:nuget/Gtk4DotNet@9.0.10-beta
 - pkg:nuget/Gtk4DotNet@9.0.12-beta
+- pkg:nuget/Gtk4DotNet@9.0.17-beta
 - pkg:nuget/Gtk4DotNet@9.0.8-beta
 - pkg:nuget/Gtk4DotNet@9.0.9-beta
