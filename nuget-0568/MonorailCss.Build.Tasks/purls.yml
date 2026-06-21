@@ -2,5 +2,6 @@
 - pkg:nuget/MonorailCss.Build.Tasks@0.0.4-alpha.0.22
 - pkg:nuget/MonorailCss.Build.Tasks@0.0.5-alpha.0.1
 - pkg:nuget/MonorailCss.Build.Tasks@0.0.5-alpha.0.133
+- pkg:nuget/MonorailCss.Build.Tasks@0.0.5-alpha.0.170
 - pkg:nuget/MonorailCss.Build.Tasks@0.0.5-alpha.0.2
 - pkg:nuget/MonorailCss.Build.Tasks@0.0.5-alpha.0.3
