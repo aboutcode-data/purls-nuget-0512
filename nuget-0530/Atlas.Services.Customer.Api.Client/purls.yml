@@ -357,3 +357,5 @@
 - pkg:nuget/Atlas.Services.Customer.Api.Client@4.8.5
 - pkg:nuget/Atlas.Services.Customer.Api.Client@4.8.7
 - pkg:nuget/Atlas.Services.Customer.Api.Client@4.8.8
+- pkg:nuget/Atlas.Services.Customer.Api.Client@4.9.1
+- pkg:nuget/Atlas.Services.Customer.Api.Client@4.9.2
