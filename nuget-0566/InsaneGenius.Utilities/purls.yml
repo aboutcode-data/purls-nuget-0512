@@ -340,4 +340,6 @@
 - pkg:nuget/InsaneGenius.Utilities@3.3.8-g7be27afb07
 - pkg:nuget/InsaneGenius.Utilities@3.3.9
 - pkg:nuget/InsaneGenius.Utilities@3.4.21
+- pkg:nuget/InsaneGenius.Utilities@3.4.25
 - pkg:nuget/InsaneGenius.Utilities@3.5.2
+- pkg:nuget/InsaneGenius.Utilities@3.5.4
