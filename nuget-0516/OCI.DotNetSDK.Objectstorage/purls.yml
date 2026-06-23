@@ -55,6 +55,7 @@
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Objectstorage@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Objectstorage@15.2.0
