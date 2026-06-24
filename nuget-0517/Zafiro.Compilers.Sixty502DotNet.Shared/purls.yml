@@ -3,5 +3,11 @@
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.129
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.130
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.153
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.161
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.162
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.163
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.164
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.165
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.166
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.92
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@2.8.1-ci107
