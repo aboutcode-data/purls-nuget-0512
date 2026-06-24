@@ -3,6 +3,7 @@
 - pkg:nuget/smartystreets-dotnet-sdk@12.3.0
 - pkg:nuget/smartystreets-dotnet-sdk@12.4.0
 - pkg:nuget/smartystreets-dotnet-sdk@12.5.0
+- pkg:nuget/smartystreets-dotnet-sdk@14.0.0
 - pkg:nuget/smartystreets-dotnet-sdk@3.0.0
 - pkg:nuget/smartystreets-dotnet-sdk@3.0.1
 - pkg:nuget/smartystreets-dotnet-sdk@4.0.0
