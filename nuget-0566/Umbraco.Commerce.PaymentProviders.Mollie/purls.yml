@@ -18,3 +18,4 @@
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Mollie@16.1.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Mollie@16.1.1
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Mollie@17.0.1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Mollie@18.0.0
