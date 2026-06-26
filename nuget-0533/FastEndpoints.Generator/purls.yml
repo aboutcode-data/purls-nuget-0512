@@ -651,3 +651,4 @@
 - pkg:nuget/FastEndpoints.Generator@8.2.0-beta.41
 - pkg:nuget/FastEndpoints.Generator@8.2.0-beta.44
 - pkg:nuget/FastEndpoints.Generator@8.2.0-beta.9
+- pkg:nuget/FastEndpoints.Generator@8.3.0-beta.1
