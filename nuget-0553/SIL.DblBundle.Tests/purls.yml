@@ -222,6 +222,8 @@
 - pkg:nuget/SIL.DblBundle.Tests@18.0.0-beta0006
 - pkg:nuget/SIL.DblBundle.Tests@18.0.0-beta0010
 - pkg:nuget/SIL.DblBundle.Tests@18.0.0-beta0015
+- pkg:nuget/SIL.DblBundle.Tests@18.0.0-beta0022
+- pkg:nuget/SIL.DblBundle.Tests@18.0.0-beta0023
 - pkg:nuget/SIL.DblBundle.Tests@8.0.0
 - pkg:nuget/SIL.DblBundle.Tests@8.0.0-alpha0240
 - pkg:nuget/SIL.DblBundle.Tests@8.0.0-alpha0241
