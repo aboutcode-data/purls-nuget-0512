@@ -31,6 +31,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@119.2.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@119.2.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@119.2.0.3
+- pkg:nuget/Xamarin.GooglePlayServices.Maps@120.0.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@23.0.0-beta1
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@23.0.0-beta2
 - pkg:nuget/Xamarin.GooglePlayServices.Maps@23.0.0-beta3
