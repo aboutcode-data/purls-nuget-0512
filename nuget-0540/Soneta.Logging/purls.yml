@@ -83,3 +83,4 @@
 - pkg:nuget/Soneta.Logging@2401.4.8
 - pkg:nuget/Soneta.Logging@2401.4.9
 - pkg:nuget/Soneta.Logging@2604.0.0-beta.212574
+- pkg:nuget/Soneta.Logging@2606.0.1
