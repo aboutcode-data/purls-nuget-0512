@@ -36,6 +36,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@118.2.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@118.2.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@118.2.0.3
+- pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@118.3.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@57.1104.0-beta1
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@60.1142.0
 - pkg:nuget/Xamarin.GooglePlayServices.Auth.Api.Phone@60.1142.0-beta1

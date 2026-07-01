@@ -34,6 +34,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@118.3.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@118.3.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@118.3.0.3
+- pkg:nuget/Xamarin.GooglePlayServices.TagManager@118.3.0.6
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@30.0.1-alpha1
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@30.0.1-alpha2
 - pkg:nuget/Xamarin.GooglePlayServices.TagManager@30.0.1-alpha3
