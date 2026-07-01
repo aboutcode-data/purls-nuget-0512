@@ -48,6 +48,7 @@
 - pkg:nuget/DNTCommon.Web.Core@14.5.3
 - pkg:nuget/DNTCommon.Web.Core@14.8.1
 - pkg:nuget/DNTCommon.Web.Core@14.8.2
+- pkg:nuget/DNTCommon.Web.Core@14.8.4
 - pkg:nuget/DNTCommon.Web.Core@2.0.0
 - pkg:nuget/DNTCommon.Web.Core@2.1.0
 - pkg:nuget/DNTCommon.Web.Core@2.1.1
