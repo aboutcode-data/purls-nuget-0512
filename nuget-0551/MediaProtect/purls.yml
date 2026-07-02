@@ -35,6 +35,7 @@
 - pkg:nuget/MediaProtect@16.0.0
 - pkg:nuget/MediaProtect@16.0.0-beta0001
 - pkg:nuget/MediaProtect@16.0.0-rc0001
+- pkg:nuget/MediaProtect@18.0.0
 - pkg:nuget/MediaProtect@2.0.0
 - pkg:nuget/MediaProtect@2.1.0
 - pkg:nuget/MediaProtect@2.1.1
