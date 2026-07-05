@@ -1,1 +1,8 @@
+- pkg:nuget/AshleyShrok.ViewModelShell@0.13.0
+- pkg:nuget/AshleyShrok.ViewModelShell@0.15.0
 - pkg:nuget/AshleyShrok.ViewModelShell@0.3.8
+- pkg:nuget/AshleyShrok.ViewModelShell@0.7.0
+- pkg:nuget/AshleyShrok.ViewModelShell@1.6.0
+- pkg:nuget/AshleyShrok.ViewModelShell@1.9.0
+- pkg:nuget/AshleyShrok.ViewModelShell@2.0.0
+- pkg:nuget/AshleyShrok.ViewModelShell@4.0.0
