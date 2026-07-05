@@ -1,5 +1,6 @@
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@10.0.0-beta.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@10.0.0-beta.2
+- pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@10.0.6
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@2.0.0
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@2.0.1
 - pkg:nuget/Rocket.Surgery.Extensions.Testing.FakeItEasy@2.0.2
