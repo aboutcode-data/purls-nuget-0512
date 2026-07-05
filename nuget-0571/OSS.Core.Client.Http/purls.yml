@@ -19,3 +19,4 @@
 - pkg:nuget/OSS.Core.Client.Http@2.6.0
 - pkg:nuget/OSS.Core.Client.Http@2.6.1
 - pkg:nuget/OSS.Core.Client.Http@2.6.2
+- pkg:nuget/OSS.Core.Client.Http@2.7.0
