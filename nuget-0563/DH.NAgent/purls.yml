@@ -754,3 +754,5 @@
 - pkg:nuget/DH.NAgent@4.13.2025.926-beta1151
 - pkg:nuget/DH.NAgent@4.13.2025.926-beta1153
 - pkg:nuget/DH.NAgent@4.18.2026.301-beta0228
+- pkg:nuget/DH.NAgent@4.21.2026.707-beta1333
+- pkg:nuget/DH.NAgent@4.21.2026.707-beta1344
