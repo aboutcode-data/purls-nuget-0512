@@ -44,8 +44,10 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.39
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.42
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.44
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.51
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.9
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.11
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.16
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.33
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.6
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.8
