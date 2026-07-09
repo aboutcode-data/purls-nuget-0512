@@ -86,6 +86,7 @@
 - pkg:nuget/FlowtideDotNet.Substrait@0.15.1-alpha2
 - pkg:nuget/FlowtideDotNet.Substrait@0.16.0-alpha7
 - pkg:nuget/FlowtideDotNet.Substrait@0.16.0-alpha8
+- pkg:nuget/FlowtideDotNet.Substrait@0.16.0-alpha9
 - pkg:nuget/FlowtideDotNet.Substrait@0.2.0
 - pkg:nuget/FlowtideDotNet.Substrait@0.2.0-alpha1
 - pkg:nuget/FlowtideDotNet.Substrait@0.2.0-alpha2
