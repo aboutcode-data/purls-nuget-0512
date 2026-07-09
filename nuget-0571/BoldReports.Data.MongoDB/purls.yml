@@ -17,6 +17,7 @@
 - pkg:nuget/BoldReports.Data.MongoDB@13.1.26
 - pkg:nuget/BoldReports.Data.MongoDB@13.1.36
 - pkg:nuget/BoldReports.Data.MongoDB@13.1.37
+- pkg:nuget/BoldReports.Data.MongoDB@13.1.40
 - pkg:nuget/BoldReports.Data.MongoDB@9.1.10
 - pkg:nuget/BoldReports.Data.MongoDB@9.1.11
 - pkg:nuget/BoldReports.Data.MongoDB@9.1.12
