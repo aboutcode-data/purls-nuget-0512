@@ -67,6 +67,7 @@
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.187
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.189
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.198
+- pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.201
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.96
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.97
 - pkg:nuget/HuaweiCloud.SDK.Organizations@3.1.98
