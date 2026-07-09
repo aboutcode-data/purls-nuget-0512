@@ -37,3 +37,4 @@
 - pkg:nuget/Farkle@6.5.1
 - pkg:nuget/Farkle@6.5.2
 - pkg:nuget/Farkle@7.0.0-preview.1
+- pkg:nuget/Farkle@7.0.1
