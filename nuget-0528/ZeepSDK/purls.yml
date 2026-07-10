@@ -122,3 +122,5 @@
 - pkg:nuget/ZeepSDK@1.9.1
 - pkg:nuget/ZeepSDK@2.0.0
 - pkg:nuget/ZeepSDK@2.3.2
+- pkg:nuget/ZeepSDK@2.6.0
+- pkg:nuget/ZeepSDK@2.6.1
