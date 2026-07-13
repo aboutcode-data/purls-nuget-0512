@@ -15,6 +15,8 @@
 - pkg:nuget/OneScript.Runtime@1.1.8
 - pkg:nuget/OneScript.Runtime@1.1.9
 - pkg:nuget/OneScript.Runtime@1.2.1
+- pkg:nuget/OneScript.Runtime@10.0.12
+- pkg:nuget/OneScript.Runtime@10.0.13
 - pkg:nuget/OneScript.Runtime@10.0.9
 - pkg:nuget/OneScript.Runtime@6.0.0
 - pkg:nuget/OneScript.Runtime@6.1.0
