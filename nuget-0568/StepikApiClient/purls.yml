@@ -34,3 +34,4 @@
 - pkg:nuget/StepikApiClient@1.0.7
 - pkg:nuget/StepikApiClient@1.0.8
 - pkg:nuget/StepikApiClient@1.0.9
+- pkg:nuget/StepikApiClient@2.1.4
