@@ -1,5 +1,6 @@
 - pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@10.0.0
 - pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@10.0.1
+- pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@12.0.0
 - pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@5.0.0
 - pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@5.1.0
 - pkg:nuget/Rsk.Saml.DuendeIdentityServer.EntityFramework@6.0.0
