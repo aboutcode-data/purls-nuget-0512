@@ -11,5 +11,8 @@
 - pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.51
 - pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.53
 - pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.60
+- pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.71
+- pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.76
 - pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.8
+- pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.81
 - pkg:nuget/Soenneker.Extensions.IHttpContextAccessors@4.0.9
