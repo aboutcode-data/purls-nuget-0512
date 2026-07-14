@@ -8,3 +8,5 @@
 - pkg:nuget/EllipticBit.Services.Secret.AzureKeyVault@1.0.26
 - pkg:nuget/EllipticBit.Services.Secret.AzureKeyVault@1.0.6
 - pkg:nuget/EllipticBit.Services.Secret.AzureKeyVault@1.1.1
+- pkg:nuget/EllipticBit.Services.Secret.AzureKeyVault@1.1.6
+- pkg:nuget/EllipticBit.Services.Secret.AzureKeyVault@1.1.7
