@@ -53,6 +53,7 @@
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.30.3
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.31.0
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.32.0
+- pkg:nuget/Microsoft.Azure.SignalR.Management@1.33.1
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.4.0
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.4.1
 - pkg:nuget/Microsoft.Azure.SignalR.Management@1.4.2
