@@ -40,3 +40,4 @@
 - pkg:nuget/MongoDB.Extensions.Migration@5.4.0-preview.1
 - pkg:nuget/MongoDB.Extensions.Migration@5.5.0
 - pkg:nuget/MongoDB.Extensions.Migration@5.5.2
+- pkg:nuget/MongoDB.Extensions.Migration@5.8.0
