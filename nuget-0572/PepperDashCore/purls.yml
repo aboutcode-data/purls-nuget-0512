@@ -432,6 +432,7 @@
 - pkg:nuget/PepperDashCore@2.36.4
 - pkg:nuget/PepperDashCore@2.36.4-fix-null-properties-on-DeviceStateMessageBase.1
 - pkg:nuget/PepperDashCore@2.37.0-feature-air-media-sharing-interface.1
+- pkg:nuget/PepperDashCore@2.37.0-feature-room-combination-change-in-progress-lockout.2
 - pkg:nuget/PepperDashCore@2.37.0-feature-screenLiftController-updates.2
 - pkg:nuget/PepperDashCore@2.37.0-feature-version-data-touchpanel-ui-schema.2
 - pkg:nuget/PepperDashCore@2.37.0-feature-version-data-touchpanel-ui-schema.3
