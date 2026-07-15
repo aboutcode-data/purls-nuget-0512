@@ -8,4 +8,7 @@
 - pkg:nuget/NeoUI.Blazor@3.8.4
 - pkg:nuget/NeoUI.Blazor@3.8.5
 - pkg:nuget/NeoUI.Blazor@3.8.6
+- pkg:nuget/NeoUI.Blazor@4.1.10
+- pkg:nuget/NeoUI.Blazor@4.1.13
 - pkg:nuget/NeoUI.Blazor@4.1.4
+- pkg:nuget/NeoUI.Blazor@4.1.9
