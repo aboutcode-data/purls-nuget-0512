@@ -52,3 +52,4 @@
 - pkg:nuget/Microsoft.DataApiBuilder@1.5.56
 - pkg:nuget/Microsoft.DataApiBuilder@1.6.58-rc
 - pkg:nuget/Microsoft.DataApiBuilder@1.7.93
+- pkg:nuget/Microsoft.DataApiBuilder@2.0.7-rc
