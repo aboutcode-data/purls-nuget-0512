@@ -5,3 +5,4 @@
 - pkg:nuget/AT.BackEnd.Api@1.4.0
 - pkg:nuget/AT.BackEnd.Api@1.5.0
 - pkg:nuget/AT.BackEnd.Api@2.0.0-beta1
+- pkg:nuget/AT.BackEnd.Api@2.3.0
