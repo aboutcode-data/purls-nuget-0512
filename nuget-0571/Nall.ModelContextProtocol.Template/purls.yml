@@ -1,4 +1,5 @@
 - pkg:nuget/Nall.ModelContextProtocol.Template@0.1.2
+- pkg:nuget/Nall.ModelContextProtocol.Template@0.10.2
 - pkg:nuget/Nall.ModelContextProtocol.Template@0.2.0
 - pkg:nuget/Nall.ModelContextProtocol.Template@0.3.0
 - pkg:nuget/Nall.ModelContextProtocol.Template@0.4.0
