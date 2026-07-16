@@ -27,5 +27,6 @@
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.306
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.311
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.313
+- pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.330
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@0.0.92
 - pkg:nuget/Zafiro.Compilers.Sixty502DotNet.Shared@2.8.1-ci107
