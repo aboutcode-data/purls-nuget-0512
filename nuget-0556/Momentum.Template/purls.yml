@@ -10,6 +10,10 @@
 - pkg:nuget/Momentum.Template@0.0.1-pre.6
 - pkg:nuget/Momentum.Template@0.0.10-preview.4
 - pkg:nuget/Momentum.Template@0.0.12-preview.1
+- pkg:nuget/Momentum.Template@0.0.12-preview.4
+- pkg:nuget/Momentum.Template@0.0.12-preview.5
+- pkg:nuget/Momentum.Template@0.0.12-preview.6
+- pkg:nuget/Momentum.Template@0.0.12-preview.7
 - pkg:nuget/Momentum.Template@0.0.2
 - pkg:nuget/Momentum.Template@0.0.2-preview.1
 - pkg:nuget/Momentum.Template@0.0.2-preview.2
