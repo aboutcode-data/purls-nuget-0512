@@ -347,3 +347,4 @@
 - pkg:nuget/Google.Apis.ServiceConsumerManagement.v1@1.69.0.3787
 - pkg:nuget/Google.Apis.ServiceConsumerManagement.v1@1.70.0.3822
 - pkg:nuget/Google.Apis.ServiceConsumerManagement.v1@1.72.0.3948
+- pkg:nuget/Google.Apis.ServiceConsumerManagement.v1@1.75.0.4211
