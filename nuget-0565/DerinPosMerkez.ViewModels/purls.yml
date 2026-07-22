@@ -383,6 +383,7 @@
 - pkg:nuget/DerinPosMerkez.ViewModels@6.13.3
 - pkg:nuget/DerinPosMerkez.ViewModels@6.14.0
 - pkg:nuget/DerinPosMerkez.ViewModels@6.14.4
+- pkg:nuget/DerinPosMerkez.ViewModels@6.14.7
 - pkg:nuget/DerinPosMerkez.ViewModels@6.2.0
 - pkg:nuget/DerinPosMerkez.ViewModels@6.2.1
 - pkg:nuget/DerinPosMerkez.ViewModels@6.2.10
