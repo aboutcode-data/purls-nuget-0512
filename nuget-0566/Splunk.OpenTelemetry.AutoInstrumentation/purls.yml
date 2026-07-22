@@ -5,6 +5,7 @@
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.10.0
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.11.0
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.12.0-beta.1
+- pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.15.0
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.2.0
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.2.1
 - pkg:nuget/Splunk.OpenTelemetry.AutoInstrumentation@1.3.0
