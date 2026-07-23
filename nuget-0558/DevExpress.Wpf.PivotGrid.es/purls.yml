@@ -1,3 +1,6 @@
 - pkg:nuget/DevExpress.Wpf.PivotGrid.es@25.1.11
+- pkg:nuget/DevExpress.Wpf.PivotGrid.es@25.1.12
 - pkg:nuget/DevExpress.Wpf.PivotGrid.es@25.1.8
 - pkg:nuget/DevExpress.Wpf.PivotGrid.es@25.1.9
+- pkg:nuget/DevExpress.Wpf.PivotGrid.es@26.1.2-beta
+- pkg:nuget/DevExpress.Wpf.PivotGrid.es@26.1.3
