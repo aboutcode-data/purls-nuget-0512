@@ -1,0 +1,2 @@
+- pkg:nuget/mailgun-dotnet.Extensions.DependencyInjection@0.6.2
+- pkg:nuget/mailgun-dotnet.Extensions.DependencyInjection@0.9.0
