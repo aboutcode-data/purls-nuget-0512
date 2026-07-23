@@ -1,3 +1,6 @@
+- pkg:nuget/DevExtreme.AspNet.Mvc@25.1.12
 - pkg:nuget/DevExtreme.AspNet.Mvc@25.1.6
 - pkg:nuget/DevExtreme.AspNet.Mvc@25.1.7
 - pkg:nuget/DevExtreme.AspNet.Mvc@25.2.6
+- pkg:nuget/DevExtreme.AspNet.Mvc@26.1.2-beta
+- pkg:nuget/DevExtreme.AspNet.Mvc@26.1.3
