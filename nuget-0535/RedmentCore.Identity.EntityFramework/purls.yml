@@ -22,3 +22,5 @@
 - pkg:nuget/RedmentCore.Identity.EntityFramework@6.2.5.1
 - pkg:nuget/RedmentCore.Identity.EntityFramework@8.0.0
 - pkg:nuget/RedmentCore.Identity.EntityFramework@8.0.0.1
+- pkg:nuget/RedmentCore.Identity.EntityFramework@8.0.1
+- pkg:nuget/RedmentCore.Identity.EntityFramework@8.0.1.1
