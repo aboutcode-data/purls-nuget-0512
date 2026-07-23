@@ -1,3 +1,6 @@
 - pkg:nuget/DevExpress.Blazor.PivotTable.es@25.1.11
+- pkg:nuget/DevExpress.Blazor.PivotTable.es@25.1.12
 - pkg:nuget/DevExpress.Blazor.PivotTable.es@25.1.9
 - pkg:nuget/DevExpress.Blazor.PivotTable.es@25.2.5
+- pkg:nuget/DevExpress.Blazor.PivotTable.es@26.1.2-beta
+- pkg:nuget/DevExpress.Blazor.PivotTable.es@26.1.3
