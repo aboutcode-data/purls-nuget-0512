@@ -105,3 +105,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.Full.iOS@9.5.2736
 - pkg:nuget/Xamarin.DocumentReader.Core.Full.iOS@9.7.2827-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Full.iOS@9.7.2936-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.Full.iOS@9.7.2967-rc
