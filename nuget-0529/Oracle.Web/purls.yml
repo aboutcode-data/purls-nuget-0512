@@ -14,7 +14,9 @@
 - pkg:nuget/Oracle.Web@19.18.0
 - pkg:nuget/Oracle.Web@19.27.0
 - pkg:nuget/Oracle.Web@19.3.0
+- pkg:nuget/Oracle.Web@19.32.0
 - pkg:nuget/Oracle.Web@21.18.0
+- pkg:nuget/Oracle.Web@21.23.0
 - pkg:nuget/Oracle.Web@21.3.0
 - pkg:nuget/Oracle.Web@21.4.0
 - pkg:nuget/Oracle.Web@21.5.0
