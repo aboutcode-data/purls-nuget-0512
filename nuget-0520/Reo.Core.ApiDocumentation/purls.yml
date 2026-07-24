@@ -42,6 +42,7 @@
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.264
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.265
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.266
+- pkg:nuget/Reo.Core.ApiDocumentation@10.0.277
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.28
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.33
 - pkg:nuget/Reo.Core.ApiDocumentation@10.0.36
