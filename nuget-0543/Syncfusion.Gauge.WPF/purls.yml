@@ -349,3 +349,4 @@
 - pkg:nuget/Syncfusion.Gauge.WPF@33.2.10
 - pkg:nuget/Syncfusion.Gauge.WPF@33.2.12
 - pkg:nuget/Syncfusion.Gauge.WPF@33.2.5
+- pkg:nuget/Syncfusion.Gauge.WPF@34.1.33
