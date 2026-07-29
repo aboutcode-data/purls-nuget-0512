@@ -44,3 +44,4 @@
 - pkg:nuget/NetCorePal.Extensions.Repository.EntityFrameworkCore@2.9.3
 - pkg:nuget/NetCorePal.Extensions.Repository.EntityFrameworkCore@3.0.0-rc.2
 - pkg:nuget/NetCorePal.Extensions.Repository.EntityFrameworkCore@3.0.1
+- pkg:nuget/NetCorePal.Extensions.Repository.EntityFrameworkCore@3.4.0
