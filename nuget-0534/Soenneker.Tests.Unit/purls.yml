@@ -1069,6 +1069,8 @@
 - pkg:nuget/Soenneker.Tests.Unit@4.0.1227
 - pkg:nuget/Soenneker.Tests.Unit@4.0.1232
 - pkg:nuget/Soenneker.Tests.Unit@4.0.1234
+- pkg:nuget/Soenneker.Tests.Unit@4.0.1238
+- pkg:nuget/Soenneker.Tests.Unit@4.0.1239
 - pkg:nuget/Soenneker.Tests.Unit@4.0.947
 - pkg:nuget/Soenneker.Tests.Unit@4.0.951
 - pkg:nuget/Soenneker.Tests.Unit@4.0.953
