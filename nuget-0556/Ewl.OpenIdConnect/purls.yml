@@ -145,3 +145,4 @@
 - pkg:nuget/Ewl.OpenIdConnect@85.0.0-pr00547
 - pkg:nuget/Ewl.OpenIdConnect@85.0.0-pr00558
 - pkg:nuget/Ewl.OpenIdConnect@85.0.0-pr00559
+- pkg:nuget/Ewl.OpenIdConnect@86.0.0-pr00567
