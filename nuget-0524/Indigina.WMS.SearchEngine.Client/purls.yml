@@ -33,5 +33,6 @@
 - pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.64
 - pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.66
 - pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.7
+- pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.75
 - pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.8
 - pkg:nuget/Indigina.WMS.SearchEngine.Client@1.0.9
