@@ -47,3 +47,6 @@
 - pkg:nuget/CosmoSQLClient.Postgres@6.98.0-r2
 - pkg:nuget/CosmoSQLClient.Postgres@7.13.0
 - pkg:nuget/CosmoSQLClient.Postgres@7.20.0
+- pkg:nuget/CosmoSQLClient.Postgres@7.22.0
+- pkg:nuget/CosmoSQLClient.Postgres@7.25.0
+- pkg:nuget/CosmoSQLClient.Postgres@7.28.0
