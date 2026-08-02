@@ -153,6 +153,8 @@
 - pkg:nuget/NCSDW@2603.713.1.8
 - pkg:nuget/NCSDW@2603.713.1.9
 - pkg:nuget/NCSDW@2603.714.1.13
+- pkg:nuget/NCSDW@2603.714.1.16
+- pkg:nuget/NCSDW@2603.714.1.17
 - pkg:nuget/NCSDW@2603.714.1.8
 - pkg:nuget/NCSDW@7.12.0.1
 - pkg:nuget/NCSDW@7.12.0.10
