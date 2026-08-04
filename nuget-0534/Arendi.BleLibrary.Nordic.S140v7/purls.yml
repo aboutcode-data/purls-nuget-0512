@@ -80,6 +80,7 @@
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@18.2.0-rc1
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@18.2.0-rc2
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@18.2.1
+- pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@21.0.0
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@5.4.1
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@5.5.0
 - pkg:nuget/Arendi.BleLibrary.Nordic.S140v7@5.6.0
