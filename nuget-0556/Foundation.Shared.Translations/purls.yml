@@ -402,5 +402,7 @@
 - pkg:nuget/Foundation.Shared.Translations@1.1.24-unit-formatter
 - pkg:nuget/Foundation.Shared.Translations@1.1.24-unit-formatter-1
 - pkg:nuget/Foundation.Shared.Translations@1.1.24-unit-formatter-2
+- pkg:nuget/Foundation.Shared.Translations@1.1.29-new-font-style
+- pkg:nuget/Foundation.Shared.Translations@1.1.29-new-font-style-1
 - pkg:nuget/Foundation.Shared.Translations@1.1.4
 - pkg:nuget/Foundation.Shared.Translations@1.1.6
