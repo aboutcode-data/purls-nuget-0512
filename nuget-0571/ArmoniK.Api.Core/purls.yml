@@ -2327,6 +2327,7 @@
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.27.1cab90b8
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.27.c29d3a6e
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.35.8f5ab724
+- pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.35.c9a80a9e
 - pkg:nuget/ArmoniK.Api.Core@3.3.0
 - pkg:nuget/ArmoniK.Api.Core@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Core@3.3.0-32168g32114de.68.32114de
