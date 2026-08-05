@@ -100,3 +100,5 @@
 - pkg:nuget/AboditNLPWordnet@4.2.6
 - pkg:nuget/AboditNLPWordnet@4.2.7
 - pkg:nuget/AboditNLPWordnet@4.2.8
+- pkg:nuget/AboditNLPWordnet@4.4.1
+- pkg:nuget/AboditNLPWordnet@4.5.1
