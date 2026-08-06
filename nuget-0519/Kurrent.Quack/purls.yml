@@ -13,6 +13,9 @@
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.172
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.184
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.193
+- pkg:nuget/Kurrent.Quack@0.0.0-alpha.212
+- pkg:nuget/Kurrent.Quack@0.0.0-alpha.217
+- pkg:nuget/Kurrent.Quack@0.0.0-alpha.221
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.53.18
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.54.19
 - pkg:nuget/Kurrent.Quack@0.0.0-alpha.55
