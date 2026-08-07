@@ -1799,3 +1799,4 @@
 - pkg:nuget/Soenneker.Utils.HttpClientCache@4.0.2004
 - pkg:nuget/Soenneker.Utils.HttpClientCache@4.0.2010
 - pkg:nuget/Soenneker.Utils.HttpClientCache@4.0.2011
+- pkg:nuget/Soenneker.Utils.HttpClientCache@4.0.2013
