@@ -2312,6 +2312,7 @@
 - pkg:nuget/ArmoniK.Api.Core@3.29.2-renovatemajorwebnpm.1.620e5656
 - pkg:nuget/ArmoniK.Api.Core@3.29.2-renovatemajorwebnpm.1.7ba07136
 - pkg:nuget/ArmoniK.Api.Core@3.29.2-renovatepypi.1.4ce9774d
+- pkg:nuget/ArmoniK.Api.Core@3.29.3-edge.39.a2a3996d
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovateallminorpatch.1.7ae720ba
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovateallminorpatch.27.2ff1fbad
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovateallminorpatch.35.0419f654
@@ -2328,6 +2329,7 @@
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.27.c29d3a6e
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.35.8f5ab724
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.35.c9a80a9e
+- pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.40.7a8d0a83
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-wktestrustreplyconstant.35.07d4810a
 - pkg:nuget/ArmoniK.Api.Core@3.3.0
 - pkg:nuget/ArmoniK.Api.Core@3.3.0-32166g075acae.66.075acae
