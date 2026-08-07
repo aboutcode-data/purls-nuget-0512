@@ -170,6 +170,7 @@
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@18.1.0
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@18.3.0
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@19.0.0-alpha-666
+- pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@19.0.1
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@2.0.0
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@2.0.1
 - pkg:nuget/Energinet.DataHub.ProcessManager.Orchestrations.Abstractions@2.1.0
