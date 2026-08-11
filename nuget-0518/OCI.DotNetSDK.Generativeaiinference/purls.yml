@@ -46,6 +46,7 @@
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@139.0.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Generativeaiinference@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@78.1.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@78.2.0
 - pkg:nuget/OCI.DotNetSDK.Generativeaiinference@79.0.0
