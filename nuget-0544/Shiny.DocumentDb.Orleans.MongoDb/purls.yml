@@ -5,6 +5,7 @@
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@12.2.0-beta-0001
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@13.0.0
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@13.2.0
+- pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@13.2.1
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@7.2.1-beta-0002
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@8.0.0-beta-0002
 - pkg:nuget/Shiny.DocumentDb.Orleans.MongoDb@9.0.0-beta-0002
