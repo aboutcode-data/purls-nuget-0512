@@ -46,3 +46,5 @@
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence.Postgres@2.2.288
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence.Postgres@2.2.302
 - pkg:nuget/Itmo.Dev.Platform.MessagePersistence.Postgres@2.2.308
+- pkg:nuget/Itmo.Dev.Platform.MessagePersistence.Postgres@3.0.433
+- pkg:nuget/Itmo.Dev.Platform.MessagePersistence.Postgres@3.0.435
