@@ -1,0 +1,4 @@
+- pkg:nuget/AsiBackbone.AspNetCore@2.0.0
+- pkg:nuget/AsiBackbone.AspNetCore@2.2.0
+- pkg:nuget/AsiBackbone.AspNetCore@3.0.0
+- pkg:nuget/AsiBackbone.AspNetCore@3.2.1
