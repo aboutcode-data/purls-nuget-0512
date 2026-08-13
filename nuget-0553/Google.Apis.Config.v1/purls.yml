@@ -11,3 +11,5 @@
 - pkg:nuget/Google.Apis.Config.v1@1.70.0.3807
 - pkg:nuget/Google.Apis.Config.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.Config.v1@1.73.0.4100
+- pkg:nuget/Google.Apis.Config.v1@1.75.0.4191
+- pkg:nuget/Google.Apis.Config.v1@1.75.0.4220
