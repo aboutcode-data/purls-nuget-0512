@@ -22,3 +22,5 @@
 - pkg:nuget/Google.Apis.GKEHub.v2beta@1.70.0.3893
 - pkg:nuget/Google.Apis.GKEHub.v2beta@1.71.0.3902
 - pkg:nuget/Google.Apis.GKEHub.v2beta@1.73.0.4100
+- pkg:nuget/Google.Apis.GKEHub.v2beta@1.75.0.4211
+- pkg:nuget/Google.Apis.GKEHub.v2beta@1.75.0.4217

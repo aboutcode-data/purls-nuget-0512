@@ -33,3 +33,4 @@
 - pkg:nuget/Google.Apis.FirebaseAppDistribution.v1alpha@1.71.0.3920
 - pkg:nuget/Google.Apis.FirebaseAppDistribution.v1alpha@1.72.0.3947
 - pkg:nuget/Google.Apis.FirebaseAppDistribution.v1alpha@1.75.0.4221
+- pkg:nuget/Google.Apis.FirebaseAppDistribution.v1alpha@1.75.0.4232
