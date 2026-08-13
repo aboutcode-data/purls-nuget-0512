@@ -2,3 +2,6 @@
 - pkg:nuget/Artalk.Xmpp@1.0.2
 - pkg:nuget/Artalk.Xmpp@1.0.3
 - pkg:nuget/Artalk.Xmpp@1.0.5
+- pkg:nuget/Artalk.Xmpp@2.3.0
+- pkg:nuget/Artalk.Xmpp@2.4.0
+- pkg:nuget/Artalk.Xmpp@2.5.0
