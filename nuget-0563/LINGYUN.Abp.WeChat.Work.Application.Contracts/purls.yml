@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.WeChat.Work.Application.Contracts@10.4.0
 - pkg:nuget/LINGYUN.Abp.WeChat.Work.Application.Contracts@7.3.3.1
 - pkg:nuget/LINGYUN.Abp.WeChat.Work.Application.Contracts@7.4.0.1
 - pkg:nuget/LINGYUN.Abp.WeChat.Work.Application.Contracts@8.0.3
