@@ -41,6 +41,9 @@
 - pkg:nuget/ktsu.Sdk.ConsoleApp@1.74.0
 - pkg:nuget/ktsu.Sdk.ConsoleApp@1.75.0
 - pkg:nuget/ktsu.Sdk.ConsoleApp@2.13.1
+- pkg:nuget/ktsu.Sdk.ConsoleApp@2.15.1-pre.1
+- pkg:nuget/ktsu.Sdk.ConsoleApp@2.17.0
 - pkg:nuget/ktsu.Sdk.ConsoleApp@2.2.2-pre.4
+- pkg:nuget/ktsu.Sdk.ConsoleApp@2.21.1
 - pkg:nuget/ktsu.Sdk.ConsoleApp@2.6.2-pre.3
 - pkg:nuget/ktsu.Sdk.ConsoleApp@2.7.0
