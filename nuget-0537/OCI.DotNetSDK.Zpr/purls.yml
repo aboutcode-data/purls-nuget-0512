@@ -46,6 +46,7 @@
 - pkg:nuget/OCI.DotNetSDK.Zpr@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Zpr@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Zpr@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Zpr@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Zpr@96.1.0
 - pkg:nuget/OCI.DotNetSDK.Zpr@96.2.0
 - pkg:nuget/OCI.DotNetSDK.Zpr@97.0.0
