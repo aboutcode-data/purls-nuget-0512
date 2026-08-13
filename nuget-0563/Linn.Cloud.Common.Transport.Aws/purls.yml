@@ -7,3 +7,4 @@
 - pkg:nuget/Linn.Cloud.Common.Transport.Aws@1.0.6
 - pkg:nuget/Linn.Cloud.Common.Transport.Aws@1.0.7
 - pkg:nuget/Linn.Cloud.Common.Transport.Aws@1.0.8
+- pkg:nuget/Linn.Cloud.Common.Transport.Aws@2.0.0
