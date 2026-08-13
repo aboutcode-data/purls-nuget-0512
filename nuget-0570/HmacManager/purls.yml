@@ -20,3 +20,4 @@
 - pkg:nuget/HmacManager@2.4.6
 - pkg:nuget/HmacManager@2.5.0
 - pkg:nuget/HmacManager@2.5.1
+- pkg:nuget/HmacManager@2.8.0
