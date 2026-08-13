@@ -15,3 +15,16 @@
 - pkg:nuget/SdlVulkan.Renderer@3.3.411%2B2b82e8378917eccccf040447acf0d82c66dfab3d
 - pkg:nuget/SdlVulkan.Renderer@3.4.421%2Ba34c31a39d214c6e54db8c817ce46fcd164b7043
 - pkg:nuget/SdlVulkan.Renderer@3.4.471%2Bcd59c089019990b3a67d343c563fd8c4f4ae288f
+- pkg:nuget/SdlVulkan.Renderer@4.1.541%2B3194e58edc8cc098a3f375569e86b683a08b450d
+- pkg:nuget/SdlVulkan.Renderer@5.0.671%2B6d5ac33fcdca1e27d1d78093330c2e90ad1f8c90
+- pkg:nuget/SdlVulkan.Renderer@5.0.691%2B763fdef7aa5b2452a822d2c47923d1af918d1789
+- pkg:nuget/SdlVulkan.Renderer@6.0.851%2B60f9a102fcb9bdf812d93c8ee6ded87e9ddcb427
+- pkg:nuget/SdlVulkan.Renderer@6.22.1551%2Bda213c3e18e46cd7b07354d9546bd975c94d1654
+- pkg:nuget/SdlVulkan.Renderer@6.23.1561%2Bfb640c6b61d55d5669d9462096643887b9f8d3a9
+- pkg:nuget/SdlVulkan.Renderer@6.3.1121%2B5ee659c15a9b7e80d1b6303ab98e822b05a4566c
+- pkg:nuget/SdlVulkan.Renderer@6.32.1781%2Bfd86dadd0d9f40620a786136ea603a0c57ff5f5f
+- pkg:nuget/SdlVulkan.Renderer@6.33.1841%2B94ffee8f7d35fdbc13391cb9632fea426a03925d
+- pkg:nuget/SdlVulkan.Renderer@6.5.1151%2Bf8407578021f3aee2dd21ff8d26f11ab3b782996
+- pkg:nuget/SdlVulkan.Renderer@6.7.1241%2B609b9e0096f5ea7329caabec0d3ee317dde47ea2
+- pkg:nuget/SdlVulkan.Renderer@7.1.1861%2Bf32dea773acfe97b35ff264df5aa0291d289b225
+- pkg:nuget/SdlVulkan.Renderer@7.10.2121%2B689e40df8aaabe924b95bee308724c67837a96ea
