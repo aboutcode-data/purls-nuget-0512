@@ -463,6 +463,8 @@
 - pkg:nuget/PepperDashCore@2.4.9-appdebug-case-insensitivity.1
 - pkg:nuget/PepperDashCore@2.4.9-beta.1
 - pkg:nuget/PepperDashCore@2.4.9-camera-preset-fix.1
+- pkg:nuget/PepperDashCore@2.40.0-add-mpc4-support.5
+- pkg:nuget/PepperDashCore@2.40.0-add-mpc4-support.6
 - pkg:nuget/PepperDashCore@2.5.0
 - pkg:nuget/PepperDashCore@2.5.0-DGE-1000.1
 - pkg:nuget/PepperDashCore@2.5.0-logging-improvements.1
@@ -511,6 +513,7 @@
 - pkg:nuget/PepperDashCore@3.0.0-dev-v3-routing.52
 - pkg:nuget/PepperDashCore@3.0.0-dev-v3-routing.54
 - pkg:nuget/PepperDashCore@3.0.0-dev-v3-testing.15
+- pkg:nuget/PepperDashCore@3.0.0-fix-audio-codec-messenger-codec-info-null-ref.1
 - pkg:nuget/PepperDashCore@3.0.0-net8-updates-claude-tests.1
 - pkg:nuget/PepperDashCore@3.0.0-net8-updates.2
 - pkg:nuget/PepperDashCore@3.0.0-net8-updates.3
