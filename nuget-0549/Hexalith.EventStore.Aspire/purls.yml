@@ -19,4 +19,12 @@
 - pkg:nuget/Hexalith.EventStore.Aspire@3.56.0
 - pkg:nuget/Hexalith.EventStore.Aspire@3.57.0
 - pkg:nuget/Hexalith.EventStore.Aspire@3.61.1
+- pkg:nuget/Hexalith.EventStore.Aspire@3.68.4
+- pkg:nuget/Hexalith.EventStore.Aspire@3.73.0
+- pkg:nuget/Hexalith.EventStore.Aspire@3.79.0
+- pkg:nuget/Hexalith.EventStore.Aspire@3.80.0
+- pkg:nuget/Hexalith.EventStore.Aspire@3.84.0
 - pkg:nuget/Hexalith.EventStore.Aspire@3.9.0
+- pkg:nuget/Hexalith.EventStore.Aspire@3.90.0
+- pkg:nuget/Hexalith.EventStore.Aspire@3.91.1
+- pkg:nuget/Hexalith.EventStore.Aspire@3.92.0
