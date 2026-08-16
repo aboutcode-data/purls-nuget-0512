@@ -31,4 +31,7 @@
 - pkg:nuget/JKorf.Coinbase.Net@2.5.1
 - pkg:nuget/JKorf.Coinbase.Net@2.6.0
 - pkg:nuget/JKorf.Coinbase.Net@2.7.0
+- pkg:nuget/JKorf.Coinbase.Net@3.10.0
 - pkg:nuget/JKorf.Coinbase.Net@3.9.3
+- pkg:nuget/JKorf.Coinbase.Net@4.0.0
+- pkg:nuget/JKorf.Coinbase.Net@4.2.0

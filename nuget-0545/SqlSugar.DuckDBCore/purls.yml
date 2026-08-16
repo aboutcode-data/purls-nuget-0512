@@ -4,3 +4,4 @@
 - pkg:nuget/SqlSugar.DuckDBCore@5.1.4.192
 - pkg:nuget/SqlSugar.DuckDBCore@5.1.4.198
 - pkg:nuget/SqlSugar.DuckDBCore@5.1.4.202
+- pkg:nuget/SqlSugar.DuckDBCore@5.1.4.216
