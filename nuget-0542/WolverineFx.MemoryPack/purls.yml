@@ -176,5 +176,6 @@
 - pkg:nuget/WolverineFx.MemoryPack@6.17.1
 - pkg:nuget/WolverineFx.MemoryPack@6.25.3
 - pkg:nuget/WolverineFx.MemoryPack@6.28.1
+- pkg:nuget/WolverineFx.MemoryPack@6.29.0
 - pkg:nuget/WolverineFx.MemoryPack@6.3.1
 - pkg:nuget/WolverineFx.MemoryPack@6.7.0
