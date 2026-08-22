@@ -107,4 +107,5 @@
 - pkg:nuget/AngleSharp.Css@1.0.0-beta.243
 - pkg:nuget/AngleSharp.Css@1.0.1
 - pkg:nuget/AngleSharp.Css@1.0.1-beta.264
+- pkg:nuget/AngleSharp.Css@1.0.2
 - pkg:nuget/AngleSharp.Css@1.0.2-beta.265
