@@ -18,3 +18,5 @@
 - pkg:nuget/FclEx.Dapper@2.2.2
 - pkg:nuget/FclEx.Dapper@2.2.3
 - pkg:nuget/FclEx.Dapper@2.3.1
+- pkg:nuget/FclEx.Dapper@2.3.2
+- pkg:nuget/FclEx.Dapper@2.3.3
