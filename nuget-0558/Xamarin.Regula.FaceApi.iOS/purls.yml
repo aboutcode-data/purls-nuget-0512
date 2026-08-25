@@ -372,6 +372,7 @@
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.2.842-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.2.844-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.2.953-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.3.1011-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.3.734-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.3.742-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.3.745-nightly
