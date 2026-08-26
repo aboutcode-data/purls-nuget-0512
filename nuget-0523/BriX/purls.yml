@@ -1,6 +1,7 @@
 - pkg:nuget/BriX@0.0.0
 - pkg:nuget/BriX@1.0.0
 - pkg:nuget/BriX@2.0.0
+- pkg:nuget/BriX@21.4.0
 - pkg:nuget/BriX@3.0.0
 - pkg:nuget/BriX@3.1.0
 - pkg:nuget/BriX@3.1.1
