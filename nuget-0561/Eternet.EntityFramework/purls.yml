@@ -3,3 +3,5 @@
 - pkg:nuget/Eternet.EntityFramework@1.0.2
 - pkg:nuget/Eternet.EntityFramework@1.0.3
 - pkg:nuget/Eternet.EntityFramework@2.0.0
+- pkg:nuget/Eternet.EntityFramework@2.0.15
+- pkg:nuget/Eternet.EntityFramework@2.0.9
