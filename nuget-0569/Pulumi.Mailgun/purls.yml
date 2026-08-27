@@ -55,6 +55,7 @@
 - pkg:nuget/Pulumi.Mailgun@3.1.0
 - pkg:nuget/Pulumi.Mailgun@3.1.0-alpha.1618999757%2B25c43e81
 - pkg:nuget/Pulumi.Mailgun@3.1.0-alpha.1621591540%2B40bcdc0c
+- pkg:nuget/Pulumi.Mailgun@3.10.0-alpha.1787819271
 - pkg:nuget/Pulumi.Mailgun@3.2.0
 - pkg:nuget/Pulumi.Mailgun@3.2.0-alpha.1634661701%2Bd2c39f7d
 - pkg:nuget/Pulumi.Mailgun@3.3.0
