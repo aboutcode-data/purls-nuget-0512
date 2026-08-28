@@ -249,4 +249,7 @@
 - pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.26
 - pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.28
 - pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.35
+- pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.49
+- pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.50
+- pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.51
 - pkg:nuget/Elvia.Ifs.Extensions.Api.Client.DependencyInjection@1.0.8
