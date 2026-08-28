@@ -56,6 +56,17 @@
 - pkg:nuget/adv@3.3.9-alpha.0.20260826.25232.2490
 - pkg:nuget/adv@3.3.9-alpha.0.20260826.31026.2491
 - pkg:nuget/adv@3.3.9-alpha.0.20260826.55747.2503
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.113140.2561
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.123748.2562
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.130202.2563
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.184217.2566
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.185829.2567
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.24535.2540
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.30140.2541
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.32053.2543
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.34140.2545
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.35847.2547
+- pkg:nuget/adv@3.3.9-alpha.0.20260827.41915.2551
 - pkg:nuget/adv@3.3.9-alpha.0.2056
 - pkg:nuget/adv@3.3.9-alpha.0.2082
 - pkg:nuget/adv@3.3.9-alpha.0.2083
