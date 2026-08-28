@@ -1,3 +1,5 @@
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Hardware.Windows@10.5.1
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Hardware.Windows@10.7.0
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Hardware.Windows@3.0.4
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Hardware.Windows@4.0.1
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Hardware.Windows@4.0.2
