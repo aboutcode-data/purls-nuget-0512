@@ -24,6 +24,7 @@
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.1.0
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.1.0-alpha.151
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.1.0-alpha.157
+- pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.1004.0-alpha.254-vcst-5337-ga-event-search
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.2.0
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.2.0-alpha.158
 - pkg:nuget/VirtoCommerce.GoogleEcommerceAnalyticsModule.Core@4.2.0-alpha.159
