@@ -1,4 +1,6 @@
 - pkg:nuget/ClientCraft.uCRM@13.0.3
+- pkg:nuget/ClientCraft.uCRM@17.0.109
+- pkg:nuget/ClientCraft.uCRM@17.0.110
 - pkg:nuget/ClientCraft.uCRM@17.0.16
 - pkg:nuget/ClientCraft.uCRM@17.0.36
 - pkg:nuget/ClientCraft.uCRM@17.0.37
