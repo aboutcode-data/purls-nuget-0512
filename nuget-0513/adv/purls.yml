@@ -1,5 +1,11 @@
 - pkg:nuget/adv@0.0.0-alpha.0
 - pkg:nuget/adv@3.3.0
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.11941.2587
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.13842.2588
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.15711.2589
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.22111.2590
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.24122.2591
+- pkg:nuget/adv@3.3.11-alpha.0.20260828.25759.2592
 - pkg:nuget/adv@3.3.9-alpha.0.1000
 - pkg:nuget/adv@3.3.9-alpha.0.1003
 - pkg:nuget/adv@3.3.9-alpha.0.1012
