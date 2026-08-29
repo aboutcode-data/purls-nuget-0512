@@ -32,6 +32,7 @@
 - pkg:nuget/cloudscribe.Core.Models@1.2.4-rc20170526
 - pkg:nuget/cloudscribe.Core.Models@1.2.4-rc20170627
 - pkg:nuget/cloudscribe.Core.Models@1.2.5
+- pkg:nuget/cloudscribe.Core.Models@10.1.0
 - pkg:nuget/cloudscribe.Core.Models@2.0.0
 - pkg:nuget/cloudscribe.Core.Models@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.Core.Models@2.0.0-preview20170801
