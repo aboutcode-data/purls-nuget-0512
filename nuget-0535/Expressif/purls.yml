@@ -147,3 +147,14 @@
 - pkg:nuget/Expressif@1.9.6
 - pkg:nuget/Expressif@1.9.7
 - pkg:nuget/Expressif@1.9.9
+- pkg:nuget/Expressif@2.1.0
+- pkg:nuget/Expressif@2.1.2
+- pkg:nuget/Expressif@2.10.1
+- pkg:nuget/Expressif@2.10.2
+- pkg:nuget/Expressif@2.2.0
+- pkg:nuget/Expressif@2.3.0
+- pkg:nuget/Expressif@2.4.0
+- pkg:nuget/Expressif@2.5.0
+- pkg:nuget/Expressif@2.5.2
+- pkg:nuget/Expressif@2.6.0
+- pkg:nuget/Expressif@2.6.1
