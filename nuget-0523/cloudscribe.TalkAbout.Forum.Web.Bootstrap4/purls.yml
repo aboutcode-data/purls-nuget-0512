@@ -12,6 +12,7 @@
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@1.0.7
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@1.0.8
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@1.0.9
+- pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@10.1.0
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@3.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@3.0.1
 - pkg:nuget/cloudscribe.TalkAbout.Forum.Web.Bootstrap4@3.0.2
