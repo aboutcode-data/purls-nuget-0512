@@ -32,3 +32,4 @@
 - pkg:nuget/NPoco.SqlServer@6.0.0-preview6
 - pkg:nuget/NPoco.SqlServer@6.0.0-preview7
 - pkg:nuget/NPoco.SqlServer@6.1.0
+- pkg:nuget/NPoco.SqlServer@6.3.0
