@@ -2,3 +2,4 @@
 - pkg:nuget/Sharkable.AutoCrud.SqlSugar@0.0.20
 - pkg:nuget/Sharkable.AutoCrud.SqlSugar@0.0.22
 - pkg:nuget/Sharkable.AutoCrud.SqlSugar@0.0.23
+- pkg:nuget/Sharkable.AutoCrud.SqlSugar@0.5.3
