@@ -2,3 +2,4 @@
 - pkg:nuget/AngryMonkey.CDM.ExternalClient@7.0.3
 - pkg:nuget/AngryMonkey.CDM.ExternalClient@7.1.4
 - pkg:nuget/AngryMonkey.CDM.ExternalClient@7.1.6
+- pkg:nuget/AngryMonkey.CDM.ExternalClient@8.0.1
