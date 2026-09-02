@@ -27,3 +27,7 @@
 - pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.112-alpha
 - pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.113-alpha
 - pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.128-alpha
+- pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.141-alpha
+- pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.155-alpha
+- pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.156-alpha
+- pkg:nuget/Relatude.DB.Plugins.Sqlite@0.2.0.157-alpha
