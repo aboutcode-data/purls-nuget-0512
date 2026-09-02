@@ -24,6 +24,8 @@
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.57
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.59
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.6
+- pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.65
+- pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.66
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.7
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.8
 - pkg:nuget/OnBarcode.Ocr.Lang.Swedish@10.0.2.9
