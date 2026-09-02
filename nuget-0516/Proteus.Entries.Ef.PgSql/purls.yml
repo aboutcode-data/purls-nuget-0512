@@ -1,1 +1,2 @@
 - pkg:nuget/Proteus.Entries.Ef.PgSql@12.0.14
+- pkg:nuget/Proteus.Entries.Ef.PgSql@13.0.5
