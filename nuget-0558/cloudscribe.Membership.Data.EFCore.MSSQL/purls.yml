@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@1.0.0
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@1.0.1
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@1.0.2
+- pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@10.1.0
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@2.1.0
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@2.1.1
 - pkg:nuget/cloudscribe.Membership.Data.EFCore.MSSQL@2.1.10

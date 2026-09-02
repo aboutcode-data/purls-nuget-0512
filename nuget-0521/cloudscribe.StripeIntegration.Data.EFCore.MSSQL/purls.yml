@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@1.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@1.0.2
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@1.0.3
+- pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@10.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@3.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@3.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.EFCore.MSSQL@5.0.0
