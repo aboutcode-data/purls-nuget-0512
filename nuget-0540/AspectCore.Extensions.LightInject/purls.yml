@@ -5,3 +5,4 @@
 - pkg:nuget/AspectCore.Extensions.LightInject@2.2.0
 - pkg:nuget/AspectCore.Extensions.LightInject@2.3.0
 - pkg:nuget/AspectCore.Extensions.LightInject@2.4.0
+- pkg:nuget/AspectCore.Extensions.LightInject@2.6.3
