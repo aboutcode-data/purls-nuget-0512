@@ -14,3 +14,5 @@
 - pkg:nuget/Soenneker.SemanticKernel.Enums.KernelType@4.0.36
 - pkg:nuget/Soenneker.SemanticKernel.Enums.KernelType@4.0.37
 - pkg:nuget/Soenneker.SemanticKernel.Enums.KernelType@4.0.46
+- pkg:nuget/Soenneker.SemanticKernel.Enums.KernelType@4.0.51
+- pkg:nuget/Soenneker.SemanticKernel.Enums.KernelType@4.0.53
