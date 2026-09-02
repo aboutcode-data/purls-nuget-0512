@@ -19,3 +19,4 @@
 - pkg:nuget/tryAGI.Helicone@0.0.0-dev.6
 - pkg:nuget/tryAGI.Helicone@0.0.0-dev.7
 - pkg:nuget/tryAGI.Helicone@0.0.0-dev.8
+- pkg:nuget/tryAGI.Helicone@1.0.1-dev.15
