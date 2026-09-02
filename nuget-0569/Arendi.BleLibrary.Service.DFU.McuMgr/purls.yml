@@ -20,3 +20,4 @@
 - pkg:nuget/Arendi.BleLibrary.Service.DFU.McuMgr@18.2.0-rc1
 - pkg:nuget/Arendi.BleLibrary.Service.DFU.McuMgr@18.2.0-rc2
 - pkg:nuget/Arendi.BleLibrary.Service.DFU.McuMgr@18.2.1
+- pkg:nuget/Arendi.BleLibrary.Service.DFU.McuMgr@21.0.0
