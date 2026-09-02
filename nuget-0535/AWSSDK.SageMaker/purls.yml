@@ -1276,6 +1276,7 @@
 - pkg:nuget/AWSSDK.SageMaker@4.0.106
 - pkg:nuget/AWSSDK.SageMaker@4.0.108.1
 - pkg:nuget/AWSSDK.SageMaker@4.0.11
+- pkg:nuget/AWSSDK.SageMaker@4.0.113
 - pkg:nuget/AWSSDK.SageMaker@4.0.12
 - pkg:nuget/AWSSDK.SageMaker@4.0.12.1
 - pkg:nuget/AWSSDK.SageMaker@4.0.13
