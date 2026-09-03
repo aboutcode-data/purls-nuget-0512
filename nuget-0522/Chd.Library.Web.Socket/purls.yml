@@ -3,6 +3,7 @@
 - pkg:nuget/Chd.Library.Web.Socket@10.2.0
 - pkg:nuget/Chd.Library.Web.Socket@10.2.1
 - pkg:nuget/Chd.Library.Web.Socket@10.2.2-alpha
+- pkg:nuget/Chd.Library.Web.Socket@10.2.5
 - pkg:nuget/Chd.Library.Web.Socket@7.3.0
 - pkg:nuget/Chd.Library.Web.Socket@8.0.0
 - pkg:nuget/Chd.Library.Web.Socket@8.0.1
