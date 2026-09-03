@@ -266,3 +266,4 @@
 - pkg:nuget/Pdfium.Net.SDK@4.97.2704
 - pkg:nuget/Pdfium.Net.SDK@4.98.2704
 - pkg:nuget/Pdfium.Net.SDK@4.99.2704
+- pkg:nuget/Pdfium.Net.SDK@5.1.3
