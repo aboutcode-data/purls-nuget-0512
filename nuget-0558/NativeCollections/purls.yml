@@ -55,3 +55,7 @@
 - pkg:nuget/NativeCollections@1.5.4
 - pkg:nuget/NativeCollections@1.5.5
 - pkg:nuget/NativeCollections@1.5.9
+- pkg:nuget/NativeCollections@1.6.4
+- pkg:nuget/NativeCollections@1.6.5
+- pkg:nuget/NativeCollections@1.7.0
+- pkg:nuget/NativeCollections@1.7.1
