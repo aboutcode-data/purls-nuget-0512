@@ -84,3 +84,5 @@
 - pkg:nuget/Itmo.Dev.Platform.YandexCloud@2.2.275
 - pkg:nuget/Itmo.Dev.Platform.YandexCloud@2.2.288
 - pkg:nuget/Itmo.Dev.Platform.YandexCloud@2.2.308
+- pkg:nuget/Itmo.Dev.Platform.YandexCloud@2.2.466
+- pkg:nuget/Itmo.Dev.Platform.YandexCloud@2.2.468
