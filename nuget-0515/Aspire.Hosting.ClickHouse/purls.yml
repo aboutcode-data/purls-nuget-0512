@@ -1,1 +1,2 @@
 - pkg:nuget/Aspire.Hosting.ClickHouse@13.4.6
+- pkg:nuget/Aspire.Hosting.ClickHouse@13.5.3
