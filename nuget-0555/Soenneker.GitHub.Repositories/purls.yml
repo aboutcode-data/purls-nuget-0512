@@ -797,6 +797,9 @@
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.1229
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.1230
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.1236
+- pkg:nuget/Soenneker.GitHub.Repositories@4.0.1238
+- pkg:nuget/Soenneker.GitHub.Repositories@4.0.1240
+- pkg:nuget/Soenneker.GitHub.Repositories@4.0.1241
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.776
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.778
 - pkg:nuget/Soenneker.GitHub.Repositories@4.0.780
