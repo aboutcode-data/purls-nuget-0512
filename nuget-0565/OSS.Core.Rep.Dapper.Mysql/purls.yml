@@ -19,3 +19,4 @@
 - pkg:nuget/OSS.Core.Rep.Dapper.Mysql@2.5.6
 - pkg:nuget/OSS.Core.Rep.Dapper.Mysql@2.6.0
 - pkg:nuget/OSS.Core.Rep.Dapper.Mysql@2.7.0
+- pkg:nuget/OSS.Core.Rep.Dapper.Mysql@2.7.3
