@@ -1,6 +1,7 @@
 - pkg:nuget/eDocument.Core.Web.Token@10.112.30
 - pkg:nuget/eDocument.Core.Web.Token@10.202.0-beta.2-3-g5d55e0cba
 - pkg:nuget/eDocument.Core.Web.Token@10.202.0-beta.2-4-g324a6a392
+- pkg:nuget/eDocument.Core.Web.Token@10.212.0-beta.5
 - pkg:nuget/eDocument.Core.Web.Token@7.1.76
 - pkg:nuget/eDocument.Core.Web.Token@7.1.77
 - pkg:nuget/eDocument.Core.Web.Token@7.10.48
