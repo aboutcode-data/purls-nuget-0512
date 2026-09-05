@@ -1,5 +1,6 @@
 - pkg:nuget/Aardvark.PixImage.FreeImage@5.3.0
 - pkg:nuget/Aardvark.PixImage.FreeImage@5.3.1
+- pkg:nuget/Aardvark.PixImage.FreeImage@5.3.10
 - pkg:nuget/Aardvark.PixImage.FreeImage@5.3.2
 - pkg:nuget/Aardvark.PixImage.FreeImage@5.3.3
 - pkg:nuget/Aardvark.PixImage.FreeImage@5.3.4
