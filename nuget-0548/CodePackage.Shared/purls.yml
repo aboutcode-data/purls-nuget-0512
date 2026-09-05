@@ -59,6 +59,7 @@
 - pkg:nuget/CodePackage.Shared@17.4.4
 - pkg:nuget/CodePackage.Shared@18.0.12
 - pkg:nuget/CodePackage.Shared@18.0.13
+- pkg:nuget/CodePackage.Shared@18.0.16
 - pkg:nuget/CodePackage.Shared@18.0.5
 - pkg:nuget/CodePackage.Shared@2.0.0
 - pkg:nuget/CodePackage.Shared@2.0.1
