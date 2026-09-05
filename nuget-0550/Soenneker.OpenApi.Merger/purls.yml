@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.10
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.11
+- pkg:nuget/Soenneker.OpenApi.Merger@4.0.113
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.12
+- pkg:nuget/Soenneker.OpenApi.Merger@4.0.120
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.32
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.35
 - pkg:nuget/Soenneker.OpenApi.Merger@4.0.38
