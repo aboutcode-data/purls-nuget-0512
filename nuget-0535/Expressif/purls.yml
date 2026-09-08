@@ -160,5 +160,7 @@
 - pkg:nuget/Expressif@2.5.0
 - pkg:nuget/Expressif@2.5.2
 - pkg:nuget/Expressif@2.52.0
+- pkg:nuget/Expressif@2.56.0
+- pkg:nuget/Expressif@2.58.0
 - pkg:nuget/Expressif@2.6.0
 - pkg:nuget/Expressif@2.6.1
