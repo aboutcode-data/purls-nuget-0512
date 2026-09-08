@@ -46,3 +46,4 @@
 - pkg:nuget/AdoNet.Async.Serialization.NewtonsoftJson@1.3.4-alpha.63
 - pkg:nuget/AdoNet.Async.Serialization.NewtonsoftJson@1.3.4-alpha.71
 - pkg:nuget/AdoNet.Async.Serialization.NewtonsoftJson@1.3.4-alpha.78
+- pkg:nuget/AdoNet.Async.Serialization.NewtonsoftJson@1.3.4-alpha.95
