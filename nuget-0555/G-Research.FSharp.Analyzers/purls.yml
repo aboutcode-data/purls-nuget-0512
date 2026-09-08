@@ -16,6 +16,7 @@
 - pkg:nuget/G-Research.FSharp.Analyzers@0.17.0
 - pkg:nuget/G-Research.FSharp.Analyzers@0.18.0
 - pkg:nuget/G-Research.FSharp.Analyzers@0.2.0
+- pkg:nuget/G-Research.FSharp.Analyzers@0.24.0
 - pkg:nuget/G-Research.FSharp.Analyzers@0.3.0
 - pkg:nuget/G-Research.FSharp.Analyzers@0.3.1
 - pkg:nuget/G-Research.FSharp.Analyzers@0.4.0
