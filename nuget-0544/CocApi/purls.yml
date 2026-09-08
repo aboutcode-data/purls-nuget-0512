@@ -91,3 +91,4 @@
 - pkg:nuget/CocApi@2.12.0
 - pkg:nuget/CocApi@2.4.0
 - pkg:nuget/CocApi@2.5.0
+- pkg:nuget/CocApi@3.0.0
