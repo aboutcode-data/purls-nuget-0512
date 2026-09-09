@@ -25,5 +25,6 @@
 - pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.10-preview
 - pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.22-preview
 - pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.24-preview
+- pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.27-preview
 - pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.3-preview
 - pkg:nuget/Sanet.MakaMek.Services.Avalonia.Browser@0.63.5-preview
