@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.OrmLite.SqlServer.Converters@10.0.0
+- pkg:nuget/ServiceStack.OrmLite.SqlServer.Converters@10.2.0
 - pkg:nuget/ServiceStack.OrmLite.SqlServer.Converters@4.0.44
 - pkg:nuget/ServiceStack.OrmLite.SqlServer.Converters@4.0.46
 - pkg:nuget/ServiceStack.OrmLite.SqlServer.Converters@4.0.48
