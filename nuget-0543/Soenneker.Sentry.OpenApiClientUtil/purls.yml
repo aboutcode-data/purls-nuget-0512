@@ -13,6 +13,7 @@
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.159
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.162
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.172
+- pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.177
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.19
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.24
 - pkg:nuget/Soenneker.Sentry.OpenApiClientUtil@4.0.29
