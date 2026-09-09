@@ -9,6 +9,7 @@
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.0.0-rc.1
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.0.0-rc.2
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.1.0
+- pkg:nuget/AInq.Background.Scheduler.Abstraction@5.10.6
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.2.0
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.2.1
 - pkg:nuget/AInq.Background.Scheduler.Abstraction@5.2.2
