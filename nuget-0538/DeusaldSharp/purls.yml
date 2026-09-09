@@ -1,5 +1,6 @@
 - pkg:nuget/DeusaldSharp@10.2.0
 - pkg:nuget/DeusaldSharp@10.4.0
+- pkg:nuget/DeusaldSharp@10.8.0
 - pkg:nuget/DeusaldSharp@5.0.1
 - pkg:nuget/DeusaldSharp@5.0.2
 - pkg:nuget/DeusaldSharp@5.0.3
