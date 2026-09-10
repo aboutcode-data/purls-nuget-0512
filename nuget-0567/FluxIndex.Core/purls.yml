@@ -12,5 +12,6 @@
 - pkg:nuget/FluxIndex.Core@0.29.2
 - pkg:nuget/FluxIndex.Core@0.30.0
 - pkg:nuget/FluxIndex.Core@0.34.0
+- pkg:nuget/FluxIndex.Core@0.35.0
 - pkg:nuget/FluxIndex.Core@0.5.8
 - pkg:nuget/FluxIndex.Core@0.8.0
