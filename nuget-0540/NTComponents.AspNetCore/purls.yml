@@ -23,4 +23,5 @@
 - pkg:nuget/NTComponents.AspNetCore@2.0.0-preview.56
 - pkg:nuget/NTComponents.AspNetCore@2.0.0-preview.58
 - pkg:nuget/NTComponents.AspNetCore@2.0.0-preview.6
+- pkg:nuget/NTComponents.AspNetCore@2.0.0-preview.65
 - pkg:nuget/NTComponents.AspNetCore@2.0.0-preview.7
