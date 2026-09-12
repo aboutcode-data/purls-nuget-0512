@@ -2338,6 +2338,7 @@
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-renovatepypi.40.7a8d0a83
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-wkfixrustoverridetargetservername.42.b7362a5a
 - pkg:nuget/ArmoniK.Api.Core@3.29.3-wktestrustreplyconstant.35.07d4810a
+- pkg:nuget/ArmoniK.Api.Core@3.29.4-renovatemajorwebnpm.1.9cfd8679
 - pkg:nuget/ArmoniK.Api.Core@3.3.0
 - pkg:nuget/ArmoniK.Api.Core@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Core@3.3.0-32168g32114de.68.32114de
