@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@13.5.1-beta.751
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@9.1.1-beta.173
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@9.1.1-beta.175
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.RavenDB@9.1.1-beta.176
