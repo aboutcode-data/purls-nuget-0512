@@ -1,5 +1,6 @@
 - pkg:nuget/MockQueryable.FakeItEasy@1.1.0
 - pkg:nuget/MockQueryable.FakeItEasy@10.0.1
+- pkg:nuget/MockQueryable.FakeItEasy@10.0.12
 - pkg:nuget/MockQueryable.FakeItEasy@3.0.0
 - pkg:nuget/MockQueryable.FakeItEasy@3.0.1
 - pkg:nuget/MockQueryable.FakeItEasy@3.0.2
