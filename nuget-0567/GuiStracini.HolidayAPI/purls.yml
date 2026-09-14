@@ -205,3 +205,5 @@
 - pkg:nuget/GuiStracini.HolidayAPI@3.3.942
 - pkg:nuget/GuiStracini.HolidayAPI@3.3.98
 - pkg:nuget/GuiStracini.HolidayAPI@3.3.986
+- pkg:nuget/GuiStracini.HolidayAPI@3.4.16
+- pkg:nuget/GuiStracini.HolidayAPI@3.4.21
