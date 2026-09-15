@@ -43,5 +43,6 @@
 - pkg:nuget/CenturyLocalization@0.0.85
 - pkg:nuget/CenturyLocalization@0.0.9
 - pkg:nuget/CenturyLocalization@0.0.93
+- pkg:nuget/CenturyLocalization@0.1.14
 - pkg:nuget/CenturyLocalization@0.1.2
 - pkg:nuget/CenturyLocalization@0.1.7
