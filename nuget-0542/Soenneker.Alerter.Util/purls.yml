@@ -290,6 +290,7 @@
 - pkg:nuget/Soenneker.Alerter.Util@3.0.99
 - pkg:nuget/Soenneker.Alerter.Util@4.0.1018
 - pkg:nuget/Soenneker.Alerter.Util@4.0.1020
+- pkg:nuget/Soenneker.Alerter.Util@4.0.1023
 - pkg:nuget/Soenneker.Alerter.Util@4.0.367
 - pkg:nuget/Soenneker.Alerter.Util@4.0.391
 - pkg:nuget/Soenneker.Alerter.Util@4.0.403
