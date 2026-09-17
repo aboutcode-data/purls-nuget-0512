@@ -89,3 +89,4 @@
 - pkg:nuget/aweXpect@2.8.0
 - pkg:nuget/aweXpect@2.9.0
 - pkg:nuget/aweXpect@2.9.1
+- pkg:nuget/aweXpect@3.0.0-pre.4
