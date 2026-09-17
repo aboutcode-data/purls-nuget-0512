@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.161
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.17
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.173
+- pkg:nuget/Soenneker.HubSpot.Client@4.0.175
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.26
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.28
 - pkg:nuget/Soenneker.HubSpot.Client@4.0.32
