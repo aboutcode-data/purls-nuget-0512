@@ -3,3 +3,4 @@
 - pkg:nuget/Alvecta.Foundation.Domain.ValueObjects@1.0.3
 - pkg:nuget/Alvecta.Foundation.Domain.ValueObjects@2.4.31
 - pkg:nuget/Alvecta.Foundation.Domain.ValueObjects@5.0.49
+- pkg:nuget/Alvecta.Foundation.Domain.ValueObjects@5.0.50
