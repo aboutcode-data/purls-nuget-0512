@@ -89,6 +89,7 @@
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.373
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.398
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.405
+- pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.421
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.79
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.86
 - pkg:nuget/Soenneker.TrustedForm.Blazor@4.0.88
