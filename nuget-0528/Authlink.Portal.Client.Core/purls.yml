@@ -2,5 +2,7 @@
 - pkg:nuget/Authlink.Portal.Client.Core@2.2.3
 - pkg:nuget/Authlink.Portal.Client.Core@2.23.0
 - pkg:nuget/Authlink.Portal.Client.Core@2.30.0
+- pkg:nuget/Authlink.Portal.Client.Core@2.33.0
+- pkg:nuget/Authlink.Portal.Client.Core@2.34.0
 - pkg:nuget/Authlink.Portal.Client.Core@2.5.0
 - pkg:nuget/Authlink.Portal.Client.Core@2.7.0
