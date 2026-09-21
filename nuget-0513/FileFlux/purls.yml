@@ -16,6 +16,7 @@
 - pkg:nuget/FileFlux@0.20.1
 - pkg:nuget/FileFlux@0.22.12
 - pkg:nuget/FileFlux@0.22.9
+- pkg:nuget/FileFlux@0.23.18
 - pkg:nuget/FileFlux@0.3.18
 - pkg:nuget/FileFlux@0.3.2
 - pkg:nuget/FileFlux@0.4.0
