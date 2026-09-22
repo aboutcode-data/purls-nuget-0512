@@ -1,3 +1,8 @@
+- pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.100
+- pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.103
+- pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.112
+- pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.113
+- pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.123
 - pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.2
 - pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.22
 - pkg:nuget/Soenneker.OpenRouter.HttpClients@4.0.23
