@@ -17,6 +17,8 @@
 - pkg:nuget/Hex1b.McpServer@0.167.0-alpha.1534.1.2783ae7
 - pkg:nuget/Hex1b.McpServer@0.169.1
 - pkg:nuget/Hex1b.McpServer@0.170.0-alpha.1620.1.85e091a
+- pkg:nuget/Hex1b.McpServer@0.171.0
+- pkg:nuget/Hex1b.McpServer@0.172.0-alpha.1652.1.6a01c54
 - pkg:nuget/Hex1b.McpServer@0.66.0
 - pkg:nuget/Hex1b.McpServer@0.76.0
 - pkg:nuget/Hex1b.McpServer@0.87.0

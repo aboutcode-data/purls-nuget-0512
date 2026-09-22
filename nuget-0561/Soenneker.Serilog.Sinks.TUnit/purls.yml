@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.111
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.112
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.18
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.26
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.29
@@ -7,5 +9,12 @@
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.52
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.60
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.62
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.69
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.71
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.73
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.79
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.8
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.81
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.84
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.9
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.93
