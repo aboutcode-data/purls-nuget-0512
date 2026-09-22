@@ -2,3 +2,5 @@
 - pkg:nuget/EncySoftware.CAMAPI.EventHandler.tlb@1.1.1-rc
 - pkg:nuget/EncySoftware.CAMAPI.EventHandler.tlb@1.2.0
 - pkg:nuget/EncySoftware.CAMAPI.EventHandler.tlb@2.0.0
+- pkg:nuget/EncySoftware.CAMAPI.EventHandler.tlb@3.0.0%2Bb2339476e3a88fef1a20946ee0c0db9a3c03d500
+- pkg:nuget/EncySoftware.CAMAPI.EventHandler.tlb@3.0.1-rc%2B8034d30b889df8431621046e346fb88de488d0fc
