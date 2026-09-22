@@ -19,6 +19,11 @@
 - pkg:nuget/Authagonal.Backup@0.15.2
 - pkg:nuget/Authagonal.Backup@0.16.3
 - pkg:nuget/Authagonal.Backup@0.22.0
+- pkg:nuget/Authagonal.Backup@0.25.3
+- pkg:nuget/Authagonal.Backup@0.25.7
+- pkg:nuget/Authagonal.Backup@0.27.1
+- pkg:nuget/Authagonal.Backup@0.28.0
+- pkg:nuget/Authagonal.Backup@0.29.0
 - pkg:nuget/Authagonal.Backup@0.3.10
 - pkg:nuget/Authagonal.Backup@0.3.12
 - pkg:nuget/Authagonal.Backup@0.3.18
