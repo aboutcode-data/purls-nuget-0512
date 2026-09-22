@@ -38,6 +38,8 @@
 - pkg:nuget/CodeBoss@0.1.7
 - pkg:nuget/CodeBoss@0.1.8
 - pkg:nuget/CodeBoss@0.1.9
+- pkg:nuget/CodeBoss@10.0.38
+- pkg:nuget/CodeBoss@10.0.39
 - pkg:nuget/CodeBoss@8.0.10
 - pkg:nuget/CodeBoss@8.0.11
 - pkg:nuget/CodeBoss@8.0.12
