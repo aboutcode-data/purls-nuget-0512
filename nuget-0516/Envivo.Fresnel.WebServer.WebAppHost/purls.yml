@@ -3,3 +3,4 @@
 - pkg:nuget/Envivo.Fresnel.WebServer.WebAppHost@0.97.0-preview
 - pkg:nuget/Envivo.Fresnel.WebServer.WebAppHost@0.98.0-preview
 - pkg:nuget/Envivo.Fresnel.WebServer.WebAppHost@0.99.9-preview
+- pkg:nuget/Envivo.Fresnel.WebServer.WebAppHost@1.1.0
