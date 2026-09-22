@@ -40,3 +40,4 @@
 - pkg:nuget/MinimalApis.LiquidViews@2.7.0
 - pkg:nuget/MinimalApis.LiquidViews@2.8.0
 - pkg:nuget/MinimalApis.LiquidViews@2.9.0
+- pkg:nuget/MinimalApis.LiquidViews@3.0.0-beta.6
