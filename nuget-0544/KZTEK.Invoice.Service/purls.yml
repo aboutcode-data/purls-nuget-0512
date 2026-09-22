@@ -1,1 +1,5 @@
 - pkg:nuget/KZTEK.Invoice.Service@2.1.5
+- pkg:nuget/KZTEK.Invoice.Service@2.2.2
+- pkg:nuget/KZTEK.Invoice.Service@2.2.3
+- pkg:nuget/KZTEK.Invoice.Service@2.3.1
+- pkg:nuget/KZTEK.Invoice.Service@2.3.2
