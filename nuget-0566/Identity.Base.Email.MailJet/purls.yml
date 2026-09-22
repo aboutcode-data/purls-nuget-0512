@@ -1,2 +1,4 @@
 - pkg:nuget/Identity.Base.Email.MailJet@0.6.1
 - pkg:nuget/Identity.Base.Email.MailJet@0.8.8
+- pkg:nuget/Identity.Base.Email.MailJet@0.9.3
+- pkg:nuget/Identity.Base.Email.MailJet@0.9.5
