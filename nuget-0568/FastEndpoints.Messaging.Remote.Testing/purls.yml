@@ -434,6 +434,7 @@
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.3.0-beta.1
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.3.0-beta.5
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.3.0-beta.8
+- pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.4.0-beta.10
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.4.0-beta.5
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.4.0-beta.7
 - pkg:nuget/FastEndpoints.Messaging.Remote.Testing@8.4.0-beta.8
