@@ -111,6 +111,7 @@
 - pkg:nuget/HEBI.C@2.24.2-dev260710190
 - pkg:nuget/HEBI.C@2.25.0
 - pkg:nuget/HEBI.C@2.25.0-dev260820195
+- pkg:nuget/HEBI.C@2.27.0-dev260924203
 - pkg:nuget/HEBI.C@2.3.0
 - pkg:nuget/HEBI.C@2.3.0-dev220112
 - pkg:nuget/HEBI.C@2.3.0-dev220226
