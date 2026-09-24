@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.125
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.126
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.128
+- pkg:nuget/Soenneker.Plex.HttpClients@4.0.130
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.23
 - pkg:nuget/Soenneker.Plex.HttpClients@4.0.3
