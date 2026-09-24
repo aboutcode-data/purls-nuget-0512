@@ -20,3 +20,4 @@
 - pkg:nuget/HL7.Cql.Abstractions@2.1.0-alpha.18
 - pkg:nuget/HL7.Cql.Abstractions@2.1.0-beta.1
 - pkg:nuget/HL7.Cql.Abstractions@2.1.0-rc.1
+- pkg:nuget/HL7.Cql.Abstractions@2.15.0
