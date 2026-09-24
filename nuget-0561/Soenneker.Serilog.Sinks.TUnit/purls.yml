@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.111
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.112
+- pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.114
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.18
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.26
 - pkg:nuget/Soenneker.Serilog.Sinks.TUnit@4.0.29
