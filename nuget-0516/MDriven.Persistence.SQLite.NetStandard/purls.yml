@@ -29,3 +29,5 @@
 - pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17513
 - pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17524
 - pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17525
+- pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17534
+- pkg:nuget/MDriven.Persistence.SQLite.NetStandard@7.2.0.17536
