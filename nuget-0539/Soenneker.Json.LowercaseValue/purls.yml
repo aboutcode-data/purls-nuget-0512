@@ -718,3 +718,5 @@
 - pkg:nuget/Soenneker.Json.LowercaseValue@4.0.819
 - pkg:nuget/Soenneker.Json.LowercaseValue@4.0.820
 - pkg:nuget/Soenneker.Json.LowercaseValue@4.0.842
+- pkg:nuget/Soenneker.Json.LowercaseValue@4.0.858
+- pkg:nuget/Soenneker.Json.LowercaseValue@4.0.859
