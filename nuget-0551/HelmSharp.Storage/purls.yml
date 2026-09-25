@@ -1,0 +1,2 @@
+- pkg:nuget/HelmSharp.Storage@1.0.1
+- pkg:nuget/HelmSharp.Storage@1.2.0

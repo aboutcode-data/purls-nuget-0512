@@ -1,0 +1,2 @@
+- pkg:nuget/HelmSharp.Kube@1.0.1
+- pkg:nuget/HelmSharp.Kube@1.2.0
