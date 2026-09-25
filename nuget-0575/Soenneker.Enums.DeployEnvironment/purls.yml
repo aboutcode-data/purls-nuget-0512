@@ -264,3 +264,4 @@
 - pkg:nuget/Soenneker.Enums.DeployEnvironment@4.0.222
 - pkg:nuget/Soenneker.Enums.DeployEnvironment@4.0.229
 - pkg:nuget/Soenneker.Enums.DeployEnvironment@4.0.238
+- pkg:nuget/Soenneker.Enums.DeployEnvironment@4.0.243
