@@ -694,3 +694,5 @@
 - pkg:nuget/Soenneker.Utils.Environment@4.0.723
 - pkg:nuget/Soenneker.Utils.Environment@4.0.732
 - pkg:nuget/Soenneker.Utils.Environment@4.0.753
+- pkg:nuget/Soenneker.Utils.Environment@4.0.755
+- pkg:nuget/Soenneker.Utils.Environment@4.0.757
