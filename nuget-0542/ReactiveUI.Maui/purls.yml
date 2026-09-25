@@ -55,3 +55,4 @@
 - pkg:nuget/ReactiveUI.Maui@23.2.1
 - pkg:nuget/ReactiveUI.Maui@24.0.0-beta.1
 - pkg:nuget/ReactiveUI.Maui@24.2.0
+- pkg:nuget/ReactiveUI.Maui@24.3.0
