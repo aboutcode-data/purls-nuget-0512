@@ -6,3 +6,5 @@
 - pkg:nuget/XiHan.Framework.DevTools@2.3.2-preview
 - pkg:nuget/XiHan.Framework.DevTools@2.3.5
 - pkg:nuget/XiHan.Framework.DevTools@3.10.0
+- pkg:nuget/XiHan.Framework.DevTools@3.11.1
+- pkg:nuget/XiHan.Framework.DevTools@4.0.0
