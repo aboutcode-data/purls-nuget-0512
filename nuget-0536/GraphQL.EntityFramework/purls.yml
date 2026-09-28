@@ -203,6 +203,7 @@
 - pkg:nuget/GraphQL.EntityFramework@34.2.1
 - pkg:nuget/GraphQL.EntityFramework@34.2.2
 - pkg:nuget/GraphQL.EntityFramework@34.2.3
+- pkg:nuget/GraphQL.EntityFramework@35.3.3
 - pkg:nuget/GraphQL.EntityFramework@4.0.0
 - pkg:nuget/GraphQL.EntityFramework@4.0.1
 - pkg:nuget/GraphQL.EntityFramework@4.1.0
