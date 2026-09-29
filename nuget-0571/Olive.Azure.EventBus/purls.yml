@@ -8,4 +8,5 @@
 - pkg:nuget/Olive.Azure.EventBus@1.0.7
 - pkg:nuget/Olive.Azure.EventBus@1.0.8
 - pkg:nuget/Olive.Azure.EventBus@1.0.9
+- pkg:nuget/Olive.Azure.EventBus@10.2.1
 - pkg:nuget/Olive.Azure.EventBus@8.0.0
