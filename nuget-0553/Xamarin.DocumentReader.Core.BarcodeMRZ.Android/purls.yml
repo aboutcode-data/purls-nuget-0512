@@ -101,3 +101,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZ.Android@9.8.3310-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZ.Android@9.9.3432-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZ.Android@9.9.3477-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZ.Android@9.9.3506-rc
