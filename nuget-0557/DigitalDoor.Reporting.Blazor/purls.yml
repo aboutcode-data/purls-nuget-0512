@@ -36,3 +36,4 @@
 - pkg:nuget/DigitalDoor.Reporting.Blazor@1.16.59
 - pkg:nuget/DigitalDoor.Reporting.Blazor@1.16.60
 - pkg:nuget/DigitalDoor.Reporting.Blazor@1.16.61
+- pkg:nuget/DigitalDoor.Reporting.Blazor@1.18.0
