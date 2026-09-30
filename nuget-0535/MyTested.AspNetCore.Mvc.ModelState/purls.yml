@@ -1,5 +1,6 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@1.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.ModelState@3.0.0
