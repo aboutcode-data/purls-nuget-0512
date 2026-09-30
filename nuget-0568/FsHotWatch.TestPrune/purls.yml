@@ -11,6 +11,7 @@
 - pkg:nuget/FsHotWatch.TestPrune@0.13.0-alpha.45
 - pkg:nuget/FsHotWatch.TestPrune@0.13.0-alpha.49
 - pkg:nuget/FsHotWatch.TestPrune@0.13.0-alpha.50
+- pkg:nuget/FsHotWatch.TestPrune@0.13.0-alpha.61
 - pkg:nuget/FsHotWatch.TestPrune@0.2.0-alpha.1
 - pkg:nuget/FsHotWatch.TestPrune@0.7.0-alpha.16
 - pkg:nuget/FsHotWatch.TestPrune@0.7.0-alpha.17
