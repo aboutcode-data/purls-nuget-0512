@@ -1,3 +1,4 @@
 - pkg:nuget/ktsu.UndoRedo@2.0.0
 - pkg:nuget/ktsu.UndoRedo@2.0.2
 - pkg:nuget/ktsu.UndoRedo@2.0.9
+- pkg:nuget/ktsu.UndoRedo@3.0.1
