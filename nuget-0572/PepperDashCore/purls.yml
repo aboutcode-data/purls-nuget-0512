@@ -472,6 +472,7 @@
 - pkg:nuget/PepperDashCore@2.42.3
 - pkg:nuget/PepperDashCore@2.42.3-hotfix-ssh-stopprog-timing.1
 - pkg:nuget/PepperDashCore@2.42.3-hotfix-ssh-stopprog-timing.2
+- pkg:nuget/PepperDashCore@2.43.0-feat-mc-client-allowlist.3
 - pkg:nuget/PepperDashCore@2.5.0
 - pkg:nuget/PepperDashCore@2.5.0-DGE-1000.1
 - pkg:nuget/PepperDashCore@2.5.0-logging-improvements.1
