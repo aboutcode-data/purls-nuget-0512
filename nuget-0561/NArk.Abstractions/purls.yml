@@ -23,5 +23,6 @@
 - pkg:nuget/NArk.Abstractions@1.0.355-beta
 - pkg:nuget/NArk.Abstractions@1.0.367-beta
 - pkg:nuget/NArk.Abstractions@1.0.369-beta
+- pkg:nuget/NArk.Abstractions@1.0.387-beta
 - pkg:nuget/NArk.Abstractions@1.0.6-beta
 - pkg:nuget/NArk.Abstractions@1.0.8-beta
