@@ -4,3 +4,6 @@
 - pkg:nuget/MultiMap@1.0.5
 - pkg:nuget/MultiMap@1.0.6
 - pkg:nuget/MultiMap@1.0.8
+- pkg:nuget/MultiMap@2.0.1
+- pkg:nuget/MultiMap@2.1.0
+- pkg:nuget/MultiMap@3.0.0
