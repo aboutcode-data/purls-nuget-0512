@@ -1,3 +1,5 @@
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.10.0
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.13.0
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.3.0
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.3.1
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.4.0
@@ -8,3 +10,10 @@
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.5.0-feature-improvements.1
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.5.0-feature-improvements.2
 - pkg:nuget/CretNet.Platform.Blazor.Server@0.5.0-feature-improvements.3
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.7.0
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0-feature-blazor-ui.18
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0-feature-blazor-ui.19
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0-feature-blazor-ui.23
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0-feature-blazor-ui.24
+- pkg:nuget/CretNet.Platform.Blazor.Server@0.9.0-feature-blazor-ui.29
