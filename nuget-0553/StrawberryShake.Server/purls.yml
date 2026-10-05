@@ -822,4 +822,5 @@
 - pkg:nuget/StrawberryShake.Server@16.7.0-p.1
 - pkg:nuget/StrawberryShake.Server@16.7.0-p.12
 - pkg:nuget/StrawberryShake.Server@16.7.0-p.14
+- pkg:nuget/StrawberryShake.Server@16.7.0-p.18
 - pkg:nuget/StrawberryShake.Server@16.7.0-p.8
