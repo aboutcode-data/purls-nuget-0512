@@ -1,5 +1,6 @@
 - pkg:nuget/Toolshed.AzureStorage@1.0.0
 - pkg:nuget/Toolshed.AzureStorage@1.2.0
+- pkg:nuget/Toolshed.AzureStorage@10.1.41
 - pkg:nuget/Toolshed.AzureStorage@6.0.0
 - pkg:nuget/Toolshed.AzureStorage@6.1.1
 - pkg:nuget/Toolshed.AzureStorage@6.2.0
