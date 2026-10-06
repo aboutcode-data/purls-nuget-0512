@@ -1,1 +1,2 @@
 - pkg:nuget/NetWasm.Wit.Bindings.Tool@0.4.1
+- pkg:nuget/NetWasm.Wit.Bindings.Tool@0.6.0-preview.1
