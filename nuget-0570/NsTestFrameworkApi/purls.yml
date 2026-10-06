@@ -38,3 +38,4 @@
 - pkg:nuget/NsTestFrameworkApi@1.23.309.1
 - pkg:nuget/NsTestFrameworkApi@1.23.309.2
 - pkg:nuget/NsTestFrameworkApi@1.24.628.2
+- pkg:nuget/NsTestFrameworkApi@1.26.1006.1
