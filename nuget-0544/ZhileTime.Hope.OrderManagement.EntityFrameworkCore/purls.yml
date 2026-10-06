@@ -104,3 +104,4 @@
 - pkg:nuget/ZhileTime.Hope.OrderManagement.EntityFrameworkCore@6.2.0
 - pkg:nuget/ZhileTime.Hope.OrderManagement.EntityFrameworkCore@6.2.1
 - pkg:nuget/ZhileTime.Hope.OrderManagement.EntityFrameworkCore@7.0.0
+- pkg:nuget/ZhileTime.Hope.OrderManagement.EntityFrameworkCore@8.1.0
