@@ -420,5 +420,6 @@
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1147-beta
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1149-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1165-rc
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1168
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.986-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@9.8.1038-rc
