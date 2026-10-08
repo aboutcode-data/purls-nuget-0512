@@ -48,6 +48,7 @@
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2025.9.9.2899
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2025.9.9.2907
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2025.9.9.2909
+- pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2026.10.7.11052
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2026.4.17.6685
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2026.6.25.7896
 - pkg:nuget/Krosoft.Extensions.WebApi.HealthChecks@2026.8.27.9683
