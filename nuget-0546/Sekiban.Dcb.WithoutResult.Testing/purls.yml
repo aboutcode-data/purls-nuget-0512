@@ -1,4 +1,5 @@
 - pkg:nuget/Sekiban.Dcb.WithoutResult.Testing@10.12.0
+- pkg:nuget/Sekiban.Dcb.WithoutResult.Testing@10.23.0
 - pkg:nuget/Sekiban.Dcb.WithoutResult.Testing@10.4.0
 - pkg:nuget/Sekiban.Dcb.WithoutResult.Testing@10.8.0
 - pkg:nuget/Sekiban.Dcb.WithoutResult.Testing@10.8.1
