@@ -1,3 +1,9 @@
 - pkg:nuget/WebFlux@0.1.7
 - pkg:nuget/WebFlux@0.1.8
+- pkg:nuget/WebFlux@0.10.0
+- pkg:nuget/WebFlux@0.17.0
+- pkg:nuget/WebFlux@0.19.1
+- pkg:nuget/WebFlux@0.19.6
+- pkg:nuget/WebFlux@0.21.1
+- pkg:nuget/WebFlux@0.22.4
 - pkg:nuget/WebFlux@0.6.0
