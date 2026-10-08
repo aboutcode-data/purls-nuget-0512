@@ -6,3 +6,5 @@
 - pkg:nuget/TychoDB.JsonSerializer.NewtonsoftJson@3.2.2
 - pkg:nuget/TychoDB.JsonSerializer.NewtonsoftJson@4.1.1
 - pkg:nuget/TychoDB.JsonSerializer.NewtonsoftJson@5.0.2
+- pkg:nuget/TychoDB.JsonSerializer.NewtonsoftJson@5.1.3
+- pkg:nuget/TychoDB.JsonSerializer.NewtonsoftJson@5.3.0
