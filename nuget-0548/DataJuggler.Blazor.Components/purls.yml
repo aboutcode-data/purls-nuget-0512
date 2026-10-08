@@ -53,6 +53,7 @@
 - pkg:nuget/DataJuggler.Blazor.Components@10.0.33
 - pkg:nuget/DataJuggler.Blazor.Components@10.0.54
 - pkg:nuget/DataJuggler.Blazor.Components@10.2.0
+- pkg:nuget/DataJuggler.Blazor.Components@10.3.5
 - pkg:nuget/DataJuggler.Blazor.Components@2.0.0
 - pkg:nuget/DataJuggler.Blazor.Components@5.0.0
 - pkg:nuget/DataJuggler.Blazor.Components@6.0.0
