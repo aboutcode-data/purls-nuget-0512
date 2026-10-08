@@ -1,0 +1,5 @@
+- pkg:nuget/QueryFarm.VgiRpc.Client.Http@0.10.1
+- pkg:nuget/QueryFarm.VgiRpc.Client.Http@0.12.0
+- pkg:nuget/QueryFarm.VgiRpc.Client.Http@0.14.0
+- pkg:nuget/QueryFarm.VgiRpc.Client.Http@0.15.1
+- pkg:nuget/QueryFarm.VgiRpc.Client.Http@0.8.0
