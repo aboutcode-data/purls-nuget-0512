@@ -69,6 +69,7 @@
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@15.0.6
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@15.0.7
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@17.0.1
+- pkg:nuget/Firebend.AutoCrud.EntityFramework@18.0.1
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@2.0.0
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@2.1.0
 - pkg:nuget/Firebend.AutoCrud.EntityFramework@2.2.0
