@@ -115,3 +115,4 @@
 - pkg:nuget/LiquidTechnologies.DataMapper.Runtime@21.1.2
 - pkg:nuget/LiquidTechnologies.DataMapper.Runtime@21.2.0
 - pkg:nuget/LiquidTechnologies.DataMapper.Runtime@21.3.0
+- pkg:nuget/LiquidTechnologies.DataMapper.Runtime@21.4.2
