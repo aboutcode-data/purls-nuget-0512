@@ -8,6 +8,7 @@
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@10.105.0
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@10.105.8
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@10.105.9
+- pkg:nuget/Z.EntityFramework.Extensions.EFCore@11.0.0-rc.1.26425.128
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@2.0.0
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@2.0.1
 - pkg:nuget/Z.EntityFramework.Extensions.EFCore@2.0.10
