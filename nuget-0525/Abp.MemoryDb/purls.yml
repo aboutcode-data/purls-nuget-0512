@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.MemoryDb@10.1.0
 - pkg:nuget/Abp.MemoryDb@10.2.0
 - pkg:nuget/Abp.MemoryDb@10.3.0
+- pkg:nuget/Abp.MemoryDb@10.5.1
 - pkg:nuget/Abp.MemoryDb@2.1.0
 - pkg:nuget/Abp.MemoryDb@2.1.0-beta4
 - pkg:nuget/Abp.MemoryDb@2.1.0-rc1
