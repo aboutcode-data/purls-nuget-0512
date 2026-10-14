@@ -8,6 +8,7 @@
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.128
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.135
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.141
+- pkg:nuget/Soenneker.CalCom.HttpClients@4.0.153
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.2
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.24
 - pkg:nuget/Soenneker.CalCom.HttpClients@4.0.3
