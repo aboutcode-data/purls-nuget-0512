@@ -1,0 +1,4 @@
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.Hosting@23.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.Hosting@24.0.2
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.Hosting@24.1.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation.Hosting@9.0.1
