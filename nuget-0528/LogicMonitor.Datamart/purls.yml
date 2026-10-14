@@ -251,4 +251,5 @@
 - pkg:nuget/LogicMonitor.Datamart@3.236.7
 - pkg:nuget/LogicMonitor.Datamart@3.236.8
 - pkg:nuget/LogicMonitor.Datamart@3.236.9
+- pkg:nuget/LogicMonitor.Datamart@3.240.45
 - pkg:nuget/LogicMonitor.Datamart@3.240.5
