@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.126
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.133
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.139
+- pkg:nuget/Soenneker.Neon.HttpClients@4.0.153
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.21
 - pkg:nuget/Soenneker.Neon.HttpClients@4.0.22
