@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.Extensions.JsonElements@3.0.8
 - pkg:nuget/Soenneker.Extensions.JsonElements@3.0.9
 - pkg:nuget/Soenneker.Extensions.JsonElements@4.0.106
+- pkg:nuget/Soenneker.Extensions.JsonElements@4.0.108
 - pkg:nuget/Soenneker.Extensions.JsonElements@4.0.14
 - pkg:nuget/Soenneker.Extensions.JsonElements@4.0.16
 - pkg:nuget/Soenneker.Extensions.JsonElements@4.0.20

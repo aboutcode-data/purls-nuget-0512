@@ -33,6 +33,7 @@
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@21.5.0
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@21.6.0
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@21.8.1
+- pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@22.100.0
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@22.11.0
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@22.14.2
 - pkg:nuget/Cratis.Arc.Chronicle.CodeAnalysis@22.15.0
