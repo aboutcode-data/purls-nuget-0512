@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Polymarket.OpenApiClientUtil@4.0.100
+- pkg:nuget/Soenneker.Polymarket.OpenApiClientUtil@4.0.104
 - pkg:nuget/Soenneker.Polymarket.OpenApiClientUtil@4.0.21
 - pkg:nuget/Soenneker.Polymarket.OpenApiClientUtil@4.0.26
 - pkg:nuget/Soenneker.Polymarket.OpenApiClientUtil@4.0.38
