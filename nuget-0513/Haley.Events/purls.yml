@@ -36,6 +36,7 @@
 - pkg:nuget/Haley.Events@2.2.38
 - pkg:nuget/Haley.Events@2.2.39
 - pkg:nuget/Haley.Events@2.2.4
+- pkg:nuget/Haley.Events@2.2.44
 - pkg:nuget/Haley.Events@2.2.5
 - pkg:nuget/Haley.Events@2.2.6
 - pkg:nuget/Haley.Events@2.2.6.1
