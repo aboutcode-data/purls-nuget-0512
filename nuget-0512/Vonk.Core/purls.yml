@@ -91,6 +91,7 @@
 - pkg:nuget/Vonk.Core@5.9.1
 - pkg:nuget/Vonk.Core@6.0.0
 - pkg:nuget/Vonk.Core@6.1.0
+- pkg:nuget/Vonk.Core@6.11.0
 - pkg:nuget/Vonk.Core@6.2.0
 - pkg:nuget/Vonk.Core@6.3.0
 - pkg:nuget/Vonk.Core@6.3.1
