@@ -180,6 +180,7 @@
 - pkg:nuget/xcodetool@11.24.2026.203-beta0613
 - pkg:nuget/xcodetool@11.24.2026.326-beta1217
 - pkg:nuget/xcodetool@11.24.2026.421-beta0550
+- pkg:nuget/xcodetool@11.25.2026.1018-beta1730
 - pkg:nuget/xcodetool@11.25.2026.512-beta1239
 - pkg:nuget/xcodetool@11.25.2026.715-beta0358
 - pkg:nuget/xcodetool@11.25.2026.827-beta1517
