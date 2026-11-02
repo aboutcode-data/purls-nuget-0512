@@ -3084,9 +3084,15 @@
 - pkg:nuget/Lusid.Sdk@2.3.280
 - pkg:nuget/Lusid.Sdk@2.3.2803
 - pkg:nuget/Lusid.Sdk@2.3.281
+- pkg:nuget/Lusid.Sdk@2.3.2856
+- pkg:nuget/Lusid.Sdk@2.3.2864
+- pkg:nuget/Lusid.Sdk@2.3.2868
 - pkg:nuget/Lusid.Sdk@2.3.295
+- pkg:nuget/Lusid.Sdk@2.3.2957
+- pkg:nuget/Lusid.Sdk@2.3.2997
 - pkg:nuget/Lusid.Sdk@2.3.30
 - pkg:nuget/Lusid.Sdk@2.3.300
+- pkg:nuget/Lusid.Sdk@2.3.3015
 - pkg:nuget/Lusid.Sdk@2.3.309
 - pkg:nuget/Lusid.Sdk@2.3.31
 - pkg:nuget/Lusid.Sdk@2.3.311
