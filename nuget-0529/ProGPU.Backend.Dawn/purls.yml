@@ -5,3 +5,6 @@
 - pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.46
 - pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.49
 - pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.61
+- pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.66
+- pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.67
+- pkg:nuget/ProGPU.Backend.Dawn@0.1.0-preview.69
