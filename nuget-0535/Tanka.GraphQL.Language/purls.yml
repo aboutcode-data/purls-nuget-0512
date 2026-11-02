@@ -117,3 +117,4 @@
 - pkg:nuget/Tanka.GraphQL.Language@3.5.1-beta.5
 - pkg:nuget/Tanka.GraphQL.Language@3.5.1-beta.6
 - pkg:nuget/Tanka.GraphQL.Language@3.6.0
+- pkg:nuget/Tanka.GraphQL.Language@4.0.1
