@@ -424,6 +424,7 @@
 - pkg:nuget/ShopifySharp@6.3.2-b111
 - pkg:nuget/ShopifySharp@6.3.3
 - pkg:nuget/ShopifySharp@6.3.3-b112
+- pkg:nuget/ShopifySharp@6.30.0-b329
 - pkg:nuget/ShopifySharp@6.4.0
 - pkg:nuget/ShopifySharp@6.4.0-b116
 - pkg:nuget/ShopifySharp@6.6.0
