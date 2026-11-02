@@ -374,6 +374,12 @@
 - pkg:nuget/Soenneker.Cosmos.Client@1.0.97
 - pkg:nuget/Soenneker.Cosmos.Client@1.0.98
 - pkg:nuget/Soenneker.Cosmos.Client@1.0.99
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3826
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3827
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3828
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3836
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3837
+- pkg:nuget/Soenneker.Cosmos.Client@11.0.3838
 - pkg:nuget/Soenneker.Cosmos.Client@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Client@2.0.2
 - pkg:nuget/Soenneker.Cosmos.Client@2.0.3

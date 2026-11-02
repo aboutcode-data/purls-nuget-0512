@@ -61,3 +61,5 @@
 - pkg:nuget/Asv.Cfg@3.2.9
 - pkg:nuget/Asv.Cfg@3.4.0
 - pkg:nuget/Asv.Cfg@3.5.0
+- pkg:nuget/Asv.Cfg@3.7.3
+- pkg:nuget/Asv.Cfg@3.7.4
