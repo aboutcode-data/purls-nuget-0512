@@ -160,6 +160,7 @@
 - pkg:nuget/EPPlus@8.0.8
 - pkg:nuget/EPPlus@8.1.0
 - pkg:nuget/EPPlus@8.1.1
+- pkg:nuget/EPPlus@8.1.2
 - pkg:nuget/EPPlus@8.2.0
 - pkg:nuget/EPPlus@8.4.0
 - pkg:nuget/EPPlus@8.5.1
