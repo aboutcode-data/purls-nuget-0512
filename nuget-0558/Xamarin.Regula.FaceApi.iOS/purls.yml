@@ -422,8 +422,16 @@
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1149-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1165-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1168
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1219-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1223-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1233-rc
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.1263-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.4.986-rc
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1177-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1181-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1188-rc
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1230-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1242-rc
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1245-nightly
+- pkg:nuget/Xamarin.Regula.FaceApi.iOS@8.5.1258-nightly
 - pkg:nuget/Xamarin.Regula.FaceApi.iOS@9.8.1038-rc
