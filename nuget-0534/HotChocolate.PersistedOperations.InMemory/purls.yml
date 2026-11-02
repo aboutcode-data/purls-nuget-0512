@@ -47,6 +47,7 @@
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.3.0
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.3.0-p.1
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.3.0-p.2
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.3.3
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.4.0-p.1
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.4.0-p.10
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@14.4.0-p.2
@@ -400,6 +401,7 @@
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.6.2-p.8
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.6.3
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.6.8
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.1
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.10
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.11
@@ -412,9 +414,14 @@
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.25
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.26
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.3
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.32
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.33
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.4
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.5
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.6
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.7
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.8
 - pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.7.0-p.9
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.8.0-p.4
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.8.0-p.8
+- pkg:nuget/HotChocolate.PersistedOperations.InMemory@16.8.0-p.9
