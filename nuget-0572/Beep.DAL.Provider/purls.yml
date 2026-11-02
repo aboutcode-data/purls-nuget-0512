@@ -169,6 +169,9 @@
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.56
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.562
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.564
+- pkg:nuget/Beep.DAL.Provider@1.1.1-build.574
+- pkg:nuget/Beep.DAL.Provider@1.1.1-build.582
+- pkg:nuget/Beep.DAL.Provider@1.1.1-build.583
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.6
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.61
 - pkg:nuget/Beep.DAL.Provider@1.1.1-build.62
