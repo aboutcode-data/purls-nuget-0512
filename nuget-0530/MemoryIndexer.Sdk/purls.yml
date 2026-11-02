@@ -1,1 +1,9 @@
+- pkg:nuget/MemoryIndexer.Sdk@0.16.14
+- pkg:nuget/MemoryIndexer.Sdk@0.16.6
+- pkg:nuget/MemoryIndexer.Sdk@0.17.16
+- pkg:nuget/MemoryIndexer.Sdk@0.17.6
+- pkg:nuget/MemoryIndexer.Sdk@0.18.1
+- pkg:nuget/MemoryIndexer.Sdk@0.19.9
+- pkg:nuget/MemoryIndexer.Sdk@0.35.0
+- pkg:nuget/MemoryIndexer.Sdk@0.37.1
 - pkg:nuget/MemoryIndexer.Sdk@0.4.0
