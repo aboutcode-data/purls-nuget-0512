@@ -1,5 +1,6 @@
 - pkg:nuget/FluxIndex.Core@0.10.3
 - pkg:nuget/FluxIndex.Core@0.10.6
+- pkg:nuget/FluxIndex.Core@0.103.0
 - pkg:nuget/FluxIndex.Core@0.13.1
 - pkg:nuget/FluxIndex.Core@0.13.19
 - pkg:nuget/FluxIndex.Core@0.2.14
@@ -27,3 +28,6 @@
 - pkg:nuget/FluxIndex.Core@0.8.0
 - pkg:nuget/FluxIndex.Core@0.80.11
 - pkg:nuget/FluxIndex.Core@0.80.14
+- pkg:nuget/FluxIndex.Core@0.83.0
+- pkg:nuget/FluxIndex.Core@0.95.0
+- pkg:nuget/FluxIndex.Core@0.98.0
