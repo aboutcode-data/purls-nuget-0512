@@ -155,6 +155,7 @@
 - pkg:nuget/Kentico.Xperience.SendGrid@30.9.1
 - pkg:nuget/Kentico.Xperience.SendGrid@30.9.2
 - pkg:nuget/Kentico.Xperience.SendGrid@31.1.0
+- pkg:nuget/Kentico.Xperience.SendGrid@31.10.1
 - pkg:nuget/Kentico.Xperience.SendGrid@31.3.2
 - pkg:nuget/Kentico.Xperience.SendGrid@31.4.0
 - pkg:nuget/Kentico.Xperience.SendGrid@31.4.1
