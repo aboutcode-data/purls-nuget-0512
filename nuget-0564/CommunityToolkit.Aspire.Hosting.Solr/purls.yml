@@ -5,6 +5,10 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.4.0-beta.671
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.4.1-beta.676
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.5.1-beta.751
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.5.1-beta.763
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.5.1-beta.895
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@13.6.1-beta.935
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@9.8.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@9.8.0-beta.384
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Solr@9.8.0-beta.385
