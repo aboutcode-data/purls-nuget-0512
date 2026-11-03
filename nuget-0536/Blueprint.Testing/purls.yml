@@ -55,3 +55,4 @@
 - pkg:nuget/Blueprint.Testing@0.8.2
 - pkg:nuget/Blueprint.Testing@0.8.3
 - pkg:nuget/Blueprint.Testing@0.8.4
+- pkg:nuget/Blueprint.Testing@2.0.1
