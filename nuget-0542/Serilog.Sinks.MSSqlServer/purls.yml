@@ -77,6 +77,7 @@
 - pkg:nuget/Serilog.Sinks.MSSqlServer@10.0.1-dev-00187
 - pkg:nuget/Serilog.Sinks.MSSqlServer@10.0.1-dev-00189
 - pkg:nuget/Serilog.Sinks.MSSqlServer@10.0.1-dev-00193
+- pkg:nuget/Serilog.Sinks.MSSqlServer@10.0.1-dev-00195
 - pkg:nuget/Serilog.Sinks.MSSqlServer@2.0.13
 - pkg:nuget/Serilog.Sinks.MSSqlServer@2.0.14
 - pkg:nuget/Serilog.Sinks.MSSqlServer@2.0.27
