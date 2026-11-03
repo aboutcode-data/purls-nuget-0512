@@ -17,6 +17,7 @@
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.10.0-alpha.129
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.10.0-alpha.131
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.10.0-alpha.132
+- pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.1009.0
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.11.0
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.11.0-alpha.133
 - pkg:nuget/VirtoCommerce.CatalogPersonalizationModule.Core@3.11.0-alpha.158
