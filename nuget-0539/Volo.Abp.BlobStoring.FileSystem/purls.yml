@@ -5,6 +5,7 @@
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@10.5.0
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@10.5.0-rc.1
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@10.6.3
+- pkg:nuget/Volo.Abp.BlobStoring.FileSystem@10.7.1
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@11.0.0-rc.1
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@2.9.0
 - pkg:nuget/Volo.Abp.BlobStoring.FileSystem@3.0.0
