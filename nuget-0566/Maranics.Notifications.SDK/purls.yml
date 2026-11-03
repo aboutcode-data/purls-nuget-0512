@@ -9,3 +9,6 @@
 - pkg:nuget/Maranics.Notifications.SDK@2.0.0-dev1
 - pkg:nuget/Maranics.Notifications.SDK@2.0.1
 - pkg:nuget/Maranics.Notifications.SDK@2.0.1-dev1
+- pkg:nuget/Maranics.Notifications.SDK@2.4.0
+- pkg:nuget/Maranics.Notifications.SDK@3.0.0
+- pkg:nuget/Maranics.Notifications.SDK@3.0.1
