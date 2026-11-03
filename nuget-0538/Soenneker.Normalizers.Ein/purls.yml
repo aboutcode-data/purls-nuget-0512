@@ -76,6 +76,9 @@
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.238
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.239
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.241
+- pkg:nuget/Soenneker.Normalizers.Ein@4.0.246
+- pkg:nuget/Soenneker.Normalizers.Ein@4.0.249
+- pkg:nuget/Soenneker.Normalizers.Ein@4.0.261
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.52
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.65
 - pkg:nuget/Soenneker.Normalizers.Ein@4.0.66
