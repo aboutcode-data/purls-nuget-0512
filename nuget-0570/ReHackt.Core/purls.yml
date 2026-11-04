@@ -19,6 +19,7 @@
 - pkg:nuget/ReHackt.Core@1.0.8
 - pkg:nuget/ReHackt.Core@1.0.9
 - pkg:nuget/ReHackt.Core@10.0.6
+- pkg:nuget/ReHackt.Core@10.1.0
 - pkg:nuget/ReHackt.Core@7.0.0
 - pkg:nuget/ReHackt.Core@7.0.1
 - pkg:nuget/ReHackt.Core@7.0.2

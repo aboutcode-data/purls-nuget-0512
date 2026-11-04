@@ -1,4 +1,5 @@
 - pkg:nuget/ReHackt.AspNetCore.Validation@10.0.6
+- pkg:nuget/ReHackt.AspNetCore.Validation@10.1.0
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.100
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.101
 - pkg:nuget/ReHackt.AspNetCore.Validation@8.0.102
