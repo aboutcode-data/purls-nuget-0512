@@ -65,6 +65,7 @@
 - pkg:nuget/AgonesSDK@1.51.0
 - pkg:nuget/AgonesSDK@1.52.0
 - pkg:nuget/AgonesSDK@1.52.1
+- pkg:nuget/AgonesSDK@1.62.0
 - pkg:nuget/AgonesSDK@1.8.0
 - pkg:nuget/AgonesSDK@1.8.0-rc
 - pkg:nuget/AgonesSDK@1.9.0
