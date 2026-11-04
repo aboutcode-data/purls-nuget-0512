@@ -22,3 +22,5 @@
 - pkg:nuget/RxBim.AutocadTests.Cmd.2023@1.2.6-dev003
 - pkg:nuget/RxBim.AutocadTests.Cmd.2023@1.2.7-dev003
 - pkg:nuget/RxBim.AutocadTests.Cmd.2023@1.2.7-dev005
+- pkg:nuget/RxBim.AutocadTests.Cmd.2023@1.2.7-dev007
+- pkg:nuget/RxBim.AutocadTests.Cmd.2023@1.2.7-rc001
