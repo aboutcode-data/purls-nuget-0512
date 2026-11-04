@@ -1,3 +1,5 @@
+- pkg:nuget/IBMXMSDotnetClient@10.0.0.6
+- pkg:nuget/IBMXMSDotnetClient@10.0.1
 - pkg:nuget/IBMXMSDotnetClient@9.1.4
 - pkg:nuget/IBMXMSDotnetClient@9.1.5
 - pkg:nuget/IBMXMSDotnetClient@9.2.0
