@@ -6,7 +6,9 @@
 - pkg:nuget/Wyrm.Math@0.1.0-alpha.6
 - pkg:nuget/Wyrm.Math@0.1.0-alpha.7
 - pkg:nuget/Wyrm.Math@0.1.0-alpha.8
+- pkg:nuget/Wyrm.Math@0.11.0
 - pkg:nuget/Wyrm.Math@0.2.0
 - pkg:nuget/Wyrm.Math@0.3.0
 - pkg:nuget/Wyrm.Math@0.4.0
 - pkg:nuget/Wyrm.Math@0.6.0
+- pkg:nuget/Wyrm.Math@0.8.0
