@@ -22,6 +22,8 @@
 - pkg:nuget/Pulumi.Equinix@0.25.0
 - pkg:nuget/Pulumi.Equinix@0.26.0
 - pkg:nuget/Pulumi.Equinix@0.3.0
+- pkg:nuget/Pulumi.Equinix@0.33.1
+- pkg:nuget/Pulumi.Equinix@0.34.0-alpha.1790893968
 - pkg:nuget/Pulumi.Equinix@0.5.1
 - pkg:nuget/Pulumi.Equinix@0.6.0
 - pkg:nuget/Pulumi.Equinix@0.7.0
