@@ -24,6 +24,7 @@
 - pkg:nuget/Shuttle.Recall@17.0.1
 - pkg:nuget/Shuttle.Recall@18.0.0
 - pkg:nuget/Shuttle.Recall@20.0.0
+- pkg:nuget/Shuttle.Recall@23.0.2
 - pkg:nuget/Shuttle.Recall@3.5.1
 - pkg:nuget/Shuttle.Recall@3.5.2
 - pkg:nuget/Shuttle.Recall@3.6.0
