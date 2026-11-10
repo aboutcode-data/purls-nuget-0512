@@ -17,6 +17,7 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.337.8
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.337.82
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.337.86
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.337.88
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.14
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.17
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.20
@@ -43,6 +44,7 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.82
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.85
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.95
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.339.96
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.17
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.22
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.341.27
@@ -60,6 +62,9 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.101
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.104
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.11
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.121
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.122
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.124
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.16
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.33
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.343.38
@@ -86,6 +91,8 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.345.69
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.345.72
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.345.84
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.345.91
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.345.94
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.10
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.14
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.15
@@ -98,7 +105,10 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.53
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.56
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.6
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.68
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.7
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.347.73
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.100
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.13
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.15
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.21
@@ -111,3 +121,17 @@
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.54
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.59
 - pkg:nuget/Dynatrace.OneAgent.Trimming@1.349.6
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.20
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.23
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.24
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.29
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.38
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.45
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.47
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.49
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.50
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.51
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.53
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.6
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.65
+- pkg:nuget/Dynatrace.OneAgent.Trimming@1.351.8
