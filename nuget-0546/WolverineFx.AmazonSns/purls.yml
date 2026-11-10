@@ -54,4 +54,5 @@
 - pkg:nuget/WolverineFx.AmazonSns@6.51.2
 - pkg:nuget/WolverineFx.AmazonSns@6.55.1
 - pkg:nuget/WolverineFx.AmazonSns@6.63.0
+- pkg:nuget/WolverineFx.AmazonSns@6.64.0
 - pkg:nuget/WolverineFx.AmazonSns@6.7.0
