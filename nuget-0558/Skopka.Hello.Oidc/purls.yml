@@ -6,5 +6,6 @@
 - pkg:nuget/Skopka.Hello.Oidc@0.27.0
 - pkg:nuget/Skopka.Hello.Oidc@0.28.1
 - pkg:nuget/Skopka.Hello.Oidc@0.28.3
+- pkg:nuget/Skopka.Hello.Oidc@0.32.0
 - pkg:nuget/Skopka.Hello.Oidc@0.5.0
 - pkg:nuget/Skopka.Hello.Oidc@0.6.0
