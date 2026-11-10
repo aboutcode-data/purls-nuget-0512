@@ -19,6 +19,7 @@
 - pkg:nuget/Gazel@1.2.0
 - pkg:nuget/Gazel@1.2.1
 - pkg:nuget/Gazel@1.2.2
+- pkg:nuget/Gazel@10.0.2
 - pkg:nuget/Gazel@5.0.0
 - pkg:nuget/Gazel@5.0.1
 - pkg:nuget/Gazel@5.1.0
