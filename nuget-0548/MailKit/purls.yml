@@ -183,3 +183,4 @@
 - pkg:nuget/MailKit@4.7.1.1
 - pkg:nuget/MailKit@4.8.0
 - pkg:nuget/MailKit@4.9.0
+- pkg:nuget/MailKit@5.0.0
