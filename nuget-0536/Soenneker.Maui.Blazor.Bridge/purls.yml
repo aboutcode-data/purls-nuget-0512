@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@11.0.836
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@11.0.837
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@11.0.844
+- pkg:nuget/Soenneker.Maui.Blazor.Bridge@11.0.846
+- pkg:nuget/Soenneker.Maui.Blazor.Bridge@11.0.848
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@3.0.1
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@3.0.10
 - pkg:nuget/Soenneker.Maui.Blazor.Bridge@3.0.100

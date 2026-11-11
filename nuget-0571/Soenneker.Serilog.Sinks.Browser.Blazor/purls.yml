@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Serilog.Sinks.Browser.Blazor@11.0.442
+- pkg:nuget/Soenneker.Serilog.Sinks.Browser.Blazor@11.0.447
 - pkg:nuget/Soenneker.Serilog.Sinks.Browser.Blazor@3.0.1
 - pkg:nuget/Soenneker.Serilog.Sinks.Browser.Blazor@3.0.10
 - pkg:nuget/Soenneker.Serilog.Sinks.Browser.Blazor@3.0.100
