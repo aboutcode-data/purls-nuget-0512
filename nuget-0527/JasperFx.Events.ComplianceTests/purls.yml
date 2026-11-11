@@ -15,3 +15,4 @@
 - pkg:nuget/JasperFx.Events.ComplianceTests@2.94.0
 - pkg:nuget/JasperFx.Events.ComplianceTests@2.96.0
 - pkg:nuget/JasperFx.Events.ComplianceTests@2.97.0
+- pkg:nuget/JasperFx.Events.ComplianceTests@3.0.1
