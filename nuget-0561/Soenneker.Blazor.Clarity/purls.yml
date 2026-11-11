@@ -71,6 +71,7 @@
 - pkg:nuget/Soenneker.Blazor.Clarity@11.0.2314
 - pkg:nuget/Soenneker.Blazor.Clarity@11.0.2316
 - pkg:nuget/Soenneker.Blazor.Clarity@11.0.2318
+- pkg:nuget/Soenneker.Blazor.Clarity@11.0.2320
 - pkg:nuget/Soenneker.Blazor.Clarity@2.0.1
 - pkg:nuget/Soenneker.Blazor.Clarity@2.0.2
 - pkg:nuget/Soenneker.Blazor.Clarity@2.0.3

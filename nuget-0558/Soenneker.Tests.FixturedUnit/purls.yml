@@ -291,6 +291,7 @@
 - pkg:nuget/Soenneker.Tests.FixturedUnit@1.0.98
 - pkg:nuget/Soenneker.Tests.FixturedUnit@1.0.99
 - pkg:nuget/Soenneker.Tests.FixturedUnit@11.0.2664
+- pkg:nuget/Soenneker.Tests.FixturedUnit@11.0.2680
 - pkg:nuget/Soenneker.Tests.FixturedUnit@2.0.1
 - pkg:nuget/Soenneker.Tests.FixturedUnit@2.0.2
 - pkg:nuget/Soenneker.Tests.FixturedUnit@2.0.294
