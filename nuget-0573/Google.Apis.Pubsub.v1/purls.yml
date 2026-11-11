@@ -267,6 +267,7 @@
 - pkg:nuget/Google.Apis.Pubsub.v1@1.75.0.4214
 - pkg:nuget/Google.Apis.Pubsub.v1@1.77.0.4284
 - pkg:nuget/Google.Apis.Pubsub.v1@1.77.0.4296
+- pkg:nuget/Google.Apis.Pubsub.v1@1.78.0.4317
 - pkg:nuget/Google.Apis.Pubsub.v1@1.9.2.20
 - pkg:nuget/Google.Apis.Pubsub.v1@1.9.2.30
 - pkg:nuget/Google.Apis.Pubsub.v1@1.9.2.50
