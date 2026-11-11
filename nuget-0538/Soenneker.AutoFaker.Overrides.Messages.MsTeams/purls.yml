@@ -6,6 +6,8 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@11.0.512
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@11.0.513
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@11.0.514
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@11.0.515
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@11.0.517
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@3.0.1
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@3.0.10
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Messages.MsTeams@3.0.100
