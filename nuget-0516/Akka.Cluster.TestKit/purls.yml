@@ -156,3 +156,4 @@
 - pkg:nuget/Akka.Cluster.TestKit@1.5.7
 - pkg:nuget/Akka.Cluster.TestKit@1.5.8
 - pkg:nuget/Akka.Cluster.TestKit@1.5.9
+- pkg:nuget/Akka.Cluster.TestKit@1.6.0-beta7
