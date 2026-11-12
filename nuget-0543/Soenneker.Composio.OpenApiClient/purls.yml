@@ -1,8 +1,13 @@
+- pkg:nuget/Soenneker.Composio.OpenApiClient@11.0.158
+- pkg:nuget/Soenneker.Composio.OpenApiClient@11.0.162
+- pkg:nuget/Soenneker.Composio.OpenApiClient@11.0.171
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.10
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.106
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.113
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.121
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.13
+- pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.144
+- pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.146
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.35
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.36
 - pkg:nuget/Soenneker.Composio.OpenApiClient@4.0.41
