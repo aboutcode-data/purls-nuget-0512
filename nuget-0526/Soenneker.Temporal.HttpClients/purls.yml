@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Temporal.HttpClients@11.0.157
 - pkg:nuget/Soenneker.Temporal.HttpClients@11.0.163
 - pkg:nuget/Soenneker.Temporal.HttpClients@11.0.167
+- pkg:nuget/Soenneker.Temporal.HttpClients@11.0.170
 - pkg:nuget/Soenneker.Temporal.HttpClients@4.0.100
 - pkg:nuget/Soenneker.Temporal.HttpClients@4.0.105
 - pkg:nuget/Soenneker.Temporal.HttpClients@4.0.117
