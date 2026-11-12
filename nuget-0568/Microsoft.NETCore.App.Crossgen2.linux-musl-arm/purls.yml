@@ -11,6 +11,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.11
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.12
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.13
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.14
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.2
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@10.0.7
@@ -118,6 +119,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.21
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.29
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.3
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.33
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.4
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.5
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@8.0.6
@@ -139,6 +141,8 @@
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.19
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.21
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.22
+- pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.23
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.4
 - pkg:nuget/Microsoft.NETCore.App.Crossgen2.linux-musl-arm@9.0.5
