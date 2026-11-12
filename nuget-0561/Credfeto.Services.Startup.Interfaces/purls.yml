@@ -574,6 +574,7 @@
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.166.2240-pull-85-merge
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.166.2249-pull-87-merge
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.166.2250-main
+- pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.166.2262-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.17.187-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.17.188-main
 - pkg:nuget/Credfeto.Services.Startup.Interfaces@1.1.17.189-main
