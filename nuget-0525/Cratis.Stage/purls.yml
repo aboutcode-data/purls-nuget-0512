@@ -66,5 +66,7 @@
 - pkg:nuget/Cratis.Stage@5.1.0
 - pkg:nuget/Cratis.Stage@5.1.1
 - pkg:nuget/Cratis.Stage@5.10.0
+- pkg:nuget/Cratis.Stage@5.11.0
+- pkg:nuget/Cratis.Stage@5.12.0
 - pkg:nuget/Cratis.Stage@5.5.0
 - pkg:nuget/Cratis.Stage@5.9.0

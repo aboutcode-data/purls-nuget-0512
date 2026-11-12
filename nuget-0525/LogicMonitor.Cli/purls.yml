@@ -6,6 +6,7 @@
 - pkg:nuget/LogicMonitor.Cli@1.0.5
 - pkg:nuget/LogicMonitor.Cli@1.0.6
 - pkg:nuget/LogicMonitor.Cli@10.0.36
+- pkg:nuget/LogicMonitor.Cli@10.0.40
 - pkg:nuget/LogicMonitor.Cli@3.1.0
 - pkg:nuget/LogicMonitor.Cli@5.0.0
 - pkg:nuget/LogicMonitor.Cli@6.0.0
