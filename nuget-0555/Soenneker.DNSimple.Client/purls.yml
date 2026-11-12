@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.DNSimple.Client@11.0.637
 - pkg:nuget/Soenneker.DNSimple.Client@11.0.640
 - pkg:nuget/Soenneker.DNSimple.Client@11.0.642
+- pkg:nuget/Soenneker.DNSimple.Client@11.0.646
 - pkg:nuget/Soenneker.DNSimple.Client@3.0.1
 - pkg:nuget/Soenneker.DNSimple.Client@3.0.10
 - pkg:nuget/Soenneker.DNSimple.Client@3.0.100
