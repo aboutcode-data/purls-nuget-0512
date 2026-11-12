@@ -74,3 +74,4 @@
 - pkg:nuget/Nethereum.Quorum@4.8.0
 - pkg:nuget/Nethereum.Quorum@4.9.0
 - pkg:nuget/Nethereum.Quorum@6.0.4
+- pkg:nuget/Nethereum.Quorum@7.1.0
