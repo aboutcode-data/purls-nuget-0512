@@ -178,3 +178,5 @@
 - pkg:nuget/Leal.Core.Net.EtherCAT@1.4.1.8
 - pkg:nuget/Leal.Core.Net.EtherCAT@1.4.2.2
 - pkg:nuget/Leal.Core.Net.EtherCAT@1.4.2.3
+- pkg:nuget/Leal.Core.Net.EtherCAT@1.4.2.5
+- pkg:nuget/Leal.Core.Net.EtherCAT@1.4.2.6
