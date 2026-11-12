@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Google.Credentials@11.0.2659
 - pkg:nuget/Soenneker.Google.Credentials@11.0.2665
 - pkg:nuget/Soenneker.Google.Credentials@11.0.2671
+- pkg:nuget/Soenneker.Google.Credentials@11.0.2672
+- pkg:nuget/Soenneker.Google.Credentials@11.0.2675
 - pkg:nuget/Soenneker.Google.Credentials@2.1.1
 - pkg:nuget/Soenneker.Google.Credentials@2.1.10
 - pkg:nuget/Soenneker.Google.Credentials@2.1.100
