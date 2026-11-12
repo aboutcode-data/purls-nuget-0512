@@ -595,3 +595,4 @@
 - pkg:nuget/AWSSDK.SecurityLake@4.0.2.22
 - pkg:nuget/AWSSDK.SecurityLake@4.0.2.31
 - pkg:nuget/AWSSDK.SecurityLake@4.0.3.3
+- pkg:nuget/AWSSDK.SecurityLake@4.1.0
