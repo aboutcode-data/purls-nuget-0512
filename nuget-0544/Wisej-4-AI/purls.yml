@@ -1,2 +1,5 @@
 - pkg:nuget/Wisej-4-AI@4.0.14
 - pkg:nuget/Wisej-4-AI@4.1.0
+- pkg:nuget/Wisej-4-AI@4.1.1-preview.4
+- pkg:nuget/Wisej-4-AI@4.1.3
+- pkg:nuget/Wisej-4-AI@4.1.6
