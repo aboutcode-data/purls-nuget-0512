@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Maui.Firebase@11.0.215
+- pkg:nuget/Soenneker.Maui.Firebase@11.0.216
 - pkg:nuget/Soenneker.Maui.Firebase@3.0.10
 - pkg:nuget/Soenneker.Maui.Firebase@3.0.100
 - pkg:nuget/Soenneker.Maui.Firebase@3.0.101
