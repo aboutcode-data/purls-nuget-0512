@@ -52,6 +52,7 @@
 - pkg:nuget/MailKitSimplified.Sender@2.11.8-tags-v2-11-8-rc0001
 - pkg:nuget/MailKitSimplified.Sender@2.11.9
 - pkg:nuget/MailKitSimplified.Sender@2.14.4
+- pkg:nuget/MailKitSimplified.Sender@2.14.5--no-branch-.1
 - pkg:nuget/MailKitSimplified.Sender@2.2.0
 - pkg:nuget/MailKitSimplified.Sender@2.3.0
 - pkg:nuget/MailKitSimplified.Sender@2.4.0
