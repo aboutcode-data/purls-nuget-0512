@@ -17,6 +17,9 @@
 - pkg:nuget/Cratis.Cli@3.125.0
 - pkg:nuget/Cratis.Cli@3.126.0
 - pkg:nuget/Cratis.Cli@3.127.1
+- pkg:nuget/Cratis.Cli@3.132.0
+- pkg:nuget/Cratis.Cli@3.133.0
+- pkg:nuget/Cratis.Cli@3.134.0
 - pkg:nuget/Cratis.Cli@3.16.0
 - pkg:nuget/Cratis.Cli@3.18.0
 - pkg:nuget/Cratis.Cli@3.21.2
