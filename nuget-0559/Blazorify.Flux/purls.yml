@@ -12,3 +12,4 @@
 - pkg:nuget/Blazorify.Flux@1.0.0-preview.250531073543
 - pkg:nuget/Blazorify.Flux@1.0.0-preview.250531205454
 - pkg:nuget/Blazorify.Flux@1.0.0-preview.251223220029
+- pkg:nuget/Blazorify.Flux@1.0.1
