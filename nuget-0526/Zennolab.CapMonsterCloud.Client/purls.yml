@@ -60,3 +60,5 @@
 - pkg:nuget/Zennolab.CapMonsterCloud.Client@3.0.0
 - pkg:nuget/Zennolab.CapMonsterCloud.Client@3.0.1
 - pkg:nuget/Zennolab.CapMonsterCloud.Client@3.1.0
+- pkg:nuget/Zennolab.CapMonsterCloud.Client@3.5.0
+- pkg:nuget/Zennolab.CapMonsterCloud.Client@4.0.2
