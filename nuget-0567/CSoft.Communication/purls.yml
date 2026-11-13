@@ -6,6 +6,7 @@
 - pkg:nuget/CSoft.Communication@10.5.0
 - pkg:nuget/CSoft.Communication@10.6.0
 - pkg:nuget/CSoft.Communication@10.6.2
+- pkg:nuget/CSoft.Communication@11.0.1
 - pkg:nuget/CSoft.Communication@2.0.0
 - pkg:nuget/CSoft.Communication@2.0.1
 - pkg:nuget/CSoft.Communication@2.0.2
