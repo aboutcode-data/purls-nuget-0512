@@ -2,6 +2,11 @@
 - pkg:nuget/Euonia.Bus.Abstract@10.1.0
 - pkg:nuget/Euonia.Bus.Abstract@10.1.10
 - pkg:nuget/Euonia.Bus.Abstract@10.1.6
+- pkg:nuget/Euonia.Bus.Abstract@2026.3.11
+- pkg:nuget/Euonia.Bus.Abstract@2026.3.12
+- pkg:nuget/Euonia.Bus.Abstract@2026.3.3
+- pkg:nuget/Euonia.Bus.Abstract@2026.4.5
+- pkg:nuget/Euonia.Bus.Abstract@2026.4.7
 - pkg:nuget/Euonia.Bus.Abstract@8.0.0
 - pkg:nuget/Euonia.Bus.Abstract@8.0.1
 - pkg:nuget/Euonia.Bus.Abstract@8.0.2
