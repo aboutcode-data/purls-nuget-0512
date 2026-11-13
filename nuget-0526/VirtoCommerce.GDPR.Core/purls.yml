@@ -27,6 +27,7 @@
 - pkg:nuget/VirtoCommerce.GDPR.Core@1.7.0-alpha.39
 - pkg:nuget/VirtoCommerce.GDPR.Core@1.7.0-alpha.40
 - pkg:nuget/VirtoCommerce.GDPR.Core@1.8.0-alpha.41
+- pkg:nuget/VirtoCommerce.GDPR.Core@3.1004.0
 - pkg:nuget/VirtoCommerce.GDPR.Core@3.200.0
 - pkg:nuget/VirtoCommerce.GDPR.Core@3.200.0-alpha.51
 - pkg:nuget/VirtoCommerce.GDPR.Core@3.201.0
