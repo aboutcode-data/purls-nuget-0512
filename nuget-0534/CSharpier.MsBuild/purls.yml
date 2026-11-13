@@ -62,3 +62,4 @@
 - pkg:nuget/CSharpier.MsBuild@1.1.0
 - pkg:nuget/CSharpier.MsBuild@1.1.1
 - pkg:nuget/CSharpier.MsBuild@1.1.2
+- pkg:nuget/CSharpier.MsBuild@1.4.0
