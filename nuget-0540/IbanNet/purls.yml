@@ -69,3 +69,4 @@
 - pkg:nuget/IbanNet@5.8.0
 - pkg:nuget/IbanNet@5.8.1
 - pkg:nuget/IbanNet@5.9.0
+- pkg:nuget/IbanNet@6.2.1
