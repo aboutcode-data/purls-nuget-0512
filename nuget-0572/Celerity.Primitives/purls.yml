@@ -9,3 +9,4 @@
 - pkg:nuget/Celerity.Primitives@3.3.1-beta.2
 - pkg:nuget/Celerity.Primitives@3.4.1-beta.25
 - pkg:nuget/Celerity.Primitives@3.4.1-beta.27
+- pkg:nuget/Celerity.Primitives@3.6.0
