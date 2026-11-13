@@ -1,5 +1,10 @@
 - pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.10.0
 - pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.12.0
+- pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.12.3
+- pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.13.0-alpha2
+- pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.13.0-alpha9
+- pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.13.0-beta
+- pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.13.0-beta2
 - pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.7.0
 - pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.7.2-alpha
 - pkg:nuget/Arbeidstilsynet.Common.AltinnApp@2.8.0
