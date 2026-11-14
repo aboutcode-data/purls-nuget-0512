@@ -23,3 +23,4 @@
 - pkg:nuget/Bystd.DbFactory@24.8.0
 - pkg:nuget/Bystd.DbFactory@24.9.0
 - pkg:nuget/Bystd.DbFactory@24.9.10
+- pkg:nuget/Bystd.DbFactory@26.10.9
