@@ -8,3 +8,5 @@
 - pkg:nuget/CodeWF.NetWrapper@3.0.0
 - pkg:nuget/CodeWF.NetWrapper@3.0.1
 - pkg:nuget/CodeWF.NetWrapper@3.0.3
+- pkg:nuget/CodeWF.NetWrapper@3.0.5
+- pkg:nuget/CodeWF.NetWrapper@4.0.0.11
