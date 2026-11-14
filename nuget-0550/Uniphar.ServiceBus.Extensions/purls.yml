@@ -12,3 +12,5 @@
 - pkg:nuget/Uniphar.ServiceBus.Extensions@2.8.0
 - pkg:nuget/Uniphar.ServiceBus.Extensions@2.8.2
 - pkg:nuget/Uniphar.ServiceBus.Extensions@2.8.3
+- pkg:nuget/Uniphar.ServiceBus.Extensions@3.2.1
+- pkg:nuget/Uniphar.ServiceBus.Extensions@3.2.2
