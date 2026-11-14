@@ -1,0 +1,4 @@
+- pkg:nuget/Shoko.BuildTools.Targets@0.3.3
+- pkg:nuget/Shoko.BuildTools.Targets@0.4.0
+- pkg:nuget/Shoko.BuildTools.Targets@0.6.0
+- pkg:nuget/Shoko.BuildTools.Targets@0.7.1
