@@ -1,3 +1,5 @@
+- pkg:nuget/JS.Abp.FileManagement.Abstractions@10.6.1
+- pkg:nuget/JS.Abp.FileManagement.Abstractions@10.6.2
 - pkg:nuget/JS.Abp.FileManagement.Abstractions@8.0.1
 - pkg:nuget/JS.Abp.FileManagement.Abstractions@8.0.2
 - pkg:nuget/JS.Abp.FileManagement.Abstractions@8.0.3
