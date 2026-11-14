@@ -31,3 +31,5 @@
 - pkg:nuget/idunno.AtProto@1.6.0
 - pkg:nuget/idunno.AtProto@1.7.0
 - pkg:nuget/idunno.AtProto@5.0.0
+- pkg:nuget/idunno.AtProto@7.0.0
+- pkg:nuget/idunno.AtProto@8.0.0
