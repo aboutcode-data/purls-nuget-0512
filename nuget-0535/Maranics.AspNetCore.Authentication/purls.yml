@@ -69,3 +69,6 @@
 - pkg:nuget/Maranics.AspNetCore.Authentication@2.1.1
 - pkg:nuget/Maranics.AspNetCore.Authentication@2.2.1
 - pkg:nuget/Maranics.AspNetCore.Authentication@3.11.1
+- pkg:nuget/Maranics.AspNetCore.Authentication@3.14.0
+- pkg:nuget/Maranics.AspNetCore.Authentication@3.14.1
+- pkg:nuget/Maranics.AspNetCore.Authentication@3.16.0
