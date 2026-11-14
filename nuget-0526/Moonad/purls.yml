@@ -12,3 +12,5 @@
 - pkg:nuget/Moonad@5.2.0
 - pkg:nuget/Moonad@5.2.1
 - pkg:nuget/Moonad@5.2.2
+- pkg:nuget/Moonad@5.5.2
+- pkg:nuget/Moonad@5.5.5
