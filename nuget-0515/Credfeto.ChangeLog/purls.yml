@@ -1271,6 +1271,8 @@
 - pkg:nuget/Credfeto.ChangeLog@1.10.214.2869-self-test-switc
 - pkg:nuget/Credfeto.ChangeLog@1.10.214.2874-self-test-switc
 - pkg:nuget/Credfeto.ChangeLog@1.10.214.2877-changelog-mcp-s
+- pkg:nuget/Credfeto.ChangeLog@1.10.216.2897-mcp-repo-root
+- pkg:nuget/Credfeto.ChangeLog@1.10.216.2898-main
 - pkg:nuget/Credfeto.ChangeLog@1.10.22.537-main
 - pkg:nuget/Credfeto.ChangeLog@1.10.22.538-main
 - pkg:nuget/Credfeto.ChangeLog@1.10.22.539-main
