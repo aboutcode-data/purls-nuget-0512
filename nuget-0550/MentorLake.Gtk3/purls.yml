@@ -46,6 +46,7 @@
 - pkg:nuget/MentorLake.Gtk3@3.0.52
 - pkg:nuget/MentorLake.Gtk3@3.0.53
 - pkg:nuget/MentorLake.Gtk3@3.0.54
+- pkg:nuget/MentorLake.Gtk3@3.0.57
 - pkg:nuget/MentorLake.Gtk3@3.0.6
 - pkg:nuget/MentorLake.Gtk3@3.0.7
 - pkg:nuget/MentorLake.Gtk3@3.0.8
