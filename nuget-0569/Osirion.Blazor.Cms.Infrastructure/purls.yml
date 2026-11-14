@@ -10,3 +10,5 @@
 - pkg:nuget/Osirion.Blazor.Cms.Infrastructure@2.1.7
 - pkg:nuget/Osirion.Blazor.Cms.Infrastructure@2.1.8
 - pkg:nuget/Osirion.Blazor.Cms.Infrastructure@2.1.9
+- pkg:nuget/Osirion.Blazor.Cms.Infrastructure@4.0.0
+- pkg:nuget/Osirion.Blazor.Cms.Infrastructure@4.4.2
