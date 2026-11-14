@@ -5,3 +5,4 @@
 - pkg:nuget/TypedRest.SystemTextJson@1.5.4
 - pkg:nuget/TypedRest.SystemTextJson@1.6.0
 - pkg:nuget/TypedRest.SystemTextJson@1.6.1
+- pkg:nuget/TypedRest.SystemTextJson@1.7.1
