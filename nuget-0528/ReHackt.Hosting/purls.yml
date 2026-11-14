@@ -1,4 +1,6 @@
 - pkg:nuget/ReHackt.Hosting@1.0.0
+- pkg:nuget/ReHackt.Hosting@10.0.6
+- pkg:nuget/ReHackt.Hosting@10.1.0
 - pkg:nuget/ReHackt.Hosting@7.0.0
 - pkg:nuget/ReHackt.Hosting@7.0.1
 - pkg:nuget/ReHackt.Hosting@7.1.0
