@@ -19,6 +19,7 @@
 - pkg:nuget/Neocom.Service.IdentityServer@1.2.7
 - pkg:nuget/Neocom.Service.IdentityServer@1.2.8
 - pkg:nuget/Neocom.Service.IdentityServer@1.2.9
+- pkg:nuget/Neocom.Service.IdentityServer@10.0.0
 - pkg:nuget/Neocom.Service.IdentityServer@5.0.0
 - pkg:nuget/Neocom.Service.IdentityServer@5.0.1
 - pkg:nuget/Neocom.Service.IdentityServer@5.0.2
