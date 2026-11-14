@@ -26,6 +26,10 @@
 - pkg:nuget/Aiursoft.IpmiController@10.0.15
 - pkg:nuget/Aiursoft.IpmiController@10.0.2
 - pkg:nuget/Aiursoft.IpmiController@10.0.22
+- pkg:nuget/Aiursoft.IpmiController@10.0.23
+- pkg:nuget/Aiursoft.IpmiController@10.0.24
+- pkg:nuget/Aiursoft.IpmiController@10.0.25
+- pkg:nuget/Aiursoft.IpmiController@10.0.26
 - pkg:nuget/Aiursoft.IpmiController@10.0.3
 - pkg:nuget/Aiursoft.IpmiController@8.0.0
 - pkg:nuget/Aiursoft.IpmiController@8.0.1
