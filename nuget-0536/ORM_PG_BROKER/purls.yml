@@ -14,3 +14,4 @@
 - pkg:nuget/ORM_PG_BROKER@1.3.5
 - pkg:nuget/ORM_PG_BROKER@1.3.6
 - pkg:nuget/ORM_PG_BROKER@1.3.9
+- pkg:nuget/ORM_PG_BROKER@1.4.1
