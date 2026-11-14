@@ -22,3 +22,5 @@
 - pkg:nuget/Fusi.Xml.Extras@6.0.0
 - pkg:nuget/Fusi.Xml.Extras@6.0.1
 - pkg:nuget/Fusi.Xml.Extras@6.0.2
+- pkg:nuget/Fusi.Xml.Extras@7.0.2
+- pkg:nuget/Fusi.Xml.Extras@8.0.0
