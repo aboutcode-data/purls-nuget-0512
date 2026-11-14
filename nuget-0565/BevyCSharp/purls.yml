@@ -2,3 +2,5 @@
 - pkg:nuget/BevyCSharp@0.2.277
 - pkg:nuget/BevyCSharp@0.3.2
 - pkg:nuget/BevyCSharp@0.4.129
+- pkg:nuget/BevyCSharp@0.5.120
+- pkg:nuget/BevyCSharp@0.6.114
