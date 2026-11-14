@@ -23,3 +23,7 @@
 - pkg:nuget/SanteDB.Client.Shared@3.0.2095-alpha
 - pkg:nuget/SanteDB.Client.Shared@3.0.2098-alpha
 - pkg:nuget/SanteDB.Client.Shared@3.0.2101-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2104-alpha
+- pkg:nuget/SanteDB.Client.Shared@3.0.2111
+- pkg:nuget/SanteDB.Client.Shared@3.0.2117
+- pkg:nuget/SanteDB.Client.Shared@3.0.2121.1
