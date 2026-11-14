@@ -10,3 +10,8 @@
 - pkg:nuget/Valtuutus.Core@0.7.3-beta
 - pkg:nuget/Valtuutus.Core@0.7.3.1-beta
 - pkg:nuget/Valtuutus.Core@1.2.0
+- pkg:nuget/Valtuutus.Core@1.6.0
+- pkg:nuget/Valtuutus.Core@2.0.0
+- pkg:nuget/Valtuutus.Core@2.3.0
+- pkg:nuget/Valtuutus.Core@3.0.0
+- pkg:nuget/Valtuutus.Core@3.0.1
