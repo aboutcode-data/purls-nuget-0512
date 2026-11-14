@@ -2,3 +2,6 @@
 - pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@7.9.810-prerelease
 - pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@7.9.812
 - pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@8.1.840
+- pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@8.2.852
+- pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@9.0.855
+- pkg:nuget/VpnHood.Core.Filtering.DomainFiltering@9.0.857
