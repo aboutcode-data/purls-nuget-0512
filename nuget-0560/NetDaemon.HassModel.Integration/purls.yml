@@ -46,3 +46,4 @@
 - pkg:nuget/NetDaemon.HassModel.Integration@25.36.0
 - pkg:nuget/NetDaemon.HassModel.Integration@25.5.0
 - pkg:nuget/NetDaemon.HassModel.Integration@25.6.0
+- pkg:nuget/NetDaemon.HassModel.Integration@26.45.0-alpha-4
