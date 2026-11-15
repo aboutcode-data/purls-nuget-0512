@@ -172,3 +172,4 @@
 - pkg:nuget/ModularPipelines.Helm@2.8.23
 - pkg:nuget/ModularPipelines.Helm@2.8.4
 - pkg:nuget/ModularPipelines.Helm@2.9.0
+- pkg:nuget/ModularPipelines.Helm@4.0.0
