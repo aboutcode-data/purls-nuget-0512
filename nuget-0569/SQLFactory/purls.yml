@@ -5,3 +5,5 @@
 - pkg:nuget/SQLFactory@2.2405.143.35%2B045cd88
 - pkg:nuget/SQLFactory@2.32.353.20%2B93756a2
 - pkg:nuget/SQLFactory@2.32.84.29%2Bd580a7e
+- pkg:nuget/SQLFactory@28.2606.4
+- pkg:nuget/SQLFactory@28.2608.229.230
