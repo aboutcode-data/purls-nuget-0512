@@ -3,3 +3,4 @@
 - pkg:nuget/MaintenanceService.Client@1.1.4
 - pkg:nuget/MaintenanceService.Client@1.2.1
 - pkg:nuget/MaintenanceService.Client@1.4.0
+- pkg:nuget/MaintenanceService.Client@2.4.0
