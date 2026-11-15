@@ -1,2 +1,8 @@
+- pkg:nuget/pdn-soundmodem-linux@0.106.0
 - pkg:nuget/pdn-soundmodem-linux@0.87.2
 - pkg:nuget/pdn-soundmodem-linux@0.90.0
+- pkg:nuget/pdn-soundmodem-linux@0.92.0
+- pkg:nuget/pdn-soundmodem-linux@0.94.0
+- pkg:nuget/pdn-soundmodem-linux@0.95.0
+- pkg:nuget/pdn-soundmodem-linux@0.97.0
+- pkg:nuget/pdn-soundmodem-linux@0.98.0
