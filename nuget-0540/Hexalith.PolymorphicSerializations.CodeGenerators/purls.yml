@@ -2,6 +2,8 @@
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.1.0
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.13.0
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.16.2
+- pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.19.8
+- pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.19.9
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.2.0
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.3.0
 - pkg:nuget/Hexalith.PolymorphicSerializations.CodeGenerators@1.4.0
