@@ -4,3 +4,4 @@
 - pkg:nuget/Clarity.Ui.Server@0.90.0
 - pkg:nuget/Clarity.Ui.Server@0.91.0
 - pkg:nuget/Clarity.Ui.Server@0.93.0
+- pkg:nuget/Clarity.Ui.Server@0.98.0
