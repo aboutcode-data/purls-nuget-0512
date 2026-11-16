@@ -15,3 +15,4 @@
 - pkg:nuget/Polecat@5.40.2
 - pkg:nuget/Polecat@5.50.0
 - pkg:nuget/Polecat@6.0.0-alpha.1
+- pkg:nuget/Polecat@6.0.0-alpha.2
