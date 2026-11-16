@@ -50,3 +50,4 @@
 - pkg:nuget/SdlVulkan.Renderer@7.73.4141%2Be41d033abeb6a6f0bbff764f7192c2025311f4fc
 - pkg:nuget/SdlVulkan.Renderer@7.86.4661%2B5240334b2e4d5386ea21d5defdbcc72da82a1eb9
 - pkg:nuget/SdlVulkan.Renderer@7.88.4701%2Be8c542d36235842a86ecf8ca85744752ed9c85f2
+- pkg:nuget/SdlVulkan.Renderer@7.94.4851%2B46dc71bec899ae8cb3b1c1900dd2a2260ddf1a9f
