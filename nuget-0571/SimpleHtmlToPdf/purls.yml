@@ -85,3 +85,4 @@
 - pkg:nuget/SimpleHtmlToPdf@3.0.4
 - pkg:nuget/SimpleHtmlToPdf@3.0.5
 - pkg:nuget/SimpleHtmlToPdf@3.0.6
+- pkg:nuget/SimpleHtmlToPdf@4.0.0
