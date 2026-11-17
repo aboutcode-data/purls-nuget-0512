@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@11.0.64
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@11.0.66
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@11.0.74
+- pkg:nuget/Soenneker.Sonarr.OpenApiClient@11.0.76
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@4.0.21
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@4.0.26
 - pkg:nuget/Soenneker.Sonarr.OpenApiClient@4.0.43
