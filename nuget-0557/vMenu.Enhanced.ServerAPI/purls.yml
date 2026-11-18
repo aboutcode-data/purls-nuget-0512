@@ -5,6 +5,8 @@
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.15
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.16
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.21-dev.44%2B7867d66
+- pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.22
+- pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.22-dev.53%2B7b1e255
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.4-dev.13%2B30a1320
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.4-dev.15%2Bce75d4e
 - pkg:nuget/vMenu.Enhanced.ServerAPI@1.0.4-dev.16%2B5782ed1
