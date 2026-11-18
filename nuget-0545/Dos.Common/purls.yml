@@ -187,5 +187,7 @@
 - pkg:nuget/Dos.Common@8.9.9
 - pkg:nuget/Dos.Common@9.0.1
 - pkg:nuget/Dos.Common@9.1.12
+- pkg:nuget/Dos.Common@9.1.16
+- pkg:nuget/Dos.Common@9.1.18
 - pkg:nuget/Dos.Common@9.1.4
 - pkg:nuget/Dos.Common@9.1.8
