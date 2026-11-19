@@ -9,6 +9,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@13.5.1-beta.895
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@13.6.1-beta.935
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@17.0.0-beta.1052
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@17.0.0-beta.1075
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@9.2.2-beta.229
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@9.2.2-beta.230
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Azure.Dapr@9.2.2-beta.236
