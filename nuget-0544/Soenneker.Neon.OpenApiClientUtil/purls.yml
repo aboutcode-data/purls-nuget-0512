@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@11.0.232
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@11.0.234
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@11.0.237
+- pkg:nuget/Soenneker.Neon.OpenApiClientUtil@11.0.249
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@4.0.130
 - pkg:nuget/Soenneker.Neon.OpenApiClientUtil@4.0.133
