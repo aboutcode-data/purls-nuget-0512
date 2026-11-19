@@ -556,3 +556,4 @@
 - pkg:nuget/PepperDashCore@3.0.0-rc.14
 - pkg:nuget/PepperDashCore@3.0.0-rc.15
 - pkg:nuget/PepperDashCore@3.1.1-fix-1475-directory-null-safety.1
+- pkg:nuget/PepperDashCore@3.2.0-feature-1510-1511-method-results-enum-values.1
