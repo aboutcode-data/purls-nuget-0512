@@ -41,3 +41,5 @@
 - pkg:nuget/MSTest.Sdk@4.0.0-preview.25454.2
 - pkg:nuget/MSTest.Sdk@4.0.0-preview.25465.3
 - pkg:nuget/MSTest.Sdk@4.3.2
+- pkg:nuget/MSTest.Sdk@4.5.1
+- pkg:nuget/MSTest.Sdk@4.5.2
