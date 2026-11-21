@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@11.0.272
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@11.0.274
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@11.0.278
+- pkg:nuget/Soenneker.Asana.OpenApiClientUtil@11.0.285
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@4.0.102
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@4.0.105
 - pkg:nuget/Soenneker.Asana.OpenApiClientUtil@4.0.115
