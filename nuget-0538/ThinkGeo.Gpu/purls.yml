@@ -128,3 +128,5 @@
 - pkg:nuget/ThinkGeo.Gpu@15.0.0-beta270
 - pkg:nuget/ThinkGeo.Gpu@15.1.0-beta002
 - pkg:nuget/ThinkGeo.Gpu@15.1.0-beta005
+- pkg:nuget/ThinkGeo.Gpu@15.1.0-beta020
+- pkg:nuget/ThinkGeo.Gpu@15.1.0-beta021
