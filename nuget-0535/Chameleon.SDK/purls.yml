@@ -14,6 +14,7 @@
 - pkg:nuget/Chameleon.SDK@1.0.53
 - pkg:nuget/Chameleon.SDK@1.0.6
 - pkg:nuget/Chameleon.SDK@1.0.62
+- pkg:nuget/Chameleon.SDK@1.0.66
 - pkg:nuget/Chameleon.SDK@1.0.7
 - pkg:nuget/Chameleon.SDK@1.0.8
 - pkg:nuget/Chameleon.SDK@1.0.9
