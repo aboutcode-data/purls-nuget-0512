@@ -132,3 +132,6 @@
 - pkg:nuget/EnovationCloud.Core@5.8.0
 - pkg:nuget/EnovationCloud.Core@5.9.0
 - pkg:nuget/EnovationCloud.Core@6.0.1-zzz-develop.1
+- pkg:nuget/EnovationCloud.Core@6.2.1-zzz-develop.1
+- pkg:nuget/EnovationCloud.Core@6.4.1-zzz-develop.1
+- pkg:nuget/EnovationCloud.Core@6.6.0
