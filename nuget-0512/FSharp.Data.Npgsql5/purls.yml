@@ -17,3 +17,4 @@
 - pkg:nuget/FSharp.Data.Npgsql5@3.0.0-alpha-7
 - pkg:nuget/FSharp.Data.Npgsql5@3.0.0-alpha-8
 - pkg:nuget/FSharp.Data.Npgsql5@3.0.1
+- pkg:nuget/FSharp.Data.Npgsql5@4.0.0
