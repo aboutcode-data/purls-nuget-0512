@@ -101,3 +101,5 @@
 - pkg:nuget/NServiceBus.Persistence.Sql@8.2.0
 - pkg:nuget/NServiceBus.Persistence.Sql@8.3.0
 - pkg:nuget/NServiceBus.Persistence.Sql@8.3.3
+- pkg:nuget/NServiceBus.Persistence.Sql@8.3.6
+- pkg:nuget/NServiceBus.Persistence.Sql@9.0.8
