@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@11.0.115
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@11.0.120
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@11.0.127
+- pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@11.0.132
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@3.0.1
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.TrustedForm.Certificates.OpenApiClient@3.0.11
