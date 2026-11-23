@@ -34,6 +34,7 @@
 - pkg:nuget/Halibut@1.0.2.38
 - pkg:nuget/Halibut@1.0.2.39
 - pkg:nuget/Halibut@1.0.2.40
+- pkg:nuget/Halibut@10.0.2294
 - pkg:nuget/Halibut@2.0.1.41
 - pkg:nuget/Halibut@2.0.1.42
 - pkg:nuget/Halibut@2.0.1.43
