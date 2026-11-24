@@ -110,3 +110,4 @@
 - pkg:nuget/TelegramBotBase@7.0.0-preview.7
 - pkg:nuget/TelegramBotBase@7.0.0-preview.8
 - pkg:nuget/TelegramBotBase@7.0.0-preview.9
+- pkg:nuget/TelegramBotBase@8.0.0-preview.4
