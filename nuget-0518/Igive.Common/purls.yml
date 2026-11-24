@@ -63,3 +63,4 @@
 - pkg:nuget/Igive.Common@8.0.0-beta12
 - pkg:nuget/Igive.Common@9.0.0-beta15
 - pkg:nuget/Igive.Common@9.1.7
+- pkg:nuget/Igive.Common@9.2.5
