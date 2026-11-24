@@ -120,3 +120,7 @@
 - pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2559-native-aot-tool
 - pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2560-main
 - pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2561-main
+- pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2566-github-actions
+- pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2567-main
+- pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2568-github-actions
+- pkg:nuget/FunFair.BuildVersion.linux-x64@6.2.20.2569-main
