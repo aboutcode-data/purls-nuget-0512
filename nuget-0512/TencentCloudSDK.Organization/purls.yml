@@ -270,6 +270,7 @@
 - pkg:nuget/TencentCloudSDK.Organization@3.0.1337
 - pkg:nuget/TencentCloudSDK.Organization@3.0.1406
 - pkg:nuget/TencentCloudSDK.Organization@3.0.1452
+- pkg:nuget/TencentCloudSDK.Organization@3.0.1543
 - pkg:nuget/TencentCloudSDK.Organization@3.0.168
 - pkg:nuget/TencentCloudSDK.Organization@3.0.169
 - pkg:nuget/TencentCloudSDK.Organization@3.0.170
