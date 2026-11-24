@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@11.0.48
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@11.0.72
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@11.0.82
+- pkg:nuget/Soenneker.Instagram.OpenApiClient@11.0.84
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@4.0.30
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@4.0.31
 - pkg:nuget/Soenneker.Instagram.OpenApiClient@4.0.32
