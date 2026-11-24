@@ -194,3 +194,4 @@
 - pkg:nuget/GrayMint.Common.EntityFrameworkCore@2.1.302
 - pkg:nuget/GrayMint.Common.EntityFrameworkCore@2.1.306
 - pkg:nuget/GrayMint.Common.EntityFrameworkCore@2.1.314
+- pkg:nuget/GrayMint.Common.EntityFrameworkCore@2.1.323
