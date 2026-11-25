@@ -1,6 +1,7 @@
 - pkg:nuget/Webority.Email.Studio@0.101.0
 - pkg:nuget/Webority.Email.Studio@0.101.1
 - pkg:nuget/Webority.Email.Studio@0.101.3
+- pkg:nuget/Webority.Email.Studio@0.102.2
 - pkg:nuget/Webority.Email.Studio@0.41.4
 - pkg:nuget/Webority.Email.Studio@0.41.5
 - pkg:nuget/Webority.Email.Studio@0.47.0
