@@ -49,3 +49,4 @@
 - pkg:nuget/Divine.Sdk@2.3.1
 - pkg:nuget/Divine.Sdk@2.3.2
 - pkg:nuget/Divine.Sdk@2.3.3-dev.190
+- pkg:nuget/Divine.Sdk@3.0.3-dev.207
