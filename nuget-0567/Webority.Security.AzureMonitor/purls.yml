@@ -3,3 +3,5 @@
 - pkg:nuget/Webority.Security.AzureMonitor@0.76.0
 - pkg:nuget/Webority.Security.AzureMonitor@0.79.1
 - pkg:nuget/Webority.Security.AzureMonitor@0.80.0
+- pkg:nuget/Webority.Security.AzureMonitor@0.80.2
+- pkg:nuget/Webority.Security.AzureMonitor@0.81.0
