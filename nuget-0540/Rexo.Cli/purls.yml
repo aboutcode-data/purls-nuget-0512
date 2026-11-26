@@ -1,3 +1,8 @@
 - pkg:nuget/Rexo.Cli@0.2.0-alpha.7
 - pkg:nuget/Rexo.Cli@0.3.0-alpha.24
 - pkg:nuget/Rexo.Cli@0.3.0-alpha.44
+- pkg:nuget/Rexo.Cli@0.3.15
+- pkg:nuget/Rexo.Cli@0.3.18
+- pkg:nuget/Rexo.Cli@0.3.19
+- pkg:nuget/Rexo.Cli@0.4.0-alpha.1
+- pkg:nuget/Rexo.Cli@0.4.0-alpha.22
