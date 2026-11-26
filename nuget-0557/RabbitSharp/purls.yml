@@ -1,1 +1,3 @@
 - pkg:nuget/RabbitSharp@1.0.0
+- pkg:nuget/RabbitSharp@3.0.0
+- pkg:nuget/RabbitSharp@4.0.0
