@@ -17,3 +17,4 @@
 - pkg:nuget/Weaviate@1.0.1-dev.41
 - pkg:nuget/Weaviate@1.0.1-dev.43
 - pkg:nuget/Weaviate@1.0.1-dev.44
+- pkg:nuget/Weaviate@1.0.1-dev.45
