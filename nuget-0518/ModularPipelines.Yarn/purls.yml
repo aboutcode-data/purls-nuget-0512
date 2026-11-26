@@ -92,3 +92,5 @@
 - pkg:nuget/ModularPipelines.Yarn@2.46.1
 - pkg:nuget/ModularPipelines.Yarn@2.47.0
 - pkg:nuget/ModularPipelines.Yarn@2.47.8
+- pkg:nuget/ModularPipelines.Yarn@4.0.0
+- pkg:nuget/ModularPipelines.Yarn@4.0.0-rc.1
