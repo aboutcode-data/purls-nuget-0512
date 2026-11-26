@@ -16,3 +16,5 @@
 - pkg:nuget/PocoEmit.Collections@0.6.3.6-alpha
 - pkg:nuget/PocoEmit.Collections@0.6.3.7-alpha
 - pkg:nuget/PocoEmit.Collections@0.6.3.8-alpha
+- pkg:nuget/PocoEmit.Collections@0.8.10-alpha
+- pkg:nuget/PocoEmit.Collections@0.8.9-alpha
