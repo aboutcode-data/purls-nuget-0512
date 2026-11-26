@@ -39,3 +39,4 @@
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeRedis@0.0.546
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeRedis@0.0.547
 - pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeRedis@0.0.559
+- pkg:nuget/IGeekFan.AspNetCore.DataProtection.FreeRedis@0.0.562
