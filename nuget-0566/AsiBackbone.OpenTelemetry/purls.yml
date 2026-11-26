@@ -3,3 +3,4 @@
 - pkg:nuget/AsiBackbone.OpenTelemetry@2.2.0
 - pkg:nuget/AsiBackbone.OpenTelemetry@3.0.0
 - pkg:nuget/AsiBackbone.OpenTelemetry@3.2.1
+- pkg:nuget/AsiBackbone.OpenTelemetry@7.5.3
