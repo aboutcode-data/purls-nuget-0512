@@ -1,2 +1,5 @@
 - pkg:nuget/Acmi.FeatureFlags.Client@1.0.0.10
 - pkg:nuget/Acmi.FeatureFlags.Client@1.0.0.11
+- pkg:nuget/Acmi.FeatureFlags.Client@1.0.0.25
+- pkg:nuget/Acmi.FeatureFlags.Client@2.1.0.1
+- pkg:nuget/Acmi.FeatureFlags.Client@2.1.0.5
