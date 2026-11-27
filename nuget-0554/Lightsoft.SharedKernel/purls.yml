@@ -13,3 +13,4 @@
 - pkg:nuget/Lightsoft.SharedKernel@1.10.2
 - pkg:nuget/Lightsoft.SharedKernel@2.0.0-preview.3
 - pkg:nuget/Lightsoft.SharedKernel@2.0.1
+- pkg:nuget/Lightsoft.SharedKernel@2.1.0-preview.1
