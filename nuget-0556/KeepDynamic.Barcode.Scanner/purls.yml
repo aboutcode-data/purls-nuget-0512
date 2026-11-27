@@ -1,3 +1,5 @@
 - pkg:nuget/KeepDynamic.Barcode.Scanner@6.0.0-alpha2
 - pkg:nuget/KeepDynamic.Barcode.Scanner@6.0.0.10
 - pkg:nuget/KeepDynamic.Barcode.Scanner@6.0.0.3
+- pkg:nuget/KeepDynamic.Barcode.Scanner@6.0.0.32
+- pkg:nuget/KeepDynamic.Barcode.Scanner@6.0.0.34
