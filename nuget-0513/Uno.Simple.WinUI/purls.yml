@@ -16,3 +16,6 @@
 - pkg:nuget/Uno.Simple.WinUI@7.2.0-dev.3
 - pkg:nuget/Uno.Simple.WinUI@9.0.0-dev.2
 - pkg:nuget/Uno.Simple.WinUI@9.0.0-dev.34
+- pkg:nuget/Uno.Simple.WinUI@9.0.0-dev.44
+- pkg:nuget/Uno.Simple.WinUI@9.0.0-dev.56
+- pkg:nuget/Uno.Simple.WinUI@9.1.0-dev.4
