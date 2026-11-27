@@ -21,6 +21,7 @@
 - pkg:nuget/Htmx@1.1.0
 - pkg:nuget/Htmx@1.1.1
 - pkg:nuget/Htmx@1.1.3
+- pkg:nuget/Htmx@1.13.0
 - pkg:nuget/Htmx@1.2.0
 - pkg:nuget/Htmx@1.3.0
 - pkg:nuget/Htmx@1.3.1
@@ -36,3 +37,4 @@
 - pkg:nuget/Htmx@1.8.2
 - pkg:nuget/Htmx@1.8.3
 - pkg:nuget/Htmx@1.9.0
+- pkg:nuget/Htmx@2.0.0-preview.2
