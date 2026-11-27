@@ -1,3 +1,5 @@
 - pkg:nuget/Frontmatec.AspNetCore.Portal@0.2.0
 - pkg:nuget/Frontmatec.AspNetCore.Portal@0.2.1
 - pkg:nuget/Frontmatec.AspNetCore.Portal@0.2.5
+- pkg:nuget/Frontmatec.AspNetCore.Portal@0.4.0
+- pkg:nuget/Frontmatec.AspNetCore.Portal@0.5.4
