@@ -8,3 +8,7 @@
 - pkg:nuget/SharpAbp.Abp.Dapper@4.6.6
 - pkg:nuget/SharpAbp.Abp.Dapper@4.6.8
 - pkg:nuget/SharpAbp.Abp.Dapper@4.6.9
+- pkg:nuget/SharpAbp.Abp.Dapper@4.7.10
+- pkg:nuget/SharpAbp.Abp.Dapper@4.7.5
+- pkg:nuget/SharpAbp.Abp.Dapper@4.8.0
+- pkg:nuget/SharpAbp.Abp.Dapper@6.0.1
