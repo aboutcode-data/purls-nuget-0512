@@ -16,3 +16,4 @@
 - pkg:nuget/ktsu.ThemeProvider.ImGui@3.0.3
 - pkg:nuget/ktsu.ThemeProvider.ImGui@3.1.1
 - pkg:nuget/ktsu.ThemeProvider.ImGui@3.1.1-pre.1
+- pkg:nuget/ktsu.ThemeProvider.ImGui@3.2.3-pre.2
