@@ -10,6 +10,7 @@
 - pkg:nuget/SharpOnvifClient@0.1.3
 - pkg:nuget/SharpOnvifClient@0.1.4
 - pkg:nuget/SharpOnvifClient@0.1.5
+- pkg:nuget/SharpOnvifClient@0.11.3
 - pkg:nuget/SharpOnvifClient@0.2.0
 - pkg:nuget/SharpOnvifClient@0.3.0
 - pkg:nuget/SharpOnvifClient@0.4.1
