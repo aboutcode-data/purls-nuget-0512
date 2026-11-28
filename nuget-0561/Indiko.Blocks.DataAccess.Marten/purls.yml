@@ -3,3 +3,5 @@
 - pkg:nuget/Indiko.Blocks.DataAccess.Marten@2.6.2
 - pkg:nuget/Indiko.Blocks.DataAccess.Marten@2.6.3
 - pkg:nuget/Indiko.Blocks.DataAccess.Marten@2.6.4
+- pkg:nuget/Indiko.Blocks.DataAccess.Marten@4.2.0
+- pkg:nuget/Indiko.Blocks.DataAccess.Marten@4.3.0
