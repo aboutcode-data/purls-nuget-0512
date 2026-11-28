@@ -26,3 +26,4 @@
 - pkg:nuget/yocto@2.0.7-alpha
 - pkg:nuget/yocto@2.0.8-alpha
 - pkg:nuget/yocto@2.0.9-alpha
+- pkg:nuget/yocto@3.0.0
