@@ -8,4 +8,5 @@
 - pkg:nuget/Soenneker.HuggingFace.OpenApiClient@11.0.42
 - pkg:nuget/Soenneker.HuggingFace.OpenApiClient@11.0.51
 - pkg:nuget/Soenneker.HuggingFace.OpenApiClient@11.0.52
+- pkg:nuget/Soenneker.HuggingFace.OpenApiClient@11.0.55
 - pkg:nuget/Soenneker.HuggingFace.OpenApiClient@4.0.9
