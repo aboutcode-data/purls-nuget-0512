@@ -1,2 +1,6 @@
+- pkg:nuget/Epsitec.Rezo.Api@11.13.1.2645
+- pkg:nuget/Epsitec.Rezo.Api@11.15.0.2647
+- pkg:nuget/Epsitec.Rezo.Api@11.15.3.2647
+- pkg:nuget/Epsitec.Rezo.Api@11.16.0.2647
 - pkg:nuget/Epsitec.Rezo.Api@11.3.7.2623
 - pkg:nuget/Epsitec.Rezo.Api@11.4.1.2626
