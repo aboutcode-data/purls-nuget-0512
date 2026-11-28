@@ -1,2 +1,5 @@
 - pkg:nuget/AScript@1.2.5
 - pkg:nuget/AScript@1.4.1
+- pkg:nuget/AScript@1.8.2
+- pkg:nuget/AScript@1.9.1
+- pkg:nuget/AScript@1.9.1.1
