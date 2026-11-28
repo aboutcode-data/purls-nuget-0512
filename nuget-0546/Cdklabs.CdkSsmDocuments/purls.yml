@@ -38,3 +38,4 @@
 - pkg:nuget/Cdklabs.CdkSsmDocuments@0.0.50
 - pkg:nuget/Cdklabs.CdkSsmDocuments@0.0.54
 - pkg:nuget/Cdklabs.CdkSsmDocuments@0.0.65
+- pkg:nuget/Cdklabs.CdkSsmDocuments@0.0.82
