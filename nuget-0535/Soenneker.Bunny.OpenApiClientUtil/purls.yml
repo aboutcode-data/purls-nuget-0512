@@ -1,3 +1,11 @@
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.220
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.222
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.231
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.243
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.245
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.257
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.260
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@11.0.263
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.101
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.106
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.110
@@ -9,6 +17,10 @@
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.152
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.170
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.19
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.205
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.209
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.213
+- pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.216
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.3
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.31
 - pkg:nuget/Soenneker.Bunny.OpenApiClientUtil@4.0.51
