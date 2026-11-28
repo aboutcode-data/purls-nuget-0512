@@ -1,6 +1,7 @@
 - pkg:nuget/DIR.Lib.Shaping@10.0.3191%2Bbfa1ef1f26be75743ad02e10f5b49e0813c4d550
 - pkg:nuget/DIR.Lib.Shaping@10.4.3361%2B6106be3dff33d471bdf04f00be8f87e5d2e2b354
 - pkg:nuget/DIR.Lib.Shaping@11.102.9981%2B2c0defd379f253b42a2affee754e87f65a224f96
+- pkg:nuget/DIR.Lib.Shaping@11.104.10231%2Bc474999e0ed7f87cb4bf8342655423ef8502666b
 - pkg:nuget/DIR.Lib.Shaping@11.11.3651%2Beddcb84a44414578038961180c72295907577fa9
 - pkg:nuget/DIR.Lib.Shaping@11.14.3691%2Bfbf5c54144a8a19826abb1edccea8025ce01c234
 - pkg:nuget/DIR.Lib.Shaping@11.15.3701%2Be8fd5e30c1f34c53d7eee0d5f23e03315799072f
