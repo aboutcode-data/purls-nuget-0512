@@ -19,3 +19,6 @@
 - pkg:nuget/SSF.OutBox@2.28.0
 - pkg:nuget/SSF.OutBox@2.48.0
 - pkg:nuget/SSF.OutBox@2.58.0
+- pkg:nuget/SSF.OutBox@2.62.0
+- pkg:nuget/SSF.OutBox@2.64.0
+- pkg:nuget/SSF.OutBox@2.67.0
